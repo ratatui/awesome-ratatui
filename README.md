@@ -35,6 +35,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
+- [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 
 ## 🕹️ Games and Entertainment
 
