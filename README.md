@@ -1,8 +1,14 @@
+<!--lint disable awesome-git-repo-age-->
+
 # Awesome Ratatui [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [<img src="https://github.com/ratatui-org.png" align="right" width="100">](https://ratatui.rs)
 
 Here you will find a list of TUI applications that are made using [`ratatui`](https://crates.io/crates/ratatui) and [`tui`](https://crates.io/crates/tui).
+
+<!--lint disable awesome-toc-->
+
+## Contents
 
 - [💻 Development Tools](#-development-tools)
 - [🕹️ Games and Entertainment](#-games-and-entertainment)
