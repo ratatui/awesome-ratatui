@@ -65,6 +65,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes make target using fuzzy finder with preview window.
 - [tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Journaling/Notes-taking terminal-based app.
 - [atuin](https://github.com/atuinsh/atuin) - Magical shell history.
+- [Rex](https://github.com/TheRustyPickle/Rex) - A TUI for managing Incomes and Expenses.
 
 ## 🎼 Music and Media
 
