@@ -37,6 +37,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+- [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 
 ## 🕹️ Games and Entertainment
 
