@@ -48,6 +48,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [minesweep](https://github.com/cpcloud/minesweep-rs) - Terminal-based Minesweeper game.
 - [rust-sadari-cli](https://github.com/24seconds/rust-sadari-cli) - Rust sadari game based on terminal! (Ghost leg or Amidakuji in another words).
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
+- [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Beautiful visualizations of common maze building and graph searching algorithms.
 
 ## 🚀 Productivity and Utilities
 
