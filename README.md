@@ -76,6 +76,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal.
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
+- [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 
 ## 🌐 Networking and Internet
 
