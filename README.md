@@ -64,6 +64,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) - A terminal-based simple to-do app.
+- [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
 - [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
 - [fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes make target using fuzzy finder with preview window.
 - [tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Journaling/Notes-taking terminal-based app.
