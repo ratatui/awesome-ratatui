@@ -4,19 +4,24 @@
 
 [<img src="https://github.com/ratatui-org.png" align="right" width="100">](https://ratatui.rs)
 
-Here you will find a list of TUI applications that are made using [`ratatui`](https://crates.io/crates/ratatui) and [`tui`](https://crates.io/crates/tui).
+Here you will find a list of TUI crates and applications that are made for or using [`ratatui`](https://crates.io/crates/ratatui) and [`tui`](https://crates.io/crates/tui).
 
 <!--lint disable awesome-toc-->
 
 ## Contents
 
-- [💻 Development Tools](#-development-tools)
-- [🕹️ Games and Entertainment](#-games-and-entertainment)
-- [🚀 Productivity and Utilities](#-productivity-and-utilities)
-- [🎼 Music and Media](#-music-and-media)
-- [🌐 Networking and Internet](#-networking-and-internet)
-- [👨‍💻 System Administration](#-system-administration)
-- [🌌 Other](#-other)
+- [📦 Libraries](#-libraries)
+  - [🏗️ Frameworks](#-frameworks)
+  - [🧩 Widgets](#-widgets)
+  - [🔧 Utilities](#-utilities)
+- [💻 Apps](#-apps)
+  - [⌨️ Development Tools](#-development-tools)
+  - [🕹️ Games and Entertainment](#-games-and-entertainment)
+  - [🚀 Productivity and Utilities](#-productivity-and-utilities)
+  - [🎼 Music and Media](#-music-and-media)
+  - [🌐 Networking and Internet](#-networking-and-internet)
+  - [👨‍💻 System Administration](#-system-administration)
+  - [🌌 Other](#-other)
 
 Aside from those listed here, many other apps and libraries can be easily be found via the reverse dependencies on crates.io and GitHub:
 
@@ -25,7 +30,37 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - https://github.com/ratatui-org/ratatui/network/dependents
 - https://github.com/fdehau/tui-rs/network/dependents?package_id=UGFja2FnZS0zMjE3MzkzMDMx
 
-## 💻 Development Tools
+## 📦 Libraries
+
+### 🏗️ Frameworks
+
+- [tui-react](https://crates.io/crates/tui-react) - TUI widgets using a react-like paradigm.
+- [widgetui](https://crates.io/crates/widgetui) - A bevy-like widget system for ratatui and crossterm.
+
+### 🧩 Widgets
+
+- [ratatui-image](https://crates.io/crates/ratatui-image) - An image widget for ratatui, supporting sixels and unicode-halfblocks.
+- [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor widget for ratatui. Fork of `tui-textarea`.
+- [throbber-widgets-tui](https://crates.io/crates/throbber-widgets-tui) - A widget that displays throbber.
+- [tui-additions](https://crates.io/crates/tui-additions) - Additions to the rust tui crate.
+- [tui-big-text](https://crates.io/crates/tui-big-text) - A simple ratatui widget for displaying big text using the `font8x8` crate.
+- [tui-logger](https://crates.io/crates/tui-logger) - Logger with smart widget for ratatui.
+- [tui-nodes](https://crates.io/crates/tui-nodes) - Node graph visualization.
+- [tui-prompts](https://crates.io/crates/tui-prompts) - A library for building interactive prompts for ratatui.
+- [tui-term](https://crates.io/crates/tui-term) - A pseudoterminal widget for ratatui.
+- [tui-textarea](https://crates.io/crates/tui-textarea) - A simple yet powerful text editor widget for ratatui and tui-rs.
+- [tui-tree-widget](https://crates.io/crates/tui-tree-widget) - Tree widget for ratatui.
+- [tui-widget-list](https://crates.io/crates/tui-widget-list) - A versatile list implementation for ratatui.
+
+### 🔧 Utilities
+
+- [ansi-to-tui](https://crates.io/crates/ansi-to-tui) - A library to convert ansi color coded text into `ratatui::text::Text`.
+- [color-to-tui](https://crates.io/crates/color-to-tui) - Parse colors and convert them to `ratatui::style::Colors`.
+- [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
+
+## 💻 Apps
+
+### ⌨️ Development Tools
 
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
@@ -39,7 +74,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 
-## 🕹️ Games and Entertainment
+### 🕹️ Games and Entertainment
 
 - [Battleship.rs](https://github.com/deepu105/battleship-rs) - Terminal-based Battleship game.
 - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - Terminal-based Chess game.
@@ -50,7 +85,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Beautiful visualizations of common maze building and graph searching algorithms.
 
-## 🚀 Productivity and Utilities
+### 🚀 Productivity and Utilities
 
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
 - [exhaust](https://github.com/heyrict/exhaust) - Exhaust all your possibilities for the next coming exam.
@@ -70,7 +105,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [atuin](https://github.com/atuinsh/atuin) - Magical shell history.
 - [Rex](https://github.com/TheRustyPickle/Rex) - A TUI for managing Incomes and Expenses.
 
-## 🎼 Music and Media
+### 🎼 Music and Media
 
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal.
@@ -78,7 +113,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 
-## 🌐 Networking and Internet
+### 🌐 Networking and Internet
 
 - [adsb_deku/radar](https://github.com/wcampbell0x2a/adsb_deku#radar-tui) - TUI for displaying ADS-B data from aircraft.
 - [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - Real-time traffic monitoring and statistics for AdGuard Home.
@@ -95,7 +130,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
 - [CuTE](https://github.com/PThorpe92/CuTE) - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
 
-## 👨‍💻 System Administration
+### 👨‍💻 System Administration
 
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
@@ -110,7 +145,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
 
-## 🌌 Other
+### 🌌 Other
 
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
