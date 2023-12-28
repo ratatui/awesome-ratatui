@@ -62,17 +62,18 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### ⌨️ Development Tools
 
+- [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
+- [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
+- [material](https://github.com/azorng/material) - A material design color palette for the terminal
+- [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
+- [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
-- [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
-- [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
-- [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
-- [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 
 ### 🕹️ Games and Entertainment
 
