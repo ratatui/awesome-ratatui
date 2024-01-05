@@ -146,6 +146,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
+- [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
 
 ### 🌌 Other
 
