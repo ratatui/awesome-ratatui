@@ -56,6 +56,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [ansi-to-tui](https://crates.io/crates/ansi-to-tui) - A library to convert ansi color coded text into `ratatui::text::Text`.
 - [color-to-tui](https://crates.io/crates/color-to-tui) - Parse colors and convert them to `ratatui::style::Colors`.
+- [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
 
 ## 💻 Apps
