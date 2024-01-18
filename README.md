@@ -157,6 +157,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
 - [hwatch](https://github.com/blacknon/hwatch) - Alternative watch command with command history and diffs.
+- [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
