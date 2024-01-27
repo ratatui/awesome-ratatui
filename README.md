@@ -161,3 +161,4 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
+- [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
