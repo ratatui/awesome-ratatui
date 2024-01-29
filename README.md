@@ -108,6 +108,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Journaling/Notes-taking terminal-based app.
 - [atuin](https://github.com/atuinsh/atuin) - Magical shell history.
 - [Rex](https://github.com/TheRustyPickle/Rex) - A TUI for managing Incomes and Expenses.
+- [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal built with ❤️ in Rust
 
 ### 🎼 Music and Media
 
