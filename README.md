@@ -90,6 +90,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Beautiful visualizations of common maze building and graph searching algorithms.
 - [wordl](https://github.com/palerdot/wordl-rs) - Terminal-based Wordle game. Web like experience with keyboard hints and guess reveal animations.
 - [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
+- [enimtui](https://codeberg.org/tranzystorekk/enimtui) - Terminal-based minesweeper knockoff.
 
 ### 🚀 Productivity and Utilities
 
