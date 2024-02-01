@@ -2,3 +2,4 @@
 
 [default.extend-words]
 ratatui = "ratatui"
+wordl = "wordl"
