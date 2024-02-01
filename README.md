@@ -59,6 +59,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [color-to-tui](https://crates.io/crates/color-to-tui) - Parse colors and convert them to `ratatui::style::Colors`.
 - [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
+- [coolor](https://github.com/Canop/coolor) - Tiny color conversion library for TUI application builders.
 
 ## 💻 Apps
 
