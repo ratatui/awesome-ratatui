@@ -87,6 +87,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rust-sadari-cli](https://github.com/24seconds/rust-sadari-cli) - Rust sadari game based on terminal! (Ghost leg or Amidakuji in another words).
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Beautiful visualizations of common maze building and graph searching algorithms.
+- [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
 
 ### 🚀 Productivity and Utilities
 
