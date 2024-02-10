@@ -131,6 +131,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [conclusive](https://github.com/mrusme/conclusive) - A command line client for Plausible Analytics.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
+- [netscanner](https://github.com/Chleba/netscanner) - WiFi Networks scanner.
 - [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
 - [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
 - [termscp](https://github.com/veeso/termscp) - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
