@@ -139,6 +139,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tsuchita](https://github.com/kamiyaa/tsuchita) - Client-server notification center for dbus desktop notifications.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
+- [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
 - [CuTE](https://github.com/PThorpe92/CuTE) - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
 
 ### 👨‍💻 System Administration
