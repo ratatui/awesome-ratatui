@@ -118,6 +118,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Rex](https://github.com/TheRustyPickle/Rex) - A TUI for managing Incomes and Expenses.
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
+- [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
 
 ### 🎼 Music and Media
 
