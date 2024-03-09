@@ -119,6 +119,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
+- [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 
 ### 🎼 Music and Media
 
