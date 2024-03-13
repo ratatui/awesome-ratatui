@@ -179,3 +179,4 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
+- [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
