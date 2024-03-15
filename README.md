@@ -94,7 +94,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wordl](https://github.com/palerdot/wordl-rs) - Terminal-based Wordle game. Web like experience with keyboard hints and guess reveal animations.
 - [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
 - [enimtui](https://codeberg.org/tranzystorekk/enimtui) - Terminal-based minesweeper knockoff.
-- [ssHattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH. 
+- [ssHattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
+- [a-puzzle-a-day](https://github.com/mrbjarksen/a-puzzle-a-day) - Generate and browse all solutions to A-Puzzle-A-Day.
 
 ### 🚀 Productivity and Utilities
 
