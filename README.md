@@ -55,6 +55,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-tree-widget](https://crates.io/crates/tui-tree-widget) - Tree widget for ratatui.
 - [tui-widget-list](https://crates.io/crates/tui-widget-list) - A versatile list implementation for ratatui.
 - [edtui](https://github.com/preiter93/edtui) - A TUI based vim-inspired editor widget for ratatui.
+- [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
 
 ### 🔧 Utilities
 
