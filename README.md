@@ -123,6 +123,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
+- [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
 
 ### 🎼 Music and Media
 
