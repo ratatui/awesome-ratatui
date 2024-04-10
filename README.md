@@ -36,6 +36,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [tui-react](https://crates.io/crates/tui-react) - TUI widgets using a react-like paradigm.
 - [widgetui](https://crates.io/crates/widgetui) - A bevy-like widget system for ratatui and crossterm.
+- [rlt](https://crates.io/crates/rlt) - A universal load testing framework for Rust, with real-time tui support.
 
 ### 🧩 Widgets
 
