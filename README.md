@@ -83,7 +83,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
-- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made with the lovely ratatui. ATAC is free, open-source, offline and account-less.
+- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
 
 ### 🕹️ Games and Entertainment
 
