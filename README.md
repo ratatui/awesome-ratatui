@@ -171,6 +171,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
 - [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging.
 
 ### 🌌 Other
 
