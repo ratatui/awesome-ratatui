@@ -104,6 +104,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🚀 Productivity and Utilities
 
+- [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
 - [exhaust](https://github.com/heyrict/exhaust) - Exhaust all your possibilities for the next coming exam.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!.
