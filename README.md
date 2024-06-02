@@ -130,6 +130,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
+- [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 
 ### 🎼 Music and Media
 
