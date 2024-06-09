@@ -85,6 +85,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
+- [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 
 ### 🕹️ Games and Entertainment
 
