@@ -187,6 +187,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
 - [hwatch](https://github.com/blacknon/hwatch) - Alternative watch command with command history and diffs.
 - [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
+- [lpl](https://github.com/SOF3/lpl) - Command-line plotting for real-time CSV and JSON streams.
 - [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
