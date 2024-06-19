@@ -77,6 +77,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
+- [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
