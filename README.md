@@ -105,6 +105,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ssHattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
 - [a-puzzle-a-day](https://github.com/mrbjarksen/a-puzzle-a-day) - Generate and browse all solutions to A-Puzzle-A-Day.
 - [Snake](https://github.com/kriskw1999/ratatui-snake) - Simple terminal based snake game.
+- [sxtetris](https://github.com/shixinhuang99/sxtetris) - A terminal Tetris game.
 
 ### 🚀 Productivity and Utilities
 
