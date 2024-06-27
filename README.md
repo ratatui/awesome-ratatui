@@ -97,6 +97,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
+- [Ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing docker containers, inpired by K9s
 
 ### 🕹️ Games and Entertainment
 
