@@ -39,6 +39,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rlt](https://crates.io/crates/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [tui-realm](https://crates.io/crates/tuirealm) - A ratatui framework inspired by Elm and React.
 - [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe.
+- [bevy_ratatui_render](https://github.com/cxreiff/bevy_ratatui_render) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
 
 ### 🧩 Widgets
 
@@ -59,6 +60,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-widget-list](https://crates.io/crates/tui-widget-list) - A versatile list implementation for ratatui.
 - [edtui](https://github.com/preiter93/edtui) - A TUI based vim-inspired editor widget for ratatui.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
+- [tui-menu](https://github.com/shuoli84/tui-menu) - A menu widget for ratatui ecosystem.
 
 ### 🔧 Utilities
 
@@ -68,6 +70,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tachyonfx](https://github.com/junkdog/tachyonfx) - A shader-like effects library for ratatui.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
 - [coolor](https://github.com/Canop/coolor) - Tiny color conversion library for TUI application builders.
+- [bevy_ratatui](https://github.com/joshka/bevy_ratatui) - A rust crate to use Ratatui in a Bevy App.
 
 ## 💻 Apps
 
@@ -77,6 +80,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
+- [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
@@ -90,6 +94,9 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [Serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
+- [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
+- [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
+- [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 
 ### 🕹️ Games and Entertainment
 
@@ -109,6 +116,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Snake](https://github.com/kriskw1999/ratatui-snake) - Simple terminal based snake game.
 - [sxtetris](https://github.com/shixinhuang99/sxtetris) - A terminal Tetris game.
 - [tage](https://github.com/jacopograndi/tage) - Turn based strategy game with multiplayer, empires and warfare.
+- [astray](https://github.com/Vinermy/astray) - TUI-based space strategy game.
 
 ### 🚀 Productivity and Utilities
 
@@ -139,6 +147,16 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
+- [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
+- [tui-slides](https://github.com/Chleba/tui-slides) - Terminal presentation program with modern TUI.
+- [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
+- [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
+- [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
+- [blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app.
+- [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
+- [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
+- [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
 
 ### 🎼 Music and Media
 
@@ -147,6 +165,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
+- [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
 
 ### 🌐 Networking and Internet
 
@@ -167,6 +186,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
 - [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
 - [CuTE](https://github.com/PThorpe92/CuTE) - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
+- [discovery-rs](https://github.com/JustPretender/discovery-rs) - An utility to discover mDNS services on your network.
+- [terminusdm](https://github.com/sumoduduk/terminusdm) - Cross Platform Terminal Download Manager.
 
 ### 👨‍💻 System Administration
 
@@ -186,6 +207,11 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging.
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance monitoring for Apple Silicon processors.
+- [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing docker containers, inspired by K9s.
+- [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
+- [bpftop](https://github.com/Netflix/bpftop) - Dynamic real-time view of running eBPF programs.
+- [systemctl-tui](https://github.com/rgwood/systemctl-tui) -  A fast, simple TUI for interacting with systemd services and their logs.
+- [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 
 ### 🌌 Other
 
@@ -203,3 +229,4 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
+- [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
