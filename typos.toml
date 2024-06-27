@@ -3,3 +3,4 @@
 [default.extend-words]
 ratatui = "ratatui"
 wordl = "wordl"
+tage = "tage"
