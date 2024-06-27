@@ -156,6 +156,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
+- [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 
 ### 🎼 Music and Media
 
