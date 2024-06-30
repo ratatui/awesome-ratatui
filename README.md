@@ -158,6 +158,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
+- [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
 
 ### 🎼 Music and Media
 
@@ -211,7 +212,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing docker containers, inspired by K9s.
 - [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
 - [bpftop](https://github.com/Netflix/bpftop) - Dynamic real-time view of running eBPF programs.
-- [systemctl-tui](https://github.com/rgwood/systemctl-tui) -  A fast, simple TUI for interacting with systemd services and their logs.
+- [systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs.
 - [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 
 ### 🌌 Other
