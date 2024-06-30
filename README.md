@@ -117,6 +117,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sxtetris](https://github.com/shixinhuang99/sxtetris) - A terminal Tetris game.
 - [tage](https://github.com/jacopograndi/tage) - Turn based strategy game with multiplayer, empires and warfare.
 - [astray](https://github.com/Vinermy/astray) - TUI-based space strategy game.
+- [bigbrainwordle](https://github.com/kloki/bigbrainwordle) - A tool to help you cheat with the daily wordle.
 
 ### 🚀 Productivity and Utilities
 
