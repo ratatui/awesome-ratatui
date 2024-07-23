@@ -158,6 +158,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
+- [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 
 ### 🎼 Music and Media
 
