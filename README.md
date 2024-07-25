@@ -176,6 +176,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bandwhich](https://github.com/imsnif/bandwhich) - Displays network utilization by process.
 - [conclusive](https://github.com/mrusme/conclusive) - A command line client for Plausible Analytics.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
+- [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
 - [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
 - [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
