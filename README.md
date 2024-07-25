@@ -117,6 +117,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sxtetris](https://github.com/shixinhuang99/sxtetris) - A terminal Tetris game.
 - [tage](https://github.com/jacopograndi/tage) - Turn based strategy game with multiplayer, empires and warfare.
 - [astray](https://github.com/Vinermy/astray) - TUI-based space strategy game.
+- [bigbrainwordle](https://github.com/kloki/bigbrainwordle) - A tool to help you cheat with the daily wordle.
 
 ### 🚀 Productivity and Utilities
 
@@ -159,6 +160,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
+- [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 
 ### 🎼 Music and Media
 
@@ -176,6 +178,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bandwhich](https://github.com/imsnif/bandwhich) - Displays network utilization by process.
 - [conclusive](https://github.com/mrusme/conclusive) - A command line client for Plausible Analytics.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
+- [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
 - [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
 - [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
