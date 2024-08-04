@@ -213,7 +213,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control docker containers.
 - [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon.
-- [systemctl-tui](https://github.com/rgwood/systemctl-tui) -  A fast, simple TUI for interacting with systemd services and their logs.
+- [systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs.
 - [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
 - [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
