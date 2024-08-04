@@ -79,6 +79,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
+- [cargo-selector](https://github.com/lusingander/cargo-selector) - Cargo subcommand to select and execute binary/example targets.
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
