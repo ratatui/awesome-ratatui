@@ -198,7 +198,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
 - [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
-- [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client
+- [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
 
 ### 👨‍💻 System Administration
 
