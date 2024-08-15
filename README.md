@@ -242,3 +242,4 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
+- [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
