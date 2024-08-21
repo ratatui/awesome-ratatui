@@ -2,7 +2,7 @@
 
 # Awesome Ratatui [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-[<img src="https://github.com/ratatui-org.png" align="right" width="100">](https://ratatui.rs)
+[<img src="https://github.com/ratatui.png" align="right" width="100">](https://ratatui.rs)
 
 Here you will find a list of TUI crates and applications that are made for or using [`ratatui`](https://crates.io/crates/ratatui) and [`tui`](https://crates.io/crates/tui).
 
@@ -27,7 +27,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - <https://crates.io/crates/ratatui/reverse_dependencies>
 - <https://crates.io/crates/tui/reverse_dependencies>
-- <https://github.com/ratatui-org/ratatui/network/dependents>
+- <https://github.com/ratatui/ratatui/network/dependents>
 - <https://github.com/fdehau/tui-rs/network/dependents?package_id=UGFja2FnZS0zMjE3MzkzMDMx>
 
 ## 📦 Libraries
