@@ -141,6 +141,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
+- [kftui](https://github.com/hcavarsan/kftray) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
