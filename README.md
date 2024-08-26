@@ -210,6 +210,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing docker containers, inspired by K9s.
 - [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
+- [kftui](https://github.com/hcavarsan/kftray/blob/main/README.md#kftui) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [kubectl-watch](https://github.com/imuxin/kubectl-watch) - A kubectl plugin to provide a pretty delta change view of being watched kubernetes resources.
 - [kubetui](https://github.com/sarub0b0/kubetui) - TUI for real-time monitoring of Kubernetes resources.
