@@ -122,6 +122,39 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
 - [wordl](https://github.com/palerdot/wordl-rs) - Terminal-based Wordle game. Web like experience with keyboard hints and guess reveal animations.
 
+### 🎼 Music and Media
+
+- [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
+- [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
+- [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal.
+- [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
+- [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
+- [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
+
+### 🌐 Networking and Internet
+
+- [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - Real-time traffic monitoring and statistics for AdGuard Home.
+- [adsb_deku/radar](https://github.com/wcampbell0x2a/adsb_deku#radar-tui) - TUI for displaying ADS-B data from aircraft.
+- [bandwhich](https://github.com/imsnif/bandwhich) - Displays network utilization by process.
+- [conclusive](https://github.com/mrusme/conclusive) - A command line client for Plausible Analytics.
+- [CuTE](https://github.com/PThorpe92/CuTE) - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
+- [discovery-rs](https://github.com/JustPretender/discovery-rs) - An utility to discover mDNS services on your network.
+- [gping](https://github.com/orf/gping/) - Ping tool with a graph.
+- [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
+- [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
+- [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
+- [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
+- [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
+- [rustmission](https://codeberg.org/micielski/rustmission) - TUI for the Transmission daemon.
+- [terminusdm](https://github.com/sumoduduk/terminusdm) - Cross Platform Terminal Download Manager.
+- [termscp](https://github.com/veeso/termscp) - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
+- [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
+- [tsuchita](https://github.com/kamiyaa/tsuchita) - Client-server notification center for dbus desktop notifications.
+- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
+- [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
+
 ### 🚀 Productivity and Utilities
 
 - [atuin](https://github.com/atuinsh/atuin) - Magical shell history.
@@ -156,7 +189,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
-- [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 - [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
 - [tickrs](https://github.com/tarkah/tickrs) - Stock market ticker in the terminal.
 - [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) - A terminal-based simple to-do app.
@@ -167,39 +199,14 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 
-### 🎼 Music and Media
+### 🤡 Social Media
 
-- [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
-- [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
-- [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal.
-- [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
-- [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
-- [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
-
-### 🌐 Networking and Internet
-
-- [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - Real-time traffic monitoring and statistics for AdGuard Home.
-- [adsb_deku/radar](https://github.com/wcampbell0x2a/adsb_deku#radar-tui) - TUI for displaying ADS-B data from aircraft.
-- [bandwhich](https://github.com/imsnif/bandwhich) - Displays network utilization by process.
-- [conclusive](https://github.com/mrusme/conclusive) - A command line client for Plausible Analytics.
-- [CuTE](https://github.com/PThorpe92/CuTE) - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
-- [discovery-rs](https://github.com/JustPretender/discovery-rs) - An utility to discover mDNS services on your network.
-- [gping](https://github.com/orf/gping/) - Ping tool with a graph.
-- [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
-- [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
-- [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
-- [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
-- [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
-- [rustmission](https://codeberg.org/micielski/rustmission) - TUI for the Transmission daemon.
-- [terminusdm](https://github.com/sumoduduk/terminusdm) - Cross Platform Terminal Download Manager.
-- [termscp](https://github.com/veeso/termscp) - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
-- [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
-- [tsuchita](https://github.com/kamiyaa/tsuchita) - Client-server notification center for dbus desktop notifications.
-- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
-- [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
 - [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
+- [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
+- [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
+- [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
+- [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
+- [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
 
 ### 👨‍💻 System Administration
 
@@ -234,14 +241,10 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
 - [hwatch](https://github.com/blacknon/hwatch) - Alternative watch command with command history and diffs.
-- [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
-- [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 - [lpl](https://github.com/SOF3/lpl) - Command-line plotting for real-time CSV and JSON streams.
 - [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
-- [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
-- [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
