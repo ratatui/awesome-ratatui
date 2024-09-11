@@ -161,6 +161,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [atuin](https://github.com/atuinsh/atuin) - Magical shell history.
 - [basilk](https://github.com/GabAlpha/basilk) - A TUI to manage your tasks with minimal kanban logic.
+- [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binary files.
 - [blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app.
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
