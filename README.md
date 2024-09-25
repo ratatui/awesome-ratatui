@@ -175,6 +175,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!.
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
+- [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc..
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
