@@ -114,6 +114,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Beautiful visualizations of common maze building and graph searching algorithms.
 - [minesweep](https://github.com/cpcloud/minesweep-rs) - Terminal-based Minesweeper game.
 - [oxycards](https://github.com/BrookJeynes/oxycards) - Quiz card application built within the terminal.
+- [private_poker](https://github.com/theOGognf/private_poker) - A poker library, server, client, and TUI.
 - [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
 - [rust-sadari-cli](https://github.com/24seconds/rust-sadari-cli) - Rust sadari game based on terminal! (Ghost leg or Amidakuji in another words).
 - [Snake](https://github.com/kriskw1999/ratatui-snake) - Simple terminal based snake game.
