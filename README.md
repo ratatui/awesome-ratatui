@@ -255,3 +255,4 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
+- [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations.
