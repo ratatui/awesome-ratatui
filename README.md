@@ -199,6 +199,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
+- [television](https://github.com/alexpasmantier/television) - A blazingly fast general purpose fuzzy finder for your terminal.
 - [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
 - [tickrs](https://github.com/tarkah/tickrs) - Stock market ticker in the terminal.
 - [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) - A terminal-based simple to-do app.
