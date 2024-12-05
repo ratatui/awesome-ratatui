@@ -152,6 +152,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
 - [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
+- [nordvpn-tui](https://github.com/Degra02/nordvpn-tui) - A TUI for NordVPN.
 - [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
 - [oryx](https://github.com/pythops/oryx) - A TUI for sniffing network traffic using eBPF.
 - [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
