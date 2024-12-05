@@ -198,6 +198,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rusty-krab-manager](https://github.com/aryakaul/rusty-krab-manager) - Rime management TUI in Rust.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
+- [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
 - [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
