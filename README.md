@@ -174,6 +174,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
+- [exabind](https://github.com/junkdog/exabind) - An animated TUI for viewing KDE shortcuts.
 - [exhaust](https://github.com/heyrict/exhaust) - Exhaust all your possibilities for the next coming exam.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
 - [fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes make target using fuzzy finder with preview window.
