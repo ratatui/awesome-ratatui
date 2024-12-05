@@ -57,6 +57,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-nodes](https://crates.io/crates/tui-nodes) - Node graph visualization.
 - [tui-popup](https://github.com/joshka/tui-popup) - A Popup widget for Ratatui.
 - [tui-prompts](https://crates.io/crates/tui-prompts) - A library for building interactive prompts for ratatui.
+- [tui-rain](https://github.com/levilutz/tui-rain) - A widget to generate various rain effects.
 - [tui-term](https://crates.io/crates/tui-term) - A pseudoterminal widget for ratatui.
 - [tui-textarea](https://crates.io/crates/tui-textarea) - A simple yet powerful text editor widget for ratatui and tui-rs.
 - [tui-tree-widget](https://crates.io/crates/tui-tree-widget) - Tree widget for ratatui.
