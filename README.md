@@ -39,6 +39,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rlt](https://crates.io/crates/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [tui-react](https://crates.io/crates/tui-react) - TUI widgets using a react-like paradigm.
 - [tui-realm](https://crates.io/crates/tuirealm) - A ratatui framework inspired by Elm and React.
+- [webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps.
 - [widgetui](https://crates.io/crates/widgetui) - A bevy-like widget system for ratatui and crossterm.
 
 ### 🧩 Widgets
