@@ -270,4 +270,5 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
 - [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations.
+- [tracker](https://github.com/ShenMian/tracker) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ttysvr](https://github.com/cxreiff/ttysvr) - Screen saver for your terminal.
