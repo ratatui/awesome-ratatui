@@ -209,6 +209,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [television](https://github.com/alexpasmantier/television) - A blazingly fast general purpose fuzzy finder for your terminal.
 - [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
 - [tickrs](https://github.com/tarkah/tickrs) - Stock market ticker in the terminal.
+- [tim:r](https://github.com/sectore/timr) - A TUI for organizing your time: Pomodoro, Countdown, Timer.
 - [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) - A terminal-based simple to-do app.
 - [tts-tui](https://github.com/lesleyrs/tts-tui) - Text to speech app that reads from clipboard.
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
