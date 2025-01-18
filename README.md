@@ -131,6 +131,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🎼 Music and Media
 
+- [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
