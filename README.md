@@ -133,6 +133,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
+- [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing all your Servarrs.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (DEPRECATED; See `spotify-player`) Spotify client for the terminal.
