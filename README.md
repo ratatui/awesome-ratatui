@@ -111,6 +111,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [astray](https://github.com/Vinermy/astray) - TUI-based space strategy game.
 - [Battleship.rs](https://github.com/deepu105/battleship-rs) - Terminal-based Battleship game.
 - [bigbrainwordle](https://github.com/kloki/bigbrainwordle) - A tool to help you cheat with the daily wordle.
+- [chessterm](https://github.com/ronaldsuwandi/chessterm) - A Rust-powered chess engine in a terminal.
 - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - Terminal-based Chess game.
 - [enimtui](https://codeberg.org/tranzystorekk/enimtui) - Terminal-based minesweeper knockoff.
 - [cgol-tui](https://github.com/jeromeschmied/cgol-tui-rs) - Conway's Game of Life viewer with a TUI in Rust.
