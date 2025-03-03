@@ -161,6 +161,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [oryx](https://github.com/pythops/oryx) - A TUI for sniffing network traffic using eBPF.
 - [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
 - [rustmission](https://codeberg.org/micielski/rustmission) - TUI for the Transmission daemon.
+- [sensor-vision](https://github.com/jcfromsiberia/sensor-vision) - TUI Client for TeamViewer IoT MQTT API for managing IoT Sensors and Metrics.
 - [terminusdm](https://github.com/sumoduduk/terminusdm) - Cross Platform Terminal Download Manager.
 - [termscp](https://github.com/veeso/termscp) - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
 - [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
