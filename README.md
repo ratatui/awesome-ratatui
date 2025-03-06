@@ -261,6 +261,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
+- [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 
 ### 🌌 Other
 
