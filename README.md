@@ -276,6 +276,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
 - [hncli](https://github.com/pierreyoda/hncli) - Hacker News read-only TUI.
 - [hwatch](https://github.com/blacknon/hwatch) - Alternative watch command with command history and diffs.
+- [kanash](https://github.com/benoitlx/kanash) - Learn Kana in your terminal.
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
 - [lpl](https://github.com/SOF3/lpl) - Command-line plotting for real-time CSV and JSON streams.
 - [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
