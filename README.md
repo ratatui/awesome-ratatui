@@ -40,6 +40,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-uefi](https://github.com/reubeno/tui-uefi) - A ratatui backend for use in UEFI environments.
 - [ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Ratatui and WebAssembly.
 - [rlt](https://crates.io/crates/rlt) - A universal load testing framework for Rust, with real-time tui support.
+- [soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - A software rendering backend for ratatui. No GPU required. TUI everywhere.
 - [tui-react](https://crates.io/crates/tui-react) - TUI widgets using a react-like paradigm.
 - [tui-realm](https://crates.io/crates/tuirealm) - A ratatui framework inspired by Elm and React.
 - [webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps.
