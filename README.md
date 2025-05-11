@@ -101,6 +101,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
+- [scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal.
 - [serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal.
 - [Serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
