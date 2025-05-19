@@ -141,6 +141,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🎼 Music and Media
 
 - [angry-duiker](https://gitlab.com/fizzizist/angry-duiker-2) - A TUI for streaming music from a DLNA server.
+- [bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - A TUI for bytebeat.
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing all your Servarrs.
