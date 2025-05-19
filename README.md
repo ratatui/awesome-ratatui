@@ -151,6 +151,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
 - [angry-duiker](https://gitlab.com/fizzizist/angry-duiker-2) - A TUI for streaming music from a DLNA server.
+- [oosc-rs](https://github.com/karasikq/oosc-rs) - An additive wavetable synthesizer for terminal.
 
 ### 🌐 Networking and Internet
 
