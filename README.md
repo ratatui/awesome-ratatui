@@ -119,6 +119,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bigbrainwordle](https://github.com/kloki/bigbrainwordle) - A tool to help you cheat with the daily wordle.
 - [chessterm](https://github.com/ronaldsuwandi/chessterm) - A Rust-powered chess engine in a terminal.
 - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - Terminal-based Chess game.
+- [crosstui](https://github.com/matrixfrog/crossword) - Terminal-based crossword puzzle player.
 - [enimtui](https://codeberg.org/tranzystorekk/enimtui) - Terminal-based minesweeper knockoff.
 - [cgol-tui](https://github.com/jeromeschmied/cgol-tui-rs) - Conway's Game of Life viewer with a TUI in Rust.
 - [game-of-life-rs](https://github.com/kachark/game-of-life-rs) - Conway's Game of Life implemented in Rust and visualized with tui-rs.
