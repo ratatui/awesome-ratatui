@@ -224,6 +224,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
 - [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
+- [tatuin](https://github.com/panter-dsd/tatuin) - Task Aggregator TUI for N providers.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
 - [television](https://github.com/alexpasmantier/television) - A blazingly fast general purpose fuzzy finder for your terminal.
 - [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
