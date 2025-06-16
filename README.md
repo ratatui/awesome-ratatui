@@ -238,6 +238,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [vault-tasks](https://github.com/louis-thevenet/vault-tasks) - TUI Markdown Task Manager.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
+- [tatuin](https://github.com/panter-dsd/tatuin) - Task Aggregator TUI for N providers.
 
 ### 🤡 Social Media
 
