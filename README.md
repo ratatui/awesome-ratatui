@@ -273,6 +273,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon.
 - [qmassa!](https://github.com/ulissesf/qmassa) - Displays GPU devices usage stats on Linux.
 - [systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs.
+- [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI.
 - [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
 - [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
