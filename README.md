@@ -136,6 +136,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ssHattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
 - [sxtetris](https://github.com/shixinhuang99/sxtetris) - A terminal Tetris game.
 - [tage](https://github.com/jacopograndi/tage) - Turn based strategy game with multiplayer, empires and warfare.
+- [terminal.pong](https://github.com/IshmamR/terminal.pong) - Terminal based ping pong game.
 - [Thardians](https://gitlab.com/thustle/thardians-rs) - Space Invaders for the terminal.
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
 - [wordl](https://github.com/palerdot/wordl-rs) - Terminal-based Wordle game. Web like experience with keyboard hints and guess reveal animations.
