@@ -287,6 +287,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
+- [fractouille](https://github.com/PottierLoic/Fractouille) - A simple fractal explorer running in your terminal.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
 - [hncli](https://github.com/pierreyoda/hncli) - Hacker News read-only TUI.
 - [hwatch](https://github.com/blacknon/hwatch) - Alternative watch command with command history and diffs.
@@ -296,6 +297,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
+- [rsfrac](https://github.com/SkwalExe/rsfrac) - Terminal based fractal explorer, including Mandelbrot, Burning Ship, and Julia.
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
 - [tgv](https://github.com/zeqianli/tgv) - Explore human genomes in the terminal.
