@@ -37,6 +37,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
 - [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe.
 - [mousefood](https://github.com/j-g00da/mousefood) - An embedded-graphics backend for Ratatui.
+- [ratatui-minecraft](https://github.com/janTatesa/ratatui-minecraft) - A ratatui backend that uses [valence-screens](https://github.com/White-145/valence-screens)
 - [ratatui-uefi](https://github.com/reubeno/tui-uefi) - A ratatui backend for use in UEFI environments.
 - [ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
 - [ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Ratatui and WebAssembly.
@@ -209,7 +210,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
-- [kraban](https://github.com/TadoTheMiner/kraban) - Rust kanban board tui inspired by basilk.
+- [kraban](https://github.com/janTatesa/kraban) - Rust kanban board tui inspired by basilk.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
