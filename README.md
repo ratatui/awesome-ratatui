@@ -53,6 +53,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [edtui](https://github.com/preiter93/edtui) - A TUI based vim-inspired editor widget for ratatui.
 - [ratatui-explorer](https://github.com/tatounee/ratatui-explorer) - A simple library for creating file explorer for ratatui.
 - [ratatui-image](https://crates.io/crates/ratatui-image) - An image widget for ratatui, supporting sixels and unicode-halfblocks.
+- [ratatui-fretboard](https://crates.io/crates/ratatui-fretboard) - A widget for displaying musical note positions on a fretboard.
 - [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A widget to turn any image to a splash screen.
 - [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor widget for ratatui. Fork of `tui-textarea`.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
