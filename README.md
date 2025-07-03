@@ -155,6 +155,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - An additive wavetable synthesizer for terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
+- [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
 - [spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (DEPRECATED; See `spotify-player`) Spotify client for the terminal.
