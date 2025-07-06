@@ -298,6 +298,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
 - [lpl](https://github.com/SOF3/lpl) - Command-line plotting for real-time CSV and JSON streams.
 - [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
+- [mlbt](https://github.com/mlb-rs/mlbt) - A tui for the MLB Statcast API. Watch a live game using Gameday, or check scores, standings, and stats.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [rsfrac](https://github.com/SkwalExe/rsfrac) - Terminal based fractal explorer, including Mandelbrot, Burning Ship, and Julia.
