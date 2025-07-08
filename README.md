@@ -10,18 +10,21 @@ Here you will find a list of TUI crates and applications that are made for or us
 
 ## Contents
 
-- [📦 Libraries](#-libraries)
-  - [🏗️ Frameworks](#%EF%B8%8F-frameworks)
-  - [🧩 Widgets](#-widgets)
-  - [🔧 Utilities](#-utilities)
-- [💻 Apps](#-apps)
-  - [⌨️ Development Tools](#%EF%B8%8F-development-tools)
-  - [🕹️ Games and Entertainment](#%EF%B8%8F-games-and-entertainment)
-  - [🚀 Productivity and Utilities](#-productivity-and-utilities)
-  - [🎼 Music and Media](#-music-and-media)
-  - [🌐 Networking and Internet](#-networking-and-internet)
-  - [👨‍💻 System Administration](#-system-administration)
-  - [🌌 Other](#-other)
+- [Awesome Ratatui ](#awesome-ratatui-)
+  - [Contents](#contents)
+  - [📦 Libraries](#-libraries)
+    - [🏗️ Frameworks](#️-frameworks)
+    - [🧩 Widgets](#-widgets)
+    - [🔧 Utilities](#-utilities)
+  - [💻 Apps](#-apps)
+    - [⌨️ Development Tools](#️-development-tools)
+    - [🕹️ Games and Entertainment](#️-games-and-entertainment)
+    - [🎼 Music and Media](#-music-and-media)
+    - [🌐 Networking and Internet](#-networking-and-internet)
+    - [🚀 Productivity and Utilities](#-productivity-and-utilities)
+    - [🤡 Social Media](#-social-media)
+    - [👨‍💻 System Administration](#-system-administration)
+    - [🌌 Other](#-other)
 
 Aside from those listed here, many other apps and libraries can be easily be found via the reverse dependencies on crates.io and GitHub:
 
@@ -301,6 +304,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mlbt](https://github.com/mlb-rs/mlbt) - A tui for the MLB Statcast API. Watch a live game using Gameday, or check scores, standings, and stats.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
+- [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
 - [rsfrac](https://github.com/SkwalExe/rsfrac) - Terminal based fractal explorer, including Mandelbrot, Burning Ship, and Julia.
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
