@@ -10,7 +10,7 @@ Here you will find a list of TUI crates and applications that are made for or us
 
 ## Contents
 
-- [Awesome Ratatui ](#awesome-ratatui-)
+- [Awesome Ratatui](#awesome-ratatui-)
   - [Contents](#contents)
   - [📦 Libraries](#-libraries)
     - [🏗️ Frameworks](#️-frameworks)
