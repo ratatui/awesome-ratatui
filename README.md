@@ -10,21 +10,18 @@ Here you will find a list of TUI crates and applications that are made for or us
 
 ## Contents
 
-- [Awesome Ratatui](#awesome-ratatui-)
-  - [Contents](#contents)
-  - [📦 Libraries](#-libraries)
-    - [🏗️ Frameworks](#️-frameworks)
-    - [🧩 Widgets](#-widgets)
-    - [🔧 Utilities](#-utilities)
-  - [💻 Apps](#-apps)
-    - [⌨️ Development Tools](#️-development-tools)
-    - [🕹️ Games and Entertainment](#️-games-and-entertainment)
-    - [🎼 Music and Media](#-music-and-media)
-    - [🌐 Networking and Internet](#-networking-and-internet)
-    - [🚀 Productivity and Utilities](#-productivity-and-utilities)
-    - [🤡 Social Media](#-social-media)
-    - [👨‍💻 System Administration](#-system-administration)
-    - [🌌 Other](#-other)
+- [📦 Libraries](#-libraries)
+  - [🏗️ Frameworks](#%EF%B8%8F-frameworks)
+  - [🧩 Widgets](#-widgets)
+  - [🔧 Utilities](#-utilities)
+- [💻 Apps](#-apps)
+  - [⌨️ Development Tools](#%EF%B8%8F-development-tools)
+  - [🕹️ Games and Entertainment](#%EF%B8%8F-games-and-entertainment)
+  - [🚀 Productivity and Utilities](#-productivity-and-utilities)
+  - [🎼 Music and Media](#-music-and-media)
+  - [🌐 Networking and Internet](#-networking-and-internet)
+  - [👨‍💻 System Administration](#-system-administration)
+  - [🌌 Other](#-other)
 
 Aside from those listed here, many other apps and libraries can be easily be found via the reverse dependencies on crates.io and GitHub:
 
