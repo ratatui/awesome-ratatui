@@ -280,6 +280,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI.
 - [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
 - [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
+- [thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops.
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
