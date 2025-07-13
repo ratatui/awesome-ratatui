@@ -215,6 +215,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kraban](https://github.com/janTatesa/kraban) - Rust kanban board tui inspired by basilk.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
