@@ -94,6 +94,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
+- [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
