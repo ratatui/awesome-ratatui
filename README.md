@@ -246,6 +246,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-slides](https://github.com/Chleba/tui-slides) - Terminal presentation program with modern TUI.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [vault-tasks](https://github.com/louis-thevenet/vault-tasks) - TUI Markdown Task Manager.
+- [visualvault](https://github.com/mikeleppane/visualvault) - A TUI for organizing media files.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 
 ### 🤡 Social Media
