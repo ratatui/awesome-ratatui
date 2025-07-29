@@ -242,6 +242,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [traceview](https://github.com/javaLux/traceview) - Tracing and viewing your files and resource landscape.
 - [tts-tui](https://github.com/lesleyrs/tts-tui) - Text to speech app that reads from clipboard.
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [ttypr](https://github.com/hotellogical05/ttypr) - Terminal typing practice.
 - [tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Journaling/Notes-taking terminal-based app.
 - [tui-slides](https://github.com/Chleba/tui-slides) - Terminal presentation program with modern TUI.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
