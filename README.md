@@ -200,6 +200,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app.
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
+- [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
