@@ -53,6 +53,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [edtui](https://github.com/preiter93/edtui) - A TUI based vim-inspired editor widget for ratatui.
 - [ratatui-explorer](https://github.com/tatounee/ratatui-explorer) - A simple library for creating file explorer for ratatui.
 - [ratatui-image](https://crates.io/crates/ratatui-image) - An image widget for ratatui, supporting sixels and unicode-halfblocks.
+- [ratatui-fretboard](https://crates.io/crates/ratatui-fretboard) - A widget for displaying musical note positions on a fretboard.
 - [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A widget to turn any image to a splash screen.
 - [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor widget for ratatui. Fork of `tui-textarea`.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
@@ -93,6 +94,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
+- [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
@@ -109,7 +111,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
-- [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB. 
+- [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -155,6 +157,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - An additive wavetable synthesizer for terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
+- [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
 - [spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (DEPRECATED; See `spotify-player`) Spotify client for the terminal.
@@ -171,6 +174,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [discovery-rs](https://github.com/JustPretender/discovery-rs) - An utility to discover mDNS services on your network.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
+- [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
 - [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
 - [nordvpn-tui](https://github.com/Degra02/nordvpn-tui) - A TUI for NordVPN.
@@ -179,6 +183,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
 - [rustmission](https://codeberg.org/micielski/rustmission) - TUI for the Transmission daemon.
 - [sensor-vision](https://github.com/jcfromsiberia/sensor-vision) - TUI Client for TeamViewer IoT MQTT API for managing IoT Sensors and Metrics.
+- [ssh-list](https://github.com/akinoiro/ssh-list) - SSH connection manager.
 - [terminusdm](https://github.com/sumoduduk/terminusdm) - Cross Platform Terminal Download Manager.
 - [termscp](https://github.com/veeso/termscp) - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
 - [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
@@ -195,6 +200,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app.
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
+- [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
@@ -212,6 +218,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
@@ -237,10 +244,12 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [traceview](https://github.com/javaLux/traceview) - Tracing and viewing your files and resource landscape.
 - [tts-tui](https://github.com/lesleyrs/tts-tui) - Text to speech app that reads from clipboard.
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [ttypr](https://github.com/hotellogical05/ttypr) - Terminal typing practice.
 - [tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Journaling/Notes-taking terminal-based app.
 - [tui-slides](https://github.com/Chleba/tui-slides) - Terminal presentation program with modern TUI.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [vault-tasks](https://github.com/louis-thevenet/vault-tasks) - TUI Markdown Task Manager.
+- [visualvault](https://github.com/mikeleppane/visualvault) - A TUI for organizing media files.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 
 ### 🤡 Social Media
@@ -273,10 +282,12 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon.
 - [qmassa!](https://github.com/ulissesf/qmassa) - Displays GPU devices usage stats on Linux.
+- [slurmer](https://github.com/wjwei-handsome/Slurmer) - A TUI for monitoring and managing SLURM jobs.
 - [systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs.
 - [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI.
 - [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
 - [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
+- [thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops.
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
@@ -295,8 +306,10 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
 - [lpl](https://github.com/SOF3/lpl) - Command-line plotting for real-time CSV and JSON streams.
 - [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
+- [mlbt](https://github.com/mlb-rs/mlbt) - A tui for the MLB Statcast API. Watch a live game using Gameday, or check scores, standings, and stats.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
+- [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
 - [rsfrac](https://github.com/SkwalExe/rsfrac) - Terminal based fractal explorer, including Mandelbrot, Burning Ship, and Julia.
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
