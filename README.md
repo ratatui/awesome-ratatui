@@ -257,6 +257,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
 - [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
 - [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
+- [omaro](https://github.com/Rolv-Apneseth/omaro) - TUI for the lobste.rs website.
 - [nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
