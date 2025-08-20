@@ -299,6 +299,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
+- [doxx](https://github.com/bgreenwell/doxx) - Document viewer for Microsoft Word files.
 - [fractouille](https://github.com/PottierLoic/Fractouille) - A simple fractal explorer running in your terminal.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
 - [hncli](https://github.com/pierreyoda/hncli) - Hacker News read-only TUI.
