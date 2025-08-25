@@ -80,6 +80,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [coolor](https://github.com/Canop/coolor) - Tiny color conversion library for TUI application builders.
 - [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
 - [tachyonfx](https://github.com/junkdog/tachyonfx) - A shader-like effects library for ratatui.
+- [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
 
 ## 💻 Apps
