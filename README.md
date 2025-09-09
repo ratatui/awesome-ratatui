@@ -269,6 +269,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 👨‍💻 System Administration
 
+- [b4n](https://github.com/fioletoven/b4n) - A terminal-based tool for browsing Kubernetes resources.
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor.
 - [bpftop](https://github.com/Netflix/bpftop) - Dynamic real-time view of running eBPF programs.
 - [caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging.
