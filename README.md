@@ -116,7 +116,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
-- [VT Code](https://github.com/vinhnx/vtcode) -  VT Code - Semantic Coding Agent.
+- [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
 
 ### 🕹️ Games and Entertainment
 
