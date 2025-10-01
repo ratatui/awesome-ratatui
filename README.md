@@ -221,6 +221,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
+- [judo](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
