@@ -233,6 +233,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for pass.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
+- [revw](https://github.com/rlelf/revw) - A vim-like TUI for managing notes and resources.
 - [Rex](https://github.com/TheRustyPickle/Rex) - A TUI for managing Incomes and Expenses.
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
