@@ -35,7 +35,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🏗️ Frameworks
 
 - [bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
-- [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WASM or ship natively with bevy, macroquad, or eframe.
+- [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WebAssembly or ship natively with bevy, macroquad, or eframe.
 - [mousefood](https://github.com/j-g00da/mousefood) - An embedded-graphics backend for Ratatui.
 - [ratatui-minecraft](https://github.com/janTatesa/ratatui-minecraft) - A ratatui backend that uses [valence-screens](https://github.com/White-145/valence-screens)
 - [ratatui-uefi](https://github.com/reubeno/tui-uefi) - A ratatui backend for use in UEFI environments.
@@ -45,7 +45,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - A software rendering backend for ratatui. No GPU required. TUI everywhere.
 - [tui-react](https://crates.io/crates/tui-react) - TUI widgets using a react-like paradigm.
 - [tui-realm](https://crates.io/crates/tuirealm) - A ratatui framework inspired by Elm and React.
-- [webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps.
+- [webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WebAssembly webapps.
 - [widgetui](https://crates.io/crates/widgetui) - A bevy-like widget system for ratatui and crossterm.
 
 ### 🧩 Widgets
@@ -75,7 +75,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🔧 Utilities
 
 - [ansi-to-tui](https://crates.io/crates/ansi-to-tui) - A library to convert ansi color coded text into `ratatui::text::Text`.
-- [bevy_ratatui](https://github.com/joshka/bevy_ratatui) - A rust crate to use Ratatui in a Bevy App.
+- [bevy_ratatui](https://github.com/joshka/bevy_ratatui) - A Rust crate to use Ratatui in a Bevy App.
 - [color-to-tui](https://crates.io/crates/color-to-tui) - Parse colors and convert them to `ratatui::style::Colors`.
 - [coolor](https://github.com/Canop/coolor) - Tiny color conversion library for TUI application builders.
 - [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
@@ -99,7 +99,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
-- [Maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast test runner that runs every test in its own container locally or distributed.
+- [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
@@ -107,7 +107,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal.
-- [serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal.
+- [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
 - [Serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
@@ -212,7 +212,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
 - [envx](https://github.com/mikeleppane/envx) - Environment variable manager for developers, featuring an intuitive TUI.
 - [exabind](https://github.com/junkdog/exabind) - An animated TUI for viewing KDE shortcuts.
-- [exhaust](https://github.com/heyrict/exhaust) - Exhaust all your possibilities for the next coming exam.
+- [exhaust](https://github.com/heyrict/exhaust) - A terminal app for doing exams.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
 - [fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes make target using fuzzy finder with preview window.
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
@@ -278,17 +278,17 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bpftop](https://github.com/Netflix/bpftop) - Dynamic real-time view of running eBPF programs.
 - [caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing docker containers, inspired by K9s.
+- [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing Docker containers, inspired by K9s.
 - [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
-- [kftui](https://github.com/hcavarsan/kftray/blob/main/README.md#kftui) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
+- [kftui](https://github.com/hcavarsan/kftray/blob/main/README.md#kftui) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and Kubernetes proxy.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
-- [kubectl-watch](https://github.com/imuxin/kubectl-watch) - A kubectl plugin to provide a pretty delta change view of being watched kubernetes resources.
+- [kubectl-watch](https://github.com/imuxin/kubectl-watch) - A kubectl plugin to provide a pretty delta change view of being watched Kubernetes resources.
 - [kubetui](https://github.com/sarub0b0/kubetui) - TUI for real-time monitoring of Kubernetes resources.
 - [logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting.
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance monitoring for Apple Silicon processors.
 - [mirro-rs](https://github.com/rtkay123/mirro-rs) - An Arch Linux mirrorlist manager with a TUI.
-- [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control docker containers.
+- [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control Docker containers.
 - [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon.
 - [qmassa!](https://github.com/ulissesf/qmassa) - Displays GPU devices usage stats on Linux.
@@ -316,7 +316,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kanash](https://github.com/benoitlx/kanash) - Learn Kana in your terminal.
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
 - [lpl](https://github.com/SOF3/lpl) - Command-line plotting for real-time CSV and JSON streams.
-- [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for linux, and a TUI to control some parameters.
+- [maccel](https://github.com/Gnarus-G/maccel) - A mouse acceleration driver for Linux, and a TUI to control some parameters.
 - [mlbt](https://github.com/mlb-rs/mlbt) - A tui for the MLB Statcast API. Watch a live game using Gameday, or check scores, standings, and stats.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
