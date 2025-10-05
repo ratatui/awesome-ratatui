@@ -209,6 +209,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
+- [depot-rs](https://github.com/quietpigeon/depot-rs) - A TUI for managing crates.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
 - [envx](https://github.com/mikeleppane/envx) - Environment variable manager for developers, featuring an intuitive TUI.
 - [exabind](https://github.com/junkdog/exabind) - An animated TUI for viewing KDE shortcuts.
