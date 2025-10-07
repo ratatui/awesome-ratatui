@@ -307,7 +307,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 
 ### 🌌 Other
-- [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A Blazingly Fast Minimal Serial Monitor written in Rust with Serial Plotter TUI.
+- [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
