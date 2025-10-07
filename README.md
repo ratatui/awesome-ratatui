@@ -205,6 +205,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binary files.
 - [blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app.
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
+- [brew-explorer](https://github.com/cosmincatalin/brew-explorer) - A TUI for exploring and managing your Homebrew packages with ease.
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
