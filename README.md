@@ -16,6 +16,7 @@ Here you will find a list of TUI crates and applications that are made for or us
   - [🔧 Utilities](#-utilities)
 - [💻 Apps](#-apps)
   - [⌨️ Development Tools](#%EF%B8%8F-development-tools)
+      - [Embedded Development Tools](#-embedded-development-tools)
   - [🕹️ Games and Entertainment](#%EF%B8%8F-games-and-entertainment)
   - [🚀 Productivity and Utilities](#-productivity-and-utilities)
   - [🎼 Music and Media](#-music-and-media)
@@ -117,6 +118,11 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
+
+#### Embedded Development Tools
+
+- [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
+
 
 ### 🕹️ Games and Entertainment
 
@@ -307,7 +313,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 
 ### 🌌 Other
-- [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
