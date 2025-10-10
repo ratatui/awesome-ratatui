@@ -98,6 +98,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
+- [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
 - [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
