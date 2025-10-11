@@ -21,7 +21,7 @@ Here you will find a list of TUI crates and applications that are made for or us
   - [🎼 Music and Media](#-music-and-media)
   - [🌐 Networking and Internet](#-networking-and-internet)
   - [👨‍💻 System Administration](#-system-administration)
-  - [Embedded](#embedded)
+  - [📟 Embedded](#-embedded)
   - [🌌 Other](#-other)
 
 Aside from those listed here, many other apps and libraries can be easily be found via the reverse dependencies on crates.io and GitHub:
@@ -118,9 +118,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
-
-
-
 
 ### 🕹️ Games and Entertainment
 
@@ -310,7 +307,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
 - [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 
-### Embedded
+### 📟 Embedded
+
 - [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 
 ### 🌌 Other
