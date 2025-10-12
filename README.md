@@ -98,7 +98,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
-- [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
 - [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
@@ -222,6 +221,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
 - [glues](https://github.com/gluesql/glues) - A sync-enabled TUI note-taking app with Git, CSV, and JSON support.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!.
+- [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer.
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
