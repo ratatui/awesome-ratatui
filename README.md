@@ -222,6 +222,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
 - [glues](https://github.com/gluesql/glues) - A sync-enabled TUI note-taking app with Git, CSV, and JSON support.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!.
+- [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer.
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
