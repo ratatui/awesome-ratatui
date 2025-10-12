@@ -21,6 +21,7 @@ Here you will find a list of TUI crates and applications that are made for or us
   - [🎼 Music and Media](#-music-and-media)
   - [🌐 Networking and Internet](#-networking-and-internet)
   - [👨‍💻 System Administration](#-system-administration)
+  - [📟 Embedded](#-embedded)
   - [🌌 Other](#-other)
 
 Aside from those listed here, many other apps and libraries can be easily be found via the reverse dependencies on crates.io and GitHub:
@@ -308,8 +309,11 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
 - [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 
-### 🌌 Other
+### 📟 Embedded
 
+- [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
+
+### 🌌 Other
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
