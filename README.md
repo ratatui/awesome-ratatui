@@ -57,6 +57,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-fretboard](https://crates.io/crates/ratatui-fretboard) - A widget for displaying musical note positions on a fretboard.
 - [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A widget to turn any image to a splash screen.
 - [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor widget for ratatui. Fork of `tui-textarea`.
+- [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for ratatui, syntax highlighting powered by tree-sitter.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
 - [throbber-widgets-tui](https://crates.io/crates/throbber-widgets-tui) - A widget that displays throbber.
 - [tui-additions](https://crates.io/crates/tui-additions) - Additions to the rust tui crate.
@@ -221,6 +222,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
 - [glues](https://github.com/gluesql/glues) - A sync-enabled TUI note-taking app with Git, CSV, and JSON support.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!.
+- [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer.
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
@@ -241,6 +243,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
 - [rusty-krab-manager](https://github.com/aryakaul/rusty-krab-manager) - Rime management TUI in Rust.
+- [sc-cli](https://github.com/lnds/sc-cli) - A TUI for Shortcut (formerly know as Clubhouse) a project management tool for teams.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
@@ -313,6 +316,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool.
 - [Mnyaoo32](https://github.com/intuis/mnyaoo32) - An eccentric way to consume IRC messages using ESP32.
 - [Phone-OS](https://github.com/Julien-cpsn/Phone-OS) - A modern Phone OS for ESP32 CYD (Cheap Yellow Display).
+
 
 ### 🌌 Other
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
