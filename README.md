@@ -266,7 +266,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [vault-tasks](https://github.com/louis-thevenet/vault-tasks) - TUI Markdown Task Manager.
 - [visualvault](https://github.com/mikeleppane/visualvault) - A TUI for organizing media files.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
-- [xan](https://github.com/medialab/xan) - `xan` is a command line tool that can be used to process CSV files directly from the shell.
+- [xan](https://github.com/medialab/xan) - A terminal tool for processing CSV files.
 
 ### 🤡 Social Media
 
