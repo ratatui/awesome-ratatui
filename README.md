@@ -80,6 +80,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bevy_ratatui](https://github.com/joshka/bevy_ratatui) - A Rust crate to use Ratatui in a Bevy App.
 - [color-to-tui](https://crates.io/crates/color-to-tui) - Parse colors and convert them to `ratatui::style::Colors`.
 - [coolor](https://github.com/Canop/coolor) - Tiny color conversion library for TUI application builders.
+- [ratatui-garnish](https://github.com/franklaranja/ratatui-garnish) - A powerful composition system for Ratatui widgets.
 - [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
 - [tachyonfx](https://github.com/junkdog/tachyonfx) - A shader-like effects library for ratatui.
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
@@ -316,6 +317,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A minimal serial monitor with plotter TUI.
 
 ### 🌌 Other
+
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
