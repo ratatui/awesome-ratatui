@@ -316,6 +316,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool.
 - [Mnyaoo32](https://github.com/intuis/mnyaoo32) - An eccentric way to consume IRC messages using ESP32.
 - [Phone-OS](https://github.com/Julien-cpsn/Phone-OS) - A modern Phone OS for ESP32 CYD (Cheap Yellow Display).
+
 ### 🌌 Other
 
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
