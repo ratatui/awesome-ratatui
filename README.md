@@ -62,6 +62,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [throbber-widgets-tui](https://crates.io/crates/throbber-widgets-tui) - A widget that displays throbber.
 - [tui-additions](https://crates.io/crates/tui-additions) - Additions to the rust tui crate.
 - [tui-big-text](https://crates.io/crates/tui-big-text) - A simple ratatui widget for displaying big text using the `font8x8` crate.
+- [tui-dialog](https://docs.rs/tui-dialog) - A widget for entering a single line of text in a dialog.
 - [tui-logger](https://crates.io/crates/tui-logger) - Logger with smart widget for ratatui.
 - [tui-menu](https://github.com/shuoli84/tui-menu) - A menu widget for ratatui ecosystem.
 - [tui-nodes](https://crates.io/crates/tui-nodes) - Node graph visualization.
@@ -251,6 +252,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
 - [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
+- [taskfinder](https://crates.io/crates/taskfinder) - A TUI that extracts and displays tasks from plain text files, hooking into your default terminal-based editor for editing.
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
 - [tatuin](https://github.com/panter-dsd/tatuin) - Task Aggregator TUI for N providers.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
