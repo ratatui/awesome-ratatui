@@ -238,6 +238,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
+- [neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker) - A privacy-first TUI to track what apps you use and how long you spend on them.
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for pass.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
