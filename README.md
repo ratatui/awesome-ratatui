@@ -108,6 +108,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
+- [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal.
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
