@@ -84,7 +84,9 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
 - [tachyonfx](https://github.com/junkdog/tachyonfx) - A shader-like effects library for ratatui.
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
+- [termprofile](https://github.com/aschey/termprofile) - Detect and handle terminal color/styling support. Supports converting Ratatui color and style objects.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
+- [tui-syntax-highlight](https://github.com/aschey/tui-syntax-highlight) - Syntax highlighting for code blocks.
 
 ## 💻 Apps
 
