@@ -252,7 +252,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
 - [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
-- [taskfinder](https://crates.io/crates/taskfinder) - A TUI that extracts and displays tasks from plain text files, hooking into your default terminal-based editor for editing.
+- [taskfinder](https://crates.io/crates/taskfinder) - Extract and display tasks from plain text files, hooking into your default terminal-based editor for editing.
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
 - [tatuin](https://github.com/panter-dsd/tatuin) - Task Aggregator TUI for N providers.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
