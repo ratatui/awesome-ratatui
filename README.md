@@ -237,6 +237,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [judo](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
+- [kanban](https://github.com/fulsomenko/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
