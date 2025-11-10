@@ -120,6 +120,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
+- [toktop](https://github.com/htin1/toktop) - A LLM usage monitor in terminal.
 - [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
