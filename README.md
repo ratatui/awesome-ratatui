@@ -164,6 +164,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for myanimelist.
 - [angry-duiker](https://gitlab.com/fizzizist/angry-duiker-2) - A TUI for streaming music from a DLNA server.
+- [bookokrat](https://github.com/bugzmanov/bookokrat) - A full-featured EPUB reader with Vim keybindings.
 - [bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - A TUI for bytebeat.
 - [chordflow](https://github.com/timvancann/chordflow) - A tool for practicing improvisation and mastering the guitar neck.
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
