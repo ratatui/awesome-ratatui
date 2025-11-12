@@ -100,7 +100,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
 - [cargo-selector](https://github.com/lusingander/cargo-selector) - Cargo subcommand to select and execute binary/example targets.
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
-- [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers!
+- [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
