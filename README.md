@@ -274,6 +274,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tim:r](https://github.com/sectore/timr) - A TUI for organizing your time: Pomodoro, Countdown, Timer.
 - [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) - A terminal-based simple to-do app.
 - [traceview](https://github.com/javaLux/traceview) - Tracing and viewing your files and resource landscape.
+- [TSHTS](https://github.com/SamuelSchlesinger/tshts) - A terminal based spreadsheet application.
 - [tts-tui](https://github.com/lesleyrs/tts-tui) - Text to speech app that reads from clipboard.
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [ttypr](https://github.com/hotellogical05/ttypr) - Terminal typing practice.
