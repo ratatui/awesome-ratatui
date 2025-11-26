@@ -129,7 +129,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
-- [Stakpak Agent](https://github.com/stakpak/agent) - DevOps agent that won't accidentally tweet your AWS credentials.
+- [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
 
 ### 🕹️ Games and Entertainment
 
