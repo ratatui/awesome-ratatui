@@ -254,6 +254,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
 - [neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker) - A privacy-first TUI to track what apps you use and how long you spend on them.
 - [numr](https://github.com/nasedkinpv/numr) - A natural language calculator with unit/currency conversions and vim-style keybindings.
+- [ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for pass.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
