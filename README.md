@@ -48,6 +48,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-realm](https://crates.io/crates/tuirealm) - A ratatui framework inspired by Elm and React.
 - [webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WebAssembly webapps.
 - [widgetui](https://crates.io/crates/widgetui) - A bevy-like widget system for ratatui and crossterm.
+- [rat-salsa](https://github.com/thscharler/rat-salsa) - An event-queue for ratatui with tasks, timers, application events, focus handling, dialog windows.
 
 ### 🧩 Widgets
 
@@ -76,6 +77,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-widget-list](https://crates.io/crates/tui-widget-list) - A versatile list implementation for ratatui.
 - [tui-checkbox](https://crates.io/crates/tui-checkbox) - A customizable checkbox widget for ratatui.
 - [tui-piechart](https://crates.io/crates/tui-piechart) - A configurable, colorful piechart widget that comes in standard and high resolution.
+- [rat-widget](https://crates.io/crates/rat-widget) - Collection of standard widgets.
 
 ### 🔧 Utilities
 
