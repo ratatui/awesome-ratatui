@@ -77,7 +77,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-widget-list](https://crates.io/crates/tui-widget-list) - A versatile list implementation for ratatui.
 - [tui-checkbox](https://crates.io/crates/tui-checkbox) - A customizable checkbox widget for ratatui.
 - [tui-piechart](https://crates.io/crates/tui-piechart) - A configurable, colorful piechart widget that comes in standard and high resolution.
-- [rat-widget](https://crates.io/crates/rat-widget) - Collection of standard widgets.
+- [rat-widget](https://crates.io/crates/rat-widget) - Widgets for data-input (text-input, date- and number-input, text-area, checkbox, choice, radiobutton, slider, calendar), structural widgets (view, split, tabbed, multi-page), a table widget for large data-sets, a file-dialog, a menubar+sub-menus, a status-bar and some more. With builtin crossterm event-handling and focus-handling. 
 
 ### 🔧 Utilities
 
