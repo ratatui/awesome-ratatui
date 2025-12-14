@@ -203,7 +203,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
 - [oryx](https://github.com/pythops/oryx) - A TUI for sniffing network traffic using eBPF.
 - [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
-- [rustmission](https://codeberg.org/micielski/rustmission) - TUI for the Transmission daemon.
+- [rustmission](https://github.com/intuis/rustmission) - TUI for the Transmission daemon.
 - [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring tool with deep packet inspection.
 - [sensor-vision](https://github.com/jcfromsiberia/sensor-vision) - TUI Client for TeamViewer IoT MQTT API for managing IoT Sensors and Metrics.
 - [ssh-list](https://github.com/akinoiro/ssh-list) - SSH connection manager.
