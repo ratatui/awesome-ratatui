@@ -228,6 +228,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease!.
 - [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer.
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
+- [invoicepilot](https://github.com/adolfousier/invoicepilot) - A TUI for automating invoice and bank statement fetching from Gmail to Google Drive.
 - [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 - [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
 - [judo](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists.
