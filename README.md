@@ -235,6 +235,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [exabind](https://github.com/junkdog/exabind) - An animated TUI for viewing KDE shortcuts.
 - [exhaust](https://github.com/heyrict/exhaust) - A terminal app for doing exams.
 - [feedr](https://github.com/bahdotsh/feedr) - A terminal-based RSS/Atom feed reader with a TUI.
+- [eilmeldung](https://github.com/christo-auer/eilmeldung) - A TUI RSS reader based on the news_flash library inspired by Neovim and co.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
 - [fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes make target using fuzzy finder with preview window.
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
