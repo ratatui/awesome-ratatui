@@ -181,9 +181,9 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
 - [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
-- [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client with native streaming, synced lyrics, and audio visualization.
-- [spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - (DEPRECATED; See `spotify-player`) Spotify client for the terminal.
+- [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client with native streaming, synced lyrics, and audio visualization. A direct fork of spotify-tui with continued development and new features.
+- [spotify-player](https://github.com/aome510/spotify-player) - An independently developed Spotify player with full feature parity.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
 
