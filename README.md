@@ -368,6 +368,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
 - [rsfrac](https://github.com/SkwalExe/rsfrac) - Terminal based fractal explorer, including Mandelbrot, Burning Ship, and Julia.
 - [seqsizzle](https://github.com/ChangqingW/SeqSizzle) - A pager for viewing FASTQ files with fuzzy matching and coloring.
+- [SeqTUI](https://github.com/ranwez-search/SeqTUI) - A terminal-based viewer and command-line toolkit for molecular sequences.
 - [sigye](https://github.com/am2rican5/sigye) - A terminal clock with FIGlet fonts, customizable themes, and animated backgrounds.
 - [suzui-rs](https://github.com/thatdevsherry/suzui-rs) - Suzuki pre-obd2 engine data viewer.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
