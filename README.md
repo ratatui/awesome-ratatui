@@ -186,7 +186,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
-
+- [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
+  
 ### 🌐 Networking and Internet
 
 - [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - Real-time traffic monitoring and statistics for AdGuard Home.
