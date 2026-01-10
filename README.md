@@ -373,6 +373,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sigye](https://github.com/am2rican5/sigye) - A terminal clock with FIGlet fonts, customizable themes, and animated backgrounds.
 - [suzui-rs](https://github.com/thatdevsherry/suzui-rs) - Suzuki pre-obd2 engine data viewer.
 - [tenki](https://github.com/ckaznable/tenki) - A tty-clock with weather effect.
+- [termCA](https://github.com/fabiooo4/termCA) - Interactive TUI Cellular Automata simulator.
 - [tgv](https://github.com/zeqianli/tgv) - Explore human genomes in the terminal.
 - [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations.
 - [tracker](https://github.com/ShenMian/tracker) - A terminal-based real-time satellite tracking and orbit prediction application.
