@@ -211,7 +211,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ssh-list](https://github.com/akinoiro/ssh-list) - SSH connection manager.
 - [terminusdm](https://github.com/sumoduduk/terminusdm) - Cross Platform Terminal Download Manager.
 - [termscp](https://github.com/veeso/termscp) - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
-- [traxor](https://github.com/kristoferssolo/traxor) - A TUI for managing Transmission torrents inspired by [stig](https://github.com/rndusr/stig).
+- [traxor](https://github.com/kristoferssolo/traxor) - A TUI for managing Transmission torrents.
 - [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
 - [tsuchita](https://github.com/kamiyaa/tsuchita) - Client-server notification center for dbus desktop notifications.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
