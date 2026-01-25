@@ -283,6 +283,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
 - [tickrs](https://github.com/tarkah/tickrs) - Stock market ticker in the terminal.
 - [timr-tui](https://github.com/sectore/timr-tui) - TUI to organize your time: Pomodoro, Countdown, Timer, Event.
+- [tmmpr](https://github.com/tanciaku/tmmpr) - Terminal mind mapper.
 - [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) - A terminal-based simple to-do app.
 - [traceview](https://github.com/javaLux/traceview) - Tracing and viewing your files and resource landscape.
 - [TSHTS](https://github.com/SamuelSchlesinger/tshts) - A terminal based spreadsheet application.
