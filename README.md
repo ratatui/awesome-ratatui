@@ -77,7 +77,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-widget-list](https://crates.io/crates/tui-widget-list) - A versatile list implementation for ratatui.
 - [tui-checkbox](https://crates.io/crates/tui-checkbox) - A customizable checkbox widget for ratatui.
 - [tui-piechart](https://crates.io/crates/tui-piechart) - A configurable, colorful piechart widget that comes in standard and high resolution.
-- [rat-widget](https://crates.io/crates/rat-widget) - Widgets for data-input (text-input, date- and number-input, text-area, checkbox, choice, radiobutton, slider, calendar), structural widgets (view, split, tabbed, multi-page), a table widget for large data-sets, a file-dialog, a menubar+sub-menus, a status-bar and some more. With builtin crossterm event-handling and focus-handling. 
+- [rat-widget](https://crates.io/crates/rat-widget) - Widgets for data-input (text-input, date- and number-input, text-area, checkbox, choice, radiobutton, slider, calendar), structural widgets (view, split, tabbed, multi-page), a table widget for large data-sets, a file-dialog, a menubar+sub-menus, a status-bar and some more. With builtin crossterm event-handling and focus-handling.
 - [tui-slider](https://crates.io/crates/tui-slider) - A highly customizable slider widget for both horizontal and vertical orientations.
 
 ### 🔧 Utilities
@@ -103,6 +103,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
 - [cargo-selector](https://github.com/lusingander/cargo-selector) - Cargo subcommand to select and execute binary/example targets.
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
+- [deputui](https://github.com/twiddler/deputui) - Review and install NPM package updates.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
@@ -355,7 +356,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
-- [cpustate-tui](https://github.com/mkulke/cpustate-tui) - Baremetal program to visualize x86_64 CPU state. 
+- [cpustate-tui](https://github.com/mkulke/cpustate-tui) - Baremetal program to visualize x86_64 CPU state.
 - [doxx](https://github.com/bgreenwell/doxx) - Document viewer for Microsoft Word files.
 - [fractouille](https://github.com/PottierLoic/Fractouille) - A simple fractal explorer running in your terminal.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
