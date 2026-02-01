@@ -99,6 +99,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### ⌨️ Development Tools
 
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
+- [aloc](https://github.com/modern-tooling/aloc) - A modern, AI-augmented lines of code counter.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
 - [cargo-selector](https://github.com/lusingander/cargo-selector) - Cargo subcommand to select and execute binary/example targets.
