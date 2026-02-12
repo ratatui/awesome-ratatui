@@ -218,6 +218,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tsuchita](https://github.com/kamiyaa/tsuchita) - Client-server notification center for dbus desktop notifications.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
+- [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch.
 - [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
 - [YADB](https://github.com/izya4ka/yadb) - A web directory brute-forcing tool.
 
