@@ -360,6 +360,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [cpustate-tui](https://github.com/mkulke/cpustate-tui) - Baremetal program to visualize x86_64 CPU state.
 - [doxx](https://github.com/bgreenwell/doxx) - Document viewer for Microsoft Word files.
 - [fractouille](https://github.com/PottierLoic/Fractouille) - A simple fractal explorer running in your terminal.
+- [gitlogue](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - TUI for viewing the hellogithub.com website.
 - [hncli](https://github.com/pierreyoda/hncli) - Hacker News read-only TUI.
 - [hwatch](https://github.com/blacknon/hwatch) - Alternative watch command with command history and diffs.
