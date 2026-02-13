@@ -130,6 +130,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [toktop](https://github.com/htin1/toktop) - A LLM usage monitor in terminal.
 - [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
+- [trex](https://github.com/blackopsrepl/trex) - A fast tmux session manager with fuzzy finding, per session stats and AI Agent tracking.
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
