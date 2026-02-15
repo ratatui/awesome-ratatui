@@ -117,7 +117,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
-- [opencrabs](https://github.com/adolfousier/opencrabs) - The AI buddy that gets things done. Rust-based open-claw inspired orchestration layer for software development.
+- [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
 - [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
