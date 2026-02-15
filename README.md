@@ -236,6 +236,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
+- [ddv](https://github.com/lusingander/ddv) - Terminal DynamoDB viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
 - [depot-rs](https://github.com/quietpigeon/depot-rs) - A TUI for managing crates.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
