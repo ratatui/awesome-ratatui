@@ -9,5 +9,12 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - Make an individual pull request for each suggestion.
+- If you filed an issue regarding your project, add the issue number with a github closing phrase, so that the issue gets closed automaticaaly. For example, 
+```md
+Your project description
+...
+
+Closes #123
+```
 
 Thank you for your suggestion! 🧀
