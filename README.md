@@ -269,6 +269,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
+- [models](https://github.com/arimxyer/models) - A TUI for browsing AI models, benchmarks, and coding agents.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
 - [neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker) - A privacy-first TUI to track what apps you use and how long you spend on them.
 - [numr](https://github.com/nasedkinpv/numr) - A natural language calculator with unit/currency conversions and vim-style keybindings.
