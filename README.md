@@ -327,6 +327,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 👨‍💻 System Administration
 
+- [Aperture](https://github.com/stylebending/Aperture) - Diagnostic tui for Windows power users.
 - [b4n](https://github.com/fioletoven/b4n) - A terminal-based tool for browsing Kubernetes resources.
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor.
 - [bpftop](https://github.com/Netflix/bpftop) - Dynamic real-time view of running eBPF programs.
