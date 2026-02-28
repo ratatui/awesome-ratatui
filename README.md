@@ -279,6 +279,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for pass.
+- [pgtui](https://codeberg.org/kdwarn/pgtui) - A PostgresSQL TUI client that utilizes your terminal text editor for inserts & updates.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
 - [revw](https://github.com/rlelf/revw) - A vim-like TUI for managing notes and resources.
 - [Rex](https://github.com/TheRustyPickle/Rex) - A TUI for managing Incomes and Expenses.
