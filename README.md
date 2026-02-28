@@ -49,6 +49,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WebAssembly webapps.
 - [widgetui](https://crates.io/crates/widgetui) - A bevy-like widget system for ratatui and crossterm.
 - [rat-salsa](https://github.com/thscharler/rat-salsa) - An event-queue for ratatui with tasks, timers, application events, focus handling, dialog windows.
+- [raclettui](https://github.com/ishrut/raclettui) - A wayland layer shell window implementing the ratatui backend with cpu and wgpu rendering.
 
 ### 🧩 Widgets
 
@@ -196,7 +197,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
 - [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
-  
+
 ### 🌐 Networking and Internet
 
 - [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - Real-time traffic monitoring and statistics for AdGuard Home.
