@@ -270,6 +270,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kanban](https://github.com/fulsomenko/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [lottie](https://github.com/coignard/lottie) - A terminal screenwriting editor for the Fountain plain-text screenplay format.
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
