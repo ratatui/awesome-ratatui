@@ -292,6 +292,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rdn](https://github.com/apatrushev/rdn) - Rust port of well known old Dos Navigator.
 - [sc-cli](https://github.com/lnds/sc-cli) - A TUI for Shortcut (formerly know as Clubhouse) a project management tool for teams.
 - [scriptor](https://github.com/giacomopiccinini/scriptor) - A (medieval) local speech-to-text TUI & CLI.
+- [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar) - A spiffy ratatui TUI calendar — local SQLite with Google Calendar sync and DAG-linked events.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
