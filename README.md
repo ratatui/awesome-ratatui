@@ -273,6 +273,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [lottie](https://github.com/coignard/lottie) - A terminal screenwriting editor for the Fountain plain-text screenplay format.
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
+- [matchmaker](https://github.com/Squirreljetpack/matchmaker) - Fuzzy picker (FZF reboot).
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
 - [models](https://github.com/arimxyer/models) - A TUI for browsing AI models, benchmarks, and coding agents.
