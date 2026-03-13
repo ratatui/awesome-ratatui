@@ -334,6 +334,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 - [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
+- [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
 
 ### 👨‍💻 System Administration
 
