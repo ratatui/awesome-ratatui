@@ -112,6 +112,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [deputui](https://github.com/twiddler/deputui) - Review and install NPM package updates.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
+- [giff](https://github.com/bahdotsh/giff) - A TUI for git diffs with interactive rebase support.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
@@ -143,6 +144,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
+- [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
 - [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
 
 ### 🕹️ Games and Entertainment
@@ -240,6 +242,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bbcli](https://github.com/hako/bbcli) - A terminal-based BBC News reader featuring a compact, numbered list interface with vim-like navigation.
 - [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binary files.
 - [blendr](https://github.com/dmtrKovalenko/blendr) - The hacker's BLE (bluetooth low energy) browser terminal app.
+- [blogr](https://github.com/bahdotsh/blogr) - A terminal-based static site generator with a TUI editor for writing blog posts.
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
 - [brew-explorer](https://github.com/cosmincatalin/brew-explorer) - A TUI for exploring and managing your Homebrew packages with ease.
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
@@ -296,6 +299,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rdn](https://github.com/apatrushev/rdn) - Rust port of well known old Dos Navigator.
 - [sc-cli](https://github.com/lnds/sc-cli) - A TUI for Shortcut (formerly know as Clubhouse) a project management tool for teams.
 - [scriptor](https://github.com/giacomopiccinini/scriptor) - A (medieval) local speech-to-text TUI & CLI.
+- [snipt](https://github.com/snipt/snipt) - A text snippet expansion tool with a TUI for managing snippets.
 - [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar) - A TUI calendar with Google Calendar sync and DAG-linked events.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
