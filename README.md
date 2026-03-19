@@ -246,6 +246,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bluetui](https://github.com/pythops/bluetui) - A TUI for managing Bluetooth devices.
 - [brew-explorer](https://github.com/cosmincatalin/brew-explorer) - A TUI for exploring and managing your Homebrew packages with ease.
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
+- [budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A fast, keyboard-driven TUI for tracking expenses, managing categories, and analyzing your budget with ease.
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [ddv](https://github.com/lusingander/ddv) - Terminal DynamoDB viewer.
