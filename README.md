@@ -96,7 +96,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
 - [termprofile](https://github.com/aschey/termprofile) - Detect and handle terminal color/styling support. Supports converting Ratatui color and style objects.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
-- [tui-pantry](https://crates.io/crates/tui-pantry) - Component-driven development tool for ratatui widgets: displays an interactive catalog that renders and documents each widget in isolation, similar to Storybook.
+- [tui-pantry](https://crates.io/crates/tui-pantry) - Component-driven development tool for ratatui widgets, similar to Storybook.
 - [tui-syntax-highlight](https://github.com/aschey/tui-syntax-highlight) - Syntax highlighting for code blocks.
 
 ## 💻 Apps
