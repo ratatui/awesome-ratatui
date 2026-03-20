@@ -118,15 +118,18 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
+- [ilmari](https://github.com/bnomei/ilmari) - Minimal tmux popup radar to track your agents.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
 - [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
+- [nereid](https://github.com/bnomei/nereid) - Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
+- [raymon](https://github.com/bnomei/raymon) - Ray logging TUI and MCP Server.
 - [sabiql](https://github.com/riii111/sabiql) - A fast, driver-less TUI for browsing, querying, and editing PostgreSQL databases with vim-like keybindings.
 - [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
@@ -134,6 +137,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
 - [Serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
+- [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
 - [TermiRs](https://github.com/caelansar/termirs) - A modern, async SSH terminal client.
@@ -145,7 +149,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
-- [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
+
 
 ### 🕹️ Games and Entertainment
 
@@ -191,6 +195,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing all your Servarrs.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
+- [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - An additive wavetable synthesizer for terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
@@ -202,7 +207,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [trollstov](https://github.com/hikikones/trollstov) - A music player for the terminal where your files and their metadata are all you need.
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
-- [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
 
 ### 🌐 Networking and Internet
 
@@ -335,12 +339,12 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
 - [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
 - [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
-- [omaro](https://github.com/Rolv-Apneseth/omaro) - TUI for the lobste.rs website.
 - [nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr.
+- [omaro](https://github.com/Rolv-Apneseth/omaro) - TUI for the lobste.rs website.
+- [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 - [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
-- [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
 
 ### 👨‍💻 System Administration
 
@@ -353,6 +357,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing Docker containers, inspired by K9s.
 - [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware.
+- [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
 - [kftui](https://github.com/hcavarsan/kftray/blob/main/README.md#kftui) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and Kubernetes proxy.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
@@ -375,7 +380,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
-- [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 
 ### 📟 Embedded
 
