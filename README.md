@@ -134,6 +134,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
 - [Serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
+- [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
 - [TermiRs](https://github.com/caelansar/termirs) - A modern, async SSH terminal client.
@@ -145,7 +146,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
-- [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
+
 
 ### 🕹️ Games and Entertainment
 
@@ -191,6 +192,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing all your Servarrs.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
+- [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - An additive wavetable synthesizer for terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
@@ -201,7 +203,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
-- [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
 
 ### 🌐 Networking and Internet
 
@@ -334,12 +335,13 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
 - [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
 - [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
-- [omaro](https://github.com/Rolv-Apneseth/omaro) - TUI for the lobste.rs website.
 - [nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr.
+- [omaro](https://github.com/Rolv-Apneseth/omaro) - TUI for the lobste.rs website.
+- [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 - [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
-- [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
+
 
 ### 👨‍💻 System Administration
 
@@ -352,6 +354,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing Docker containers, inspired by K9s.
 - [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware.
+- [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
 - [kftui](https://github.com/hcavarsan/kftray/blob/main/README.md#kftui) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and Kubernetes proxy.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
@@ -374,7 +377,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
-- [journalview](https://github.com/codervijo/journalview) - Journalctl log viewer.
 
 ### 📟 Embedded
 
