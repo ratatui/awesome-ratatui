@@ -118,15 +118,18 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
+- [ilmari](https://github.com/bnomei/ilmari): Minimal tmux popup radar to track your agents.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
 - [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
+- [nereid](https://github.com/bnomei/nereid): Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
+- [raymon](https://github.com/bnomei/raymon): Ray logging TUI and MCP Server.
 - [sabiql](https://github.com/riii111/sabiql) - A fast, driver-less TUI for browsing, querying, and editing PostgreSQL databases with vim-like keybindings.
 - [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
@@ -341,7 +344,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 - [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
-
 
 ### 👨‍💻 System Administration
 
