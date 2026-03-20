@@ -199,6 +199,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client with native streaming, synced lyrics, and audio visualization. A direct fork of spotify-tui with continued development and new features.
 - [spotify-player](https://github.com/aome510/spotify-player) - An independently developed Spotify player with full feature parity.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
+- [trollstov](https://github.com/hikikones/trollstov) - A music player for the terminal where your files and their metadata are all you need.
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
 - [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
