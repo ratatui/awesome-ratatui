@@ -296,6 +296,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for pass.
+- [pgmon](https://github.com/nbari/pgmon) - A TUI for monitoring PostgresSQL databases.
 - [pgtui](https://codeberg.org/kdwarn/pgtui) - A PostgresSQL TUI client that utilizes your terminal text editor for inserts & updates.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
 - [rgx](https://github.com/brevity1swos/rgx) - A terminal regex debugger with real-time matching, 3 engines, capture group highlighting, replace mode, and plain-English explanations.
