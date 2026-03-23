@@ -267,6 +267,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) - A TUI RSS reader based on the news_flash library inspired by Neovim and co.
 - [fitui](https://github.com/ayanchavand/fitui) - A terminal-based personal finance tracker and budgeting with TUI.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
+- [fsel](https://github.com/Mjoyufull/fsel) - A TUI app launcher and fuzzy finder for GNU/Linux and BSD.
 - [fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes make target using fuzzy finder with preview window.
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
 - [gitv](https://github.com/jayanaxhf/gitv) - A beautiful, feature-rich and performant terminal client for GitHub issues.
