@@ -116,7 +116,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [deputui](https://github.com/twiddler/deputui) - Review and install NPM package updates.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
-- [giff](https://github.com/bahdotsh/giff) - A TUI for git diffs with interactive rebase support.
+- [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
