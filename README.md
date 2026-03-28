@@ -62,6 +62,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A widget to turn any image to a splash screen.
 - [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor widget for ratatui. Fork of `tui-textarea`.
 - [ratatui-toaster](https://crates.io/crates/ratatui-toaster) - An extremely lightweight toast engine for ratatui.
+- [ratatui-cheese](https://crates.io/crates/ratatui-cheese) - Bubbletea-inspired widgets for ratatui, including spinner, help, tree, paginator and list.
 - [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for ratatui, syntax highlighting powered by tree-sitter.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
 - [throbber-widgets-tui](https://crates.io/crates/throbber-widgets-tui) - A widget that displays throbber.
@@ -115,7 +116,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [deputui](https://github.com/twiddler/deputui) - Review and install NPM package updates.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
-- [giff](https://github.com/bahdotsh/giff) - A TUI for git diffs with interactive rebase support.
+- [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
