@@ -62,6 +62,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A widget to turn any image to a splash screen.
 - [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor widget for ratatui. Fork of `tui-textarea`.
 - [ratatui-toaster](https://crates.io/crates/ratatui-toaster) - An extremely lightweight toast engine for ratatui.
+- [ratatui-cheese](https://crates.io/crates/ratatui-cheese) - Bubbletea-inspired widgets for ratatui, bringing the ergonomics of Charm's Bubbles to Rust. Includes spinner, help, tree, paginator, and list widgets.
 - [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for ratatui, syntax highlighting powered by tree-sitter.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
 - [throbber-widgets-tui](https://crates.io/crates/throbber-widgets-tui) - A widget that displays throbber.
