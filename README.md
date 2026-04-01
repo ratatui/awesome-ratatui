@@ -76,6 +76,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-prompts](https://crates.io/crates/tui-prompts) - A library for building interactive prompts for ratatui.
 - [tui-rain](https://github.com/levilutz/tui-rain) - A widget to generate various rain effects.
 - [tui-scrollview](https://crates.io/crates/tui-scrollview) - A container that provides a scrolling view at a larger area.
+- [tui-skeleton](https://crates.io/crates/tui-skeleton) - A library of placeholder widgets that pulse, sweep, or shimmer while your content loads.
 - [tui-tabs](https://crates.io/crates/tui-tabs) - A tab navigation widget with individually bordered boxes and rounded corners.
 - [tui-term](https://crates.io/crates/tui-term) - A pseudoterminal widget for ratatui.
 - [tui-textarea](https://crates.io/crates/tui-textarea) - A simple yet powerful text editor widget for ratatui and tui-rs.
