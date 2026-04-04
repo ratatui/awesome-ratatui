@@ -244,6 +244,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [traxor](https://github.com/kristoferssolo/traxor) - A TUI for managing Transmission torrents.
 - [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
 - [tsuchita](https://github.com/kamiyaa/tsuchita) - Client-server notification center for dbus desktop notifications.
+- [unifly](https://github.com/hyperb1iss/unifly) - CLI and TUI for managing Ubiquiti UniFi network controllers with an 8-screen dashboard, live traffic charts, and dual-API coverage.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
 - [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch.
