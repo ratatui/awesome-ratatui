@@ -72,6 +72,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-logger](https://crates.io/crates/tui-logger) - Logger with smart widget for ratatui.
 - [tui-menu](https://github.com/shuoli84/tui-menu) - A menu widget for ratatui ecosystem.
 - [tui-nodes](https://crates.io/crates/tui-nodes) - Node graph visualization.
+- [tui-overlay](https://crates.io/crates/tui-overlay) - A composable overlay widget with drawers, modals, popovers, and toasts from a single configurable primitive.
 - [tui-popup](https://github.com/joshka/tui-popup) - A Popup widget for Ratatui.
 - [tui-prompts](https://crates.io/crates/tui-prompts) - A library for building interactive prompts for ratatui.
 - [tui-rain](https://github.com/levilutz/tui-rain) - A widget to generate various rain effects.
