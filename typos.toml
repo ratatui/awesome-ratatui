@@ -4,3 +4,5 @@
 ratatui = "ratatui"
 wordl = "wordl"
 tage = "tage"
+mirro = "mirro"     # mirro-rs
+serie = "serie"
