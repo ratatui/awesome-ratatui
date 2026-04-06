@@ -131,6 +131,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ilmari](https://github.com/bnomei/ilmari) - Minimal tmux popup radar to track your agents.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
+- [lingora-tui](https://crates.io/crates/lingora-tui) - Browse, compare and validate Fluent i18n files.
 - [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
 - [nereid](https://github.com/bnomei/nereid) - Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
