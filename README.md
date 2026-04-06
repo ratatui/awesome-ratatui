@@ -255,6 +255,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🚀 Productivity and Utilities
 
+- [absorb](https://github.com/kloki/absorb) - Quickly read a file without moving your eyes.
 - [atuin](https://github.com/atuinsh/atuin) - Magical shell history.
 - [basilk](https://github.com/GabAlpha/basilk) - A TUI to manage your tasks with minimal kanban logic.
 - [bbcli](https://github.com/hako/bbcli) - A terminal-based BBC News reader featuring a compact, numbered list interface with vim-like navigation.
@@ -350,7 +351,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 - [work-tuimer](https://github.com/Kamyil/work-tuimer) - A TUI for easier time tracking each day, task-per-task with summaries.
 - [xan](https://github.com/medialab/xan) - A terminal tool for processing CSV files.
-- [absorb](https://github.com/kloki/absorb) - Quickly read a file without moving your eyes.
 
 ### 🤡 Social Media
 
