@@ -194,7 +194,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
 - [wordl](https://github.com/palerdot/wordl-rs) - Terminal-based Wordle game. Web like experience with keyboard hints and guess reveal animations.
 
-
 ### 🎼 Music and Media
 
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for myanimelist.
@@ -351,7 +350,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 - [work-tuimer](https://github.com/Kamyil/work-tuimer) - A TUI for easier time tracking each day, task-per-task with summaries.
 - [xan](https://github.com/medialab/xan) - A terminal tool for processing CSV files.
-- [absorb](https://github.com/kloki/absorb) - Quicky read a file without moving your eyes.
+- [absorb](https://github.com/kloki/absorb) - Quickly read a file without moving your eyes.
 
 ### 🤡 Social Media
 
