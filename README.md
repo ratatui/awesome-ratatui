@@ -158,6 +158,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [trex](https://github.com/blackopsrepl/trex) - A fast tmux session manager with fuzzy finding, per session stats and AI Agent tracking.
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+- [VLE](https://github.com/tuffy/vle) - A lightweight text editor.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
 
