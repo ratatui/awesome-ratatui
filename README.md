@@ -201,6 +201,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for myanimelist.
 - [angry-duiker](https://gitlab.com/fizzizist/angry-duiker-2) - A TUI for streaming music from a DLNA server.
+- [asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool.
 - [bookokrat](https://github.com/bugzmanov/bookokrat) - A full-featured EPUB / PDF e-book reader with Vim keybindings.
 - [bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - A TUI for bytebeat.
 - [chordflow](https://github.com/timvancann/chordflow) - A tool for practicing improvisation and mastering the guitar neck.
