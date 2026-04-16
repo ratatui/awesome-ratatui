@@ -165,7 +165,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
 
-
 ### 🕹️ Games and Entertainment
 
 - [a-puzzle-a-day](https://github.com/mrbjarksen/a-puzzle-a-day) - Generate and browse all solutions to A-Puzzle-A-Day.
@@ -257,6 +256,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [vincenzo](https://github.com/gabrieldemian/vincenzo) - A bittorrent client for the terminal with vim-like keybindings.
 - [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch.
 - [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
+- [wiretui](https://github.com/robin-thoene/wiretui) - A minimal keyboard-driven TUI to manage WireGuard VPN connections.
 - [YADB](https://github.com/izya4ka/yadb) - A web directory brute-forcing tool.
 
 ### 🚀 Productivity and Utilities
