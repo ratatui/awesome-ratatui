@@ -152,7 +152,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
-- [opencode stats](https://github.com/Cateds/opencode-stats) - A Ratatui-powered terminal dashboard for OpenCode usage statistics and cost breakdowns.
+- [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
 - [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
 - [raymon](https://github.com/bnomei/raymon) - Ray logging TUI and MCP Server.
