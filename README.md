@@ -14,6 +14,7 @@ Here you will find a list of TUI crates and applications that are made for or us
   - [🏗️ Frameworks](#%EF%B8%8F-frameworks)
   - [🧩 Widgets](#-widgets)
   - [🔧 Utilities](#-utilities)
+  - [🔗 Bindings](#-bindings)
 - [💻 Apps](#-apps)
   - [⌨️ Development Tools](#%EF%B8%8F-development-tools)
   - [🕹️ Games and Entertainment](#%EF%B8%8F-games-and-entertainment)
@@ -35,7 +36,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🏗️ Frameworks
 
-- [pyratatui](https://github.com/pyratatui/pyratatui) - Python bindings to ratatui, powered by Maturin and PyO3.
 - [bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
 - [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WebAssembly or ship natively with bevy, macroquad, or eframe.
 - [mousefood](https://github.com/j-g00da/mousefood) - An embedded-graphics backend for Ratatui.
@@ -107,6 +107,17 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
 - [tui-pantry](https://crates.io/crates/tui-pantry) - Component-driven development tool for ratatui widgets, similar to Storybook.
 - [tui-syntax-highlight](https://github.com/aschey/tui-syntax-highlight) - Syntax highlighting for code blocks.
+
+### 🔗 Bindings
+
+- [ex_ratatui](https://github.com/mcass19/ex_ratatui) - Elixir bindings for ratatui.
+- [pyratatui](https://github.com/pyratatui/pyratatui) - Python bindings to ratatui, powered by Maturin and PyO3.
+- [Ratatui.cs](https://github.com/holo-q/Ratatui.cs) - C# bindings for ratatui.
+- [ratatui-ffi](https://github.com/holo-q/ratatui-ffi) - FFI bindings for ratatui.
+- [ratatui-go](https://github.com/holo-q/ratatui-go) - Go bindings for ratatui.
+- [ratatui-py](https://github.com/holo-q/ratatui-py) - Python bindings for ratatui.
+- [ratatui-ts](https://github.com/holo-q/ratatui-ts) - TypeScript bindings for ratatui.
+- [ratatui_ruby](https://sr.ht/~kerrick/ratatui_ruby/) - Ruby bindings for ratatui.
 
 ## 💻 Apps
 
