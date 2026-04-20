@@ -212,9 +212,9 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🎼 Music and Media
 
-- [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for myanimelist.
 - [angry-duiker](https://gitlab.com/fizzizist/angry-duiker-2) - A TUI for streaming music from a DLNA server.
 - [asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool.
+- [audium](https://github.com/takashialpha/audium) - A keyboard-driven music app for people who live in the terminal.
 - [bookokrat](https://github.com/bugzmanov/bookokrat) - A full-featured EPUB / PDF e-book reader with Vim keybindings.
 - [bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - A TUI for bytebeat.
 - [chordflow](https://github.com/timvancann/chordflow) - A tool for practicing improvisation and mastering the guitar neck.
@@ -223,14 +223,15 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
+- [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
+- [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for myanimelist.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing all your Servarrs.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
-- [m-lite](https://github.com/maxiloEmmmm/m-lite) - Listen to music from net163 in the terminal.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - An additive wavetable synthesizer for terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
-- [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
+- [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
 - [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client with native streaming, synced lyrics, and audio visualization. A direct fork of spotify-tui with continued development and new features.
 - [spotify-player](https://github.com/aome510/spotify-player) - An independently developed Spotify player with full feature parity.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
