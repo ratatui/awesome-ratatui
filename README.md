@@ -161,7 +161,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-form](https://github.com/DavidLiedle/ratatui-form) - A form library for ratatui.
 - [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
-- [schemaui-cli](https://github.com/YuniqueUnic/schemaui/tree/main/schemaui-cli) - Interactive CLI for editing JSON/YAML/TOML configs from JSON Schema with live validation.
 - [scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal.
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
 - [Serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
