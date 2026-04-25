@@ -45,6 +45,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
 - [ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Ratatui and WebAssembly.
 - [rlt](https://crates.io/crates/rlt) - A universal load testing framework for Rust, with real-time tui support.
+- [schemaui](https://github.com/YuniqueUnic/schemaui) - Turn JSON Schemas into TUIs and web UIs with real-time validation.
 - [soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - A software rendering backend for ratatui. No GPU required. TUI everywhere.
 - [tui-react](https://crates.io/crates/tui-react) - TUI widgets using a react-like paradigm.
 - [tui-realm](https://crates.io/crates/tuirealm) - A ratatui framework inspired by Elm and React.
