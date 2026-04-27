@@ -144,6 +144,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [ilmari](https://github.com/bnomei/ilmari) - Minimal tmux popup radar to track your agents.
+- [image-auditor](https://github.com/0franco/image-auditor) - Find & fix Lighthouse image issues (CLS, lazy loading, WebP, srcset) across your codebase.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for the Jujutsu/jj VCS.
 - [lingora-tui](https://github.com/nigeleke/lingora) - Browse, compare and validate Fluent i18n files.
