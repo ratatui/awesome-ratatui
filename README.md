@@ -449,6 +449,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mlbt](https://github.com/mlb-rs/mlbt) - A tui for the MLB Statcast API. Watch a live game using Gameday, or check scores, standings, and stats.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [oeis-tui](https://github.com/hako/oeis-tui) - A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
+- [partly-claudy](https://github.com/taho-inc/partly-claudy) - Terminal view of Claude status page (status.claude.com).
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [Raijin](https://github.com/MasonStooksbury/Raijin) - A free, simple weather TUI that pulls data without the need for an API key, account, or subscription.
 - [rsfrac](https://github.com/SkwalExe/rsfrac) - Terminal based fractal explorer, including Mandelbrot, Burning Ship, and Julia.
