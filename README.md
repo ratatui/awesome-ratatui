@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ratatui-awesome-ratatui-badge.png)](https://mseep.ai/app/ratatui-awesome-ratatui)
+
 <!--lint disable awesome-git-repo-age-->
 
 # Awesome Ratatui [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
