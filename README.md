@@ -127,6 +127,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [blippy](https://github.com/AksharP5/blippy) - A keyboard-first TUI for GitHub issues and pull requests.
+- [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
 - [cargo-selector](https://github.com/lusingander/cargo-selector) - Cargo subcommand to select and execute binary/example targets.
 - [claudectl](https://github.com/mercurialsolo/claudectl) - Mission control for multiple Claude Code sessions with live dashboard, cost tracking, and budget enforcement.
@@ -157,6 +158,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
 - [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
+- [raygun](https://github.com/yetidevworks/raygun) - A terminal-based receiver for Spatie's Ray debugger, compatible with the Ray HTTP protocol used by PHP, Laravel, and Grav.
 - [raymon](https://github.com/bnomei/raymon) - Ray logging TUI and MCP Server.
 - [sabiql](https://github.com/riii111/sabiql) - A fast, driver-less TUI for browsing, querying, and editing PostgreSQL databases with vim-like keybindings.
 - [ratatui-form](https://github.com/DavidLiedle/ratatui-form) - A form library for ratatui.
@@ -179,6 +181,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [VLE](https://github.com/tuffy/vle) - A lightweight text editor.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
+- [ygrep](https://github.com/yetidevworks/ygrep) - A fast, local, indexed code search tool with a TUI, optimized for AI coding assistants and powered by Tantivy full-text indexing.
 
 ### 🕹️ Games and Entertainment
 
@@ -277,6 +280,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
 - [wiretui](https://github.com/robin-thoene/wiretui) - A minimal keyboard-driven TUI to manage WireGuard VPN connections.
 - [YADB](https://github.com/izya4ka/yadb) - A web directory brute-forcing tool.
+- [yscan](https://github.com/yetidevworks/yscan) - A TUI-first network scanner with ARP, mDNS, and SSDP discovery.
+- [ytunnel](https://github.com/yetidevworks/ytunnel) - A TUI-first CLI for managing Cloudflare Tunnels with custom domains.
 
 ### 🚀 Productivity and Utilities
 
