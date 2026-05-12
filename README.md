@@ -256,6 +256,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
+- [mullvad-tui](https://github.com/d10n/mullvad-tui) - A TUI for Mullvad VPN.
 - [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
 - [nordvpn-tui](https://github.com/Degra02/nordvpn-tui) - A TUI for NordVPN.
 - [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
