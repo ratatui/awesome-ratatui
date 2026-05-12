@@ -142,6 +142,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [git-time-machine](https://github.com/dinakars777/git-time-machine) - Visual Git reflog TUI for undoing Git mistakes.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
+- [gmsg](https://github.com/olorikendrick/gmsg) - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [ilmari](https://github.com/bnomei/ilmari) - Minimal tmux popup radar to track your agents.
 - [image-auditor](https://github.com/0franco/image-auditor) - Find & fix Lighthouse image issues (CLS, lazy loading, WebP, srcset) across your codebase.
@@ -256,6 +257,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
+- [mullvad-tui](https://github.com/d10n/mullvad-tui) - A TUI for Mullvad VPN.
 - [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
 - [nordvpn-tui](https://github.com/Degra02/nordvpn-tui) - A TUI for NordVPN.
 - [oha](https://github.com/hatoo/oha) - Top-like monitoring tool for HTTP(S) traffic.
@@ -278,6 +280,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wiretui](https://github.com/robin-thoene/wiretui) - A minimal keyboard-driven TUI to manage WireGuard VPN connections.
 - [YADB](https://github.com/izya4ka/yadb) - A web directory brute-forcing tool.
 - [yscan](https://github.com/yetidevworks/yscan) - A TUI-first network scanner with ARP, mDNS, and SSDP discovery.
+- [ytunnel](https://github.com/yetidevworks/ytunnel) - A TUI-first CLI for managing Cloudflare Tunnels with custom domains.
 
 ### 🚀 Productivity and Utilities
 
