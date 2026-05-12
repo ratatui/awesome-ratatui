@@ -182,6 +182,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [VLE](https://github.com/tuffy/vle) - A lightweight text editor.
 - [VT Code](https://github.com/vinhnx/vtcode) - A Semantic Coding Agent.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
+- [ygrep](https://github.com/yetidevworks/ygrep) - A fast, local, indexed code search tool with a TUI, optimized for AI coding assistants and powered by Tantivy full-text indexing.
 
 ### 🕹️ Games and Entertainment
 
