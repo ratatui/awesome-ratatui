@@ -282,6 +282,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal.
 - [wiretui](https://github.com/robin-thoene/wiretui) - A minimal keyboard-driven TUI to manage WireGuard VPN connections.
 - [YADB](https://github.com/izya4ka/yadb) - A web directory brute-forcing tool.
+- [yscan](https://github.com/yetidevworks/yscan) - A TUI-first network scanner with ARP, mDNS, and SSDP discovery.
 - [ytunnel](https://github.com/yetidevworks/ytunnel) - A TUI-first CLI for managing Cloudflare Tunnels with custom domains.
 
 ### 🚀 Productivity and Utilities
