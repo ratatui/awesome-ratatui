@@ -356,7 +356,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [scriptor](https://github.com/giacomopiccinini/scriptor) - A (medieval) local speech-to-text TUI & CLI.
 - [snipt](https://github.com/snipt/snipt) - A text snippet expansion tool with a TUI for managing snippets.
 - [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar) - A TUI calendar with Google Calendar sync and DAG-linked events.
-- [splashboard](https://github.com/unhappychoice/splashboard) - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards.
+- [splashboard](https://github.com/unhappychoice/splashboard) - A customizable terminal splash rendered on shell startup or directory updates.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
