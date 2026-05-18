@@ -390,6 +390,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🤡 Social Media
 
 - [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
+- [hnr](https://github.com/prasanthj/hnr) - A terminal UI for Hacker News — browse feeds, read threaded comments, vote, reply, search, and bookmark.
 - [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
 - [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 - [nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr.
