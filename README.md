@@ -58,6 +58,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [edtui](https://github.com/preiter93/edtui) - A TUI based vim-inspired editor widget for ratatui.
 - [hyperrat](https://crates.io/crates/hyperrat) - An OSC 8 link widget for ratatui.
+- [ratatui-comfy-toaster](https://crates.io/crates/ratatui-comfy-toaster) - An advanced toast notification engine for Ratatui terminal UI applications.
 - [ratatui-explorer](https://github.com/tatounee/ratatui-explorer) - A simple library for creating file explorer for ratatui.
 - [ratatui-image](https://crates.io/crates/ratatui-image) - An image widget for ratatui, supporting sixels and unicode-halfblocks.
 - [ratatui-fretboard](https://crates.io/crates/ratatui-fretboard) - A widget for displaying musical note positions on a fretboard.
@@ -131,6 +132,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
 - [cargo-selector](https://github.com/lusingander/cargo-selector) - Cargo subcommand to select and execute binary/example targets.
 - [claudectl](https://github.com/mercurialsolo/claudectl) - Mission control for multiple Claude Code sessions with live dashboard, cost tracking, and budget enforcement.
+- [ComfyGit](https://github.com/comfy-home/ComfyGit) - All-In-One: Centralised multi-project management, Changelog generator, Version bumber & CLI tool introducing a new ComfyGitFlow.
 - [commandOK](https://github.com/64bit/commandOK) - Spotlight-like command generator for your terminal, supports leading LLM providers.
 - [crmux](https://github.com/maedana/crmux) - A TUI viewer for monitoring and managing multiple Claude Code sessions in tmux.
 - [deadbranch](https://github.com/armgabrielyan/deadbranch) - A TUI for cleaning stale Git branches safely.
