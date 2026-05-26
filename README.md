@@ -124,6 +124,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### ⌨️ Development Tools
 
+- [ascii-agents](https://github.com/IvanWng97/ascii-agents) - Terminal pixel-art office that visualizes AI coding agent sessions as animated sprites with half-block rendering and A* pathfinding.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [blippy](https://github.com/AksharP5/blippy) - A keyboard-first TUI for GitHub issues and pull requests.
