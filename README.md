@@ -158,7 +158,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
 - [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
-- [pixtuoid](https://github.com/IvanWng97/pixtuoid) - Live pixel-art office for AI coding agents — each Claude Code session walks in, takes a desk, and animates per tool call.
+- [pixtuoid](https://github.com/IvanWng97/pixtuoid) - Live pixel-art office for AI coding agents.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
 - [raygun](https://github.com/yetidevworks/raygun) - A terminal-based receiver for Spatie's Ray debugger, compatible with the Ray HTTP protocol used by PHP, Laravel, and Grav.
 - [raymon](https://github.com/bnomei/raymon) - Ray logging TUI and MCP Server.
