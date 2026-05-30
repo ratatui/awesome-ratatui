@@ -72,6 +72,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-additions](https://crates.io/crates/tui-additions) - Additions to the rust tui crate.
 - [tui-big-text](https://crates.io/crates/tui-big-text) - A simple ratatui widget for displaying big text using the `font8x8` crate.
 - [tui-dialog](https://docs.rs/tui-dialog) - A widget for entering a single line of text in a dialog.
+- [tui-globe](https://github.com/d10n/tui-globe) - A 3D globe widget rendered with braille.
 - [tui-logger](https://crates.io/crates/tui-logger) - Logger with smart widget for ratatui.
 - [tui-menu](https://github.com/shuoli84/tui-menu) - A menu widget for ratatui ecosystem.
 - [tui-nodes](https://crates.io/crates/tui-nodes) - Node graph visualization.
