@@ -37,6 +37,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🏗️ Frameworks
 
 - [bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
+- [crepuscularity](https://github.com/tschk/crepuscularity) - One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included.
 - [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WebAssembly or ship natively with bevy, macroquad, or eframe.
 - [mousefood](https://github.com/j-g00da/mousefood) - An embedded-graphics backend for Ratatui.
 - [dumo](https://github.com/iddey/dumo) - An embedded-graphics backend that is built on [mplusfonts](https://github.com/iddey/mplusfonts) and has kanji support.
