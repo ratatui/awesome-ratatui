@@ -67,6 +67,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-toaster](https://crates.io/crates/ratatui-toaster) - An extremely lightweight toast engine for ratatui.
 - [ratatui-cheese](https://crates.io/crates/ratatui-cheese) - Bubbletea-inspired widgets for ratatui, including spinner, help, tree, paginator and list.
 - [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for ratatui, syntax highlighting powered by tree-sitter.
+- [ratatui-markdown](https://github.com/celestia-island/ratatui-markdown) - A Rust library providing markdown rendering, Mermaid diagrams, syntax highlighting, collapsible JSON/TOML tree views, and a rich hybrid scroll system.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
 - [throbber-widgets-tui](https://crates.io/crates/throbber-widgets-tui) - A widget that displays throbber.
 - [tui-additions](https://crates.io/crates/tui-additions) - Additions to the rust tui crate.
