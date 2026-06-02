@@ -58,7 +58,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [edtui](https://github.com/preiter93/edtui) - A TUI based vim-inspired editor widget for ratatui.
 - [hyperrat](https://crates.io/crates/hyperrat) - An OSC 8 link widget for ratatui.
-- [ratatui-comfy-toaster](https://crates.io/crates/ratatui-comfy-tabs) - A feature-rich tab navigation for TUI. Highly customizable.
+- [ratatui-comfy-tabs](https://crates.io/crates/ratatui-comfy-tabs) - A feature-rich tab navigation for TUI. Highly customizable.
 - [ratatui-comfy-toaster](https://crates.io/crates/ratatui-comfy-toaster) - An advanced toast notification engine for Ratatui terminal UI applications.
 - [ratatui-explorer](https://github.com/tatounee/ratatui-explorer) - A simple library for creating file explorer for ratatui.
 - [ratatui-image](https://crates.io/crates/ratatui-image) - An image widget for ratatui, supporting sixels and unicode-halfblocks.
