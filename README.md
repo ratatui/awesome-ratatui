@@ -159,6 +159,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
+- [patent](https://github.com/r14dd/patent) - A prior-art search for devtool ideas.
+  LLM verdict.
 - [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
 - [pixtuoid](https://github.com/IvanWng97/pixtuoid) - Live pixel-art office for AI coding agents.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
