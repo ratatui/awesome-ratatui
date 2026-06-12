@@ -258,6 +258,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tusic](https://github.com/eminfedar/tusic) - Lightweight TUI Music Player. Play from YouTube or ~/Music folder easily.
 - [trollstov](https://github.com/hikikones/trollstov) - A music player for the terminal where your files and their metadata are all you need.
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
+- [ytmusic-tui](https://github.com/WakaTaira/ytmusic-tui) - TUI client for YouTube Music with vim-style keybindings, spotify-player-inspired navigation, and MPRIS2 support.
 - [ytsub](https://github.com/sarowish/ytsub) - A subscriptions only TUI YouTube client.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
 
