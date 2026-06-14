@@ -200,6 +200,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [astray](https://github.com/Vinermy/astray) - TUI-based space strategy game.
 - [Battleship.rs](https://github.com/deepu105/battleship-rs) - Terminal-based Battleship game.
 - [bigbrainwordle](https://github.com/kloki/bigbrainwordle) - A tool to help you cheat with the daily wordle.
+- [Blackjack](https://github.com/skharchikov/blackjack) - Multiplayer Blackjack with a WebSocket server and a terminal client.
 - [chessterm](https://github.com/ronaldsuwandi/chessterm) - A Rust-powered chess engine in a terminal.
 - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - Terminal-based Chess game.
 - [crosstui](https://github.com/matrixfrog/crossword) - Terminal-based crossword puzzle player.
