@@ -314,6 +314,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [btlescan](https://github.com/ztroop/btlescan) - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
 - [budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A fast, keyboard-driven TUI for tracking expenses, managing categories, and analyzing your budget with ease.
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
+- [columbus](https://github.com/sivaprakashkrp/columbus) - A GUI-like TUI file explorer.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [ddv](https://github.com/lusingander/ddv) - Terminal DynamoDB viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
