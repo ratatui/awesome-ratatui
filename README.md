@@ -365,6 +365,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for pass.
 - [pgmon](https://github.com/nbari/pgmon) - A TUI for monitoring PostgresSQL databases.
 - [pgtui](https://codeberg.org/kdwarn/pgtui) - A PostgresSQL TUI client that utilizes your terminal text editor for inserts & updates.
+- [quick-note](https://github.com/daniel-valencia-ts/quick-note) - A simple note-taking tool.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
 - [rgx](https://github.com/brevity1swos/rgx) - A terminal regex debugger with real-time matching, 3 engines, capture group highlighting, replace mode, and plain-English explanations.
 - [revw](https://github.com/rlelf/revw) - A vim-like TUI for managing notes and resources.
