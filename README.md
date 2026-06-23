@@ -255,6 +255,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A simple oscilloscope/vectorscope/spectroscope for your terminal.
 - [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
+- [sparkplayer](https://github.com/dividebysandwich/sparkplayer/tree/main) - A fun terminal based media player with album art and video support.
 - [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client with native streaming, synced lyrics, and audio visualization. A direct fork of spotify-tui with continued development and new features.
 - [spotify-player](https://github.com/aome510/spotify-player) - An independently developed Spotify player with full feature parity.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
