@@ -186,6 +186,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
 - [TermiRs](https://github.com/caelansar/termirs) - A modern, async SSH terminal client.
+- [thurbox](https://github.com/Thurbeen/thurbox) - A TUI orchestrator for running multiple AI coding agents (Claude Code, Codex, and others) in persistent tmux sessions.
 - [toktop](https://github.com/htin1/toktop) - A LLM usage monitor in terminal.
 - [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
