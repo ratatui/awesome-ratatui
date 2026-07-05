@@ -233,6 +233,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [terminal.pong](https://github.com/IshmamR/terminal.pong) - Terminal based ping pong game.
 - [Thardians](https://gitlab.com/thustle/thardians-rs) - Space Invaders for the terminal.
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
+- [WOPR TUI 2026](https://github.com/ankurCES/WOPR_TUI_2026) - A WarGames-inspired Cold War simulation TUI with AI-powered scenarios, DEFCON escalation, and multi-language intelligence intercepts.
 - [wordl](https://github.com/palerdot/wordl-rs) - Terminal-based Wordle game. Web like experience with keyboard hints and guess reveal animations.
 
 ### 🎼 Music and Media
