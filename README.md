@@ -192,6 +192,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [toktop](https://github.com/htin1/toktop) - A LLM usage monitor in terminal.
 - [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle for AI agents with SQLite/FTS recall, audit, forgetting, consolidation, and a Ratatui operator console.
 - [trex](https://github.com/blackopsrepl/trex) - A fast tmux session manager with fuzzy finding, per session stats and AI Agent tracking.
 - [Yardlet](https://github.com/zzunkie/yardlet) - A local AI workbench that turns intent into a verified task queue and drives your installed Claude Code or Codex CLIs as interchangeable workers.
 - [Yozefu](https://github.com/MAIF/yozefu/) - A TUI for exploring data of a Kafka cluster.
