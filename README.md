@@ -41,7 +41,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WebAssembly or ship natively with bevy, macroquad, or eframe.
 - [mousefood](https://github.com/j-g00da/mousefood) - An embedded-graphics backend for Ratatui.
 - [dumo](https://github.com/iddey/dumo) - An embedded-graphics backend that is built on [mplusfonts](https://github.com/iddey/mplusfonts) and has kanji support.
-- [ratatui-kit](https://crates.io/crates/ratatui-kit) - A React-style component framework for Ratatui with hooks, routing, async state, input layers, and reusable components.
+- [ratatui-kit](https://github.com/yexiyue/ratatui-kit) - A React-style component framework for Ratatui with hooks, routing, async state, input layers, and reusable components.
 - [ratatui-minecraft](https://github.com/janTatesa/ratatui-minecraft) - A ratatui backend that uses [valence-screens](https://github.com/White-145/valence-screens)
 - [ratatui-uefi](https://github.com/reubeno/tui-uefi) - A ratatui backend for use in UEFI environments.
 - [ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
