@@ -455,6 +455,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [kubectl-watch](https://github.com/imuxin/kubectl-watch) - A kubectl plugin to provide a pretty delta change view of being watched Kubernetes resources.
 - [kubetui](https://github.com/sarub0b0/kubetui) - TUI for real-time monitoring of Kubernetes resources.
+- [lazyrsync](https://github.com/westpoint-io/lazyrsync) - A TUI for rsync: reusable profiles, a dry-run diff preview, and live run progress.
 - [lazyslurm](https://github.com/hill/lazyslurm) - A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
 - [logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting.
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance monitoring for Apple Silicon processors.
