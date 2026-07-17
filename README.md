@@ -342,6 +342,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [exhaust](https://github.com/heyrict/exhaust) - A terminal app for doing exams.
 - [feedr](https://github.com/bahdotsh/feedr) - A terminal-based RSS/Atom feed reader with a TUI.
 - [flerp](https://github.com/Huseynteymurzade28/flerp) - A TUI for exploring and analyzing text files, PDFs and images.
+- [focusd](https://github.com/bibekbhusal0/focusd) - A terminal pomodoro timer with daemon, stats, history, streak, and nice interface.
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) - A TUI RSS reader based on the news_flash library inspired by Neovim and co.
 - [fitui](https://github.com/ayanchavand/fitui) - A terminal-based personal finance tracker and budgeting with TUI.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
