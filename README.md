@@ -462,6 +462,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting.
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance monitoring for Apple Silicon processors.
 - [mirro-rs](https://github.com/rtkay123/mirro-rs) - An Arch Linux mirrorlist manager with a TUI.
+- [nightlight-tui](https://github.com/umutdinceryananer/nightlightd) - Dashboard for the nightlightd screen colour temperature daemon.
 - [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control Docker containers.
 - [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon.
