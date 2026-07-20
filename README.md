@@ -214,6 +214,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Blackjack](https://github.com/skharchikov/blackjack) - Multiplayer Blackjack with a WebSocket server and a terminal client.
 - [chessterm](https://github.com/ronaldsuwandi/chessterm) - A Rust-powered chess engine in a terminal.
 - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - Terminal-based Chess game.
+- [Connect-four](https://github.com/jesper-olsen/connect-four) - Connect-four; interactive game + perfect solver.
 - [crosstui](https://github.com/matrixfrog/crossword) - Terminal-based crossword puzzle player.
 - [Dealve](https://github.com/kurama/dealve-tui) - Browse game deals across Steam, GOG, Humble Bundle, Epic Games, and more from your terminal.
 - [enimtui](https://codeberg.org/tranzystorekk/enimtui) - Terminal-based minesweeper knockoff.
