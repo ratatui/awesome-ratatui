@@ -106,6 +106,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bevy_ratatui](https://github.com/joshka/bevy_ratatui) - A Rust crate to use Ratatui in a Bevy App.
 - [color-to-tui](https://crates.io/crates/color-to-tui) - Parse colors and convert them to `ratatui::style::Colors`.
 - [coolor](https://github.com/Canop/coolor) - Tiny color conversion library for TUI application builders.
+- [ggsci-ratatui](https://crates.io/crates/ggsci-ratatui) - Scientific and sci-fi color palettes from ggsci as Ratatui colors and styles, in truecolor or ANSI-256 mode.
 - [opaline](https://crates.io/crates/opaline) - Token-based theme engine for Ratatui with gradients, 20 builtin themes, user theme discovery, and a reusable theme selector widget.
 - [ratatui-garnish](https://github.com/franklaranja/ratatui-garnish) - A powerful composition system for Ratatui widgets.
 - [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
