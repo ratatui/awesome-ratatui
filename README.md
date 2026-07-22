@@ -425,6 +425,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tuxedo](https://github.com/webstonehq/tuxedo) - A fast, keyboard-driven terminal UI for todo.txt.
 - [vault-tasks](https://github.com/louis-thevenet/vault-tasks) - TUI Markdown Task Manager.
 - [visualvault](https://github.com/mikeleppane/visualvault) - A TUI for organizing media files.
+- [void](https://github.com/p6laris/Void) - A focus app with built-in task management, streak tracking, and customizable break schedules.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 - [work-tuimer](https://github.com/Kamyil/work-tuimer) - A TUI for easier time tracking each day, task-per-task with summaries.
 - [xan](https://github.com/medialab/xan) - A terminal tool for processing CSV files.
