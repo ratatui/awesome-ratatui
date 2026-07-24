@@ -336,6 +336,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents.
 - [columbus](https://github.com/sivaprakashkrp/columbus) - A GUI-like TUI file explorer.
+- [comhad](https://github.com/Eoin-McMahon/Comhad) - A ranger-style terminal browser for S3, with previews, background transfers, and non-destructive sync.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [ddv](https://github.com/lusingander/ddv) - Terminal DynamoDB viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
@@ -466,6 +467,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance monitoring for Apple Silicon processors.
 - [mirro-rs](https://github.com/rtkay123/mirro-rs) - An Arch Linux mirrorlist manager with a TUI.
 - [napwatch](https://github.com/Tuguberk/napwatch) - Diagnoses and controls macOS power/battery behavior: dark wakes, Power Nap, live drain rate, and per-process power draw.
+- [mxmon](https://github.com/yusufmo1/mxmon) - Sudoless Apple Silicon monitor with per-process watts, a live chassis heat map, and a JSON contract for scripts and agents.
 - [nightlight-tui](https://github.com/umutdinceryananer/nightlightd) - Dashboard for the nightlightd screen colour temperature daemon.
 - [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control Docker containers.
 - [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
