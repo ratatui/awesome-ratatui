@@ -336,6 +336,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents.
 - [columbus](https://github.com/sivaprakashkrp/columbus) - A GUI-like TUI file explorer.
+- [comhad](https://github.com/Eoin-McMahon/Comhad) - A ranger-style terminal browser for S3, with previews, background transfers, and non-destructive sync.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [ddv](https://github.com/lusingander/ddv) - Terminal DynamoDB viewer.
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
