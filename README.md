@@ -425,7 +425,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [tuxedo](https://github.com/webstonehq/tuxedo) - A fast, keyboard-driven terminal UI for todo.txt.
 - [vault-tasks](https://github.com/louis-thevenet/vault-tasks) - TUI Markdown Task Manager.
-- [vib](https://github.com/ayanchavand/vib) - A terminal file browser with [LocalSend](https://github.com/localsend/localsend) built in, for managing, organizing, and transferring files across devices.
+- [vib](https://github.com/ayanchavand/vib) - A terminal file browser with LocalSend built in, for managing, organizing and transferring files across devices.
 - [visualvault](https://github.com/mikeleppane/visualvault) - A TUI for organizing media files.
 - [void](https://github.com/p6laris/Void) - A focus app with built-in task management, streak tracking, and customizable break schedules.
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
