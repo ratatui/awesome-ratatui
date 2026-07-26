@@ -349,7 +349,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [flerp](https://github.com/Huseynteymurzade28/flerp) - A TUI for exploring and analyzing text files, PDFs and images.
 - [focusd](https://github.com/bibekbhusal0/focusd) - A terminal pomodoro timer with daemon, stats, history, streak, and nice interface.
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) - A TUI RSS reader based on the news_flash library inspired by Neovim and co.
-- [fastcards](https://github.com/indium114/fastcards) - A CLI spaced-repetition flashcard study tool
+- [fastcards](https://github.com/indium114/fastcards) - A CLI spaced-repetition flashcard study tool.
 - [fitui](https://github.com/ayanchavand/fitui) - A terminal-based personal finance tracker and budgeting with TUI.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
 - [flyline](https://github.com/HalFrgrd/flyline) - A Bash plugin TUI for an enhanced command line writing experience.
