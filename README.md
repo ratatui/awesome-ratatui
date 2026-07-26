@@ -98,7 +98,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-piechart](https://crates.io/crates/tui-piechart) - A configurable, colorful piechart widget that comes in standard and high resolution.
 - [rat-widget](https://crates.io/crates/rat-widget) - Widgets for data-input (text-input, date- and number-input, text-area, checkbox, choice, radiobutton, slider, calendar), structural widgets (view, split, tabbed, multi-page), a table widget for large data-sets, a file-dialog, a menubar+sub-menus, a status-bar and some more. With builtin crossterm event-handling and focus-handling.
 - [tui-slider](https://crates.io/crates/tui-slider) - A highly customizable slider widget for both horizontal and vertical orientations.
-- [tui-shimmer](https://github.com/vinhnx/tui-shimmer) - Shimmer text effect for Ratatui. 
+- [tui-shimmer](https://github.com/vinhnx/tui-shimmer) - Shimmer text effect for Ratatui.
 
 ### 🔧 Utilities
 
@@ -349,6 +349,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [flerp](https://github.com/Huseynteymurzade28/flerp) - A TUI for exploring and analyzing text files, PDFs and images.
 - [focusd](https://github.com/bibekbhusal0/focusd) - A terminal pomodoro timer with daemon, stats, history, streak, and nice interface.
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) - A TUI RSS reader based on the news_flash library inspired by Neovim and co.
+- [fastcards](https://github.com/indium114/fastcards) - A CLI spaced-repetition flashcard study tool
 - [fitui](https://github.com/ayanchavand/fitui) - A terminal-based personal finance tracker and budgeting with TUI.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing security vulnerabilities (CVEs).
 - [flyline](https://github.com/HalFrgrd/flyline) - A Bash plugin TUI for an enhanced command line writing experience.
