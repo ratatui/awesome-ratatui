@@ -375,7 +375,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [matchmaker](https://github.com/Squirreljetpack/matchmaker) - Fuzzy picker (FZF reboot).
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
-- [mirador](https://github.com/jchultarsky/mirador) - A personal dashboard: world clocks, calendar and `.ics` agenda, weather, tasks, notes, a market watchlist and live CPU and network graphs, in a configurable grid.
+- [mirador](https://github.com/jchultarsky/mirador) - A personal dashboard with world clocks, calendar, weather, tasks, notes, a market watchlist and live CPU and network graphs.
 - [models](https://github.com/arimxyer/models) - A TUI for browsing AI models, benchmarks, and coding agents.
 - [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
 - [neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker) - A privacy-first TUI to track what apps you use and how long you spend on them.
