@@ -410,6 +410,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tatuin](https://github.com/panter-dsd/tatuin) - Task Aggregator TUI for N providers.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
 - [television](https://github.com/alexpasmantier/television) - A blazingly fast general purpose fuzzy finder for your terminal.
+- [termi](https://github.com/tuna4ll/termi) - A modal terminal code editor.
 - [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
 - [tickrs](https://github.com/tarkah/tickrs) - Stock market ticker in the terminal.
 - [timr-tui](https://github.com/sectore/timr-tui) - TUI to organize your time: Pomodoro, Countdown, Timer, Event.
