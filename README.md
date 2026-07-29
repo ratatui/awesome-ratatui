@@ -185,6 +185,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sabiql](https://github.com/riii111/sabiql) - A fast, driver-less TUI for browsing, querying, and editing PostgreSQL databases with vim-like keybindings.
 - [ratatui-form](https://github.com/DavidLiedle/ratatui-form) - A form library for ratatui.
 - [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
+- [Reeve](https://github.com/Dancode-188/reeve) - A terminal cockpit for AI agents: watch a run live, score it, and step in when it goes sideways.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal.
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
