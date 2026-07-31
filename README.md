@@ -56,6 +56,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [widgetui](https://crates.io/crates/widgetui) - A bevy-like widget system for ratatui and crossterm.
 - [rat-salsa](https://github.com/thscharler/rat-salsa) - An event-queue for ratatui with tasks, timers, application events, focus handling, dialog windows.
 - [raclettui](https://github.com/ishrut/raclettui) - A wayland layer shell window implementing the ratatui backend with cpu and wgpu rendering.
+- [xnano](https://github.com/hsaeed3/xnano) - A declarative terminal framework for Python built on ratatui & ratzilla.
 
 ### 🧩 Widgets
 
