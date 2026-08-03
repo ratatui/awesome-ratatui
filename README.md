@@ -158,6 +158,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [git-time-machine](https://github.com/dinakars777/git-time-machine) - Visual Git reflog TUI for undoing Git mistakes.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
+- [Gitside](https://github.com/dev-bhaskar8/gitside) - A responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gmsg](https://github.com/olorikendrick/gmsg) - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
