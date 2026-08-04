@@ -152,6 +152,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [deadbranch](https://github.com/armgabrielyan/deadbranch) - A TUI for cleaning stale Git branches safely.
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [deputui](https://github.com/twiddler/deputui) - Review and install NPM package updates.
+- [drydock](https://github.com/yetidevworks/drydock) - A live dashboard for a fleet of git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
 - [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
