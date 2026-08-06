@@ -140,6 +140,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [agx](https://github.com/brevity1swos/agx) - A step-through debugger for AI agent execution traces.
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
+- [BitFun](https://github.com/GCWing/BitFun) - An AI coding agent with a Rust runtime and Ratatui CLI/TUI for repository work, sessions, and extensible tools.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [blippy](https://github.com/AksharP5/blippy) - A keyboard-first TUI for GitHub issues and pull requests.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
