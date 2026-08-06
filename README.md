@@ -498,6 +498,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
 - [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
 - [thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops.
+- [winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring tool with live metrics, time-series graphs, A/B comparison. 
 - [v4l-tui](https://github.com/sermuns/v4l-tui) - Configure webcams on Linux via Video4Linux. TUI alternative to `v4l2-ctl`.
 - [gentooplz](https://github.com/JustRoccat/gentooplz) - A live terminal dashboard for what Portage is building in real time.
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
