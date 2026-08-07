@@ -303,6 +303,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
+- [LazyMQTT](https://github.com/ScottFelder/lazymqtt) - Terminal UI MQTT client with features like saved connections, live topic tree, and message inspector.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
 - [mullvad-tui](https://github.com/d10n/mullvad-tui) - A TUI for Mullvad VPN.
 - [mxr](https://github.com/planetaryescape/mxr) - Local-first email client with Vim-style navigation, multi-account sync, and full-text search.
