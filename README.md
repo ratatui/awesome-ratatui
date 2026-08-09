@@ -116,6 +116,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-interact](https://github.com/Brainwires/ratatui-interact) - Interactive TUI components for Ratatui with focus management and mouse support.
 - [tachyonfx](https://github.com/junkdog/tachyonfx) - A shader-like effects library for ratatui.
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
+- [termlens](https://github.com/vyncint/termlens) - A headless PTY test harness: spawn a TUI in a real PTY and assert or snapshot on the emulated screen.
 - [termprofile](https://github.com/aschey/termprofile) - Detect and handle terminal color/styling support. Supports converting Ratatui color and style objects.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
 - [tui-pantry](https://crates.io/crates/tui-pantry) - Component-driven development tool for ratatui widgets, similar to Storybook.
