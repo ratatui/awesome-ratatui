@@ -140,7 +140,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [agx](https://github.com/brevity1swos/agx) - A step-through debugger for AI agent execution traces.
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
-- [BitFun](https://github.com/GCWing/BitFun) - An AI coding agent
+- [BitFun](https://github.com/GCWing/BitFun) - An AI coding agent.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [blippy](https://github.com/AksharP5/blippy) - A keyboard-first TUI for GitHub issues and pull requests.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
@@ -153,7 +153,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [deadbranch](https://github.com/armgabrielyan/deadbranch) - A TUI for cleaning stale Git branches safely.
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [deputui](https://github.com/twiddler/deputui) - Review and install NPM package updates.
-- [drydock](https://github.com/yetidevworks/drydock) - A live dashboard for a fleet of git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
+- [drydock](https://github.com/yetidevworks/drydock) - A live dashboard for a fleet of Git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
 - [Forge](https://github.com/NorviaLabs/forge) - An AI coding agent that unifies an agent, code editor, and shell in a single keyboard-driven terminal workspace.
 - [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
