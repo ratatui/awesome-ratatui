@@ -140,7 +140,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [agx](https://github.com/brevity1swos/agx) - A step-through debugger for AI agent execution traces.
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client for your terminal.
-- [BitFun](https://github.com/GCWing/BitFun) - An AI coding agent
+- [BitFun](https://github.com/GCWing/BitFun) - An AI coding agent.
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern rust debugger for Linux x86-64.
 - [blippy](https://github.com/AksharP5/blippy) - A keyboard-first TUI for GitHub issues and pull requests.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
@@ -153,7 +153,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [deadbranch](https://github.com/armgabrielyan/deadbranch) - A TUI for cleaning stale Git branches safely.
 - [desed](https://github.com/SoptikHa2/desed) - Debugging tool for sed scripts.
 - [deputui](https://github.com/twiddler/deputui) - Review and install NPM package updates.
-- [drydock](https://github.com/yetidevworks/drydock) - A live dashboard for a fleet of git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
+- [drydock](https://github.com/yetidevworks/drydock) - A live dashboard for a fleet of Git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
 - [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
@@ -164,6 +164,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gmsg](https://github.com/olorikendrick/gmsg) - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
+- [gwm](https://github.com/kbrdn1/gwm-cli) - A Git worktree manager: CLI and TUI in one binary, native libgit2, per-repo declarative bootstrap, and AI agent session tracking.
 - [ilmari](https://github.com/bnomei/ilmari) - Minimal tmux popup radar to track your agents.
 - [image-auditor](https://github.com/0franco/image-auditor) - Find & fix Lighthouse image issues (CLS, lazy loading, WebP, srcset) across your codebase.
 - [iris](https://github.com/itzenata/iris-tui) - Live supervisor for every active Claude Code session - status, tokens, estimated cost, and one-pane approval of tool calls.
