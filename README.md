@@ -245,6 +245,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sharad-ratatui](https://github.com/ProHaller/sharad_ratatui) - A text-based Shadowrun role-playing game.
 - [Snake](https://github.com/kriskw1999/ratatui-snake) - Simple terminal based snake game.
 - [ssHattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
+- [sued-rs](https://github.com/Danilo-Guedes/sued-rs) - A horror-themed recreation of SueD, the 2000s Brazilian prank oracle.
 - [sxtetris](https://github.com/shixinhuang99/sxtetris) - A terminal Tetris game.
 - [tage](https://github.com/jacopograndi/tage) - Turn based strategy game with multiplayer, empires and warfare.
 - [termfarm](https://github.com/indium114/termfarm) - A simple idle farming game.
