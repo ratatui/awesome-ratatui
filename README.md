@@ -250,6 +250,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tage](https://github.com/jacopograndi/tage) - Turn based strategy game with multiplayer, empires and warfare.
 - [termfarm](https://github.com/indium114/termfarm) - A simple idle farming game.
 - [terminal.pong](https://github.com/IshmamR/terminal.pong) - Terminal based ping pong game.
+- [tetris-tui](https://github.com/Axyl1410/tetris-tui) - Terminal Tetris following the Tetris Guideline.
 - [Thardians](https://gitlab.com/thustle/thardians-rs) - Space Invaders for the terminal.
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
 - [WOPR TUI 2026](https://github.com/ankurCES/WOPR_TUI_2026) - A WarGames-inspired Cold War simulation TUI with AI-powered scenarios, DEFCON escalation, and multi-language intelligence intercepts.
