@@ -272,6 +272,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for myanimelist.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing all your Servarrs.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
+- [MovieBox-TUI](https://github.com/mesamirh/MovieBox-Tui) - Terminal client for discovering and downloading movies and series, with playback in mpv, VLC, or IINA.
 - [myx](https://github.com/HaseebKhalid1507/Myx) - Modern Spotify player for the terminal. With reactive themes.
 - [NoctaVox](https://github.com/Jaxx497/noctavox) - A lightweight, customizable TUI music player for local files.
 - [O₂](https://github.com/coignard/o2) - Rust port of the ORCΛ esoteric programming language and terminal livecoding environment.
