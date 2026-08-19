@@ -390,6 +390,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kanban](https://github.com/fulsomenko/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
 - [kimün](https://github.com/nico2sh/kimun) - A terminal-based Markdown note taking app that combines an interactive TUI with a scriptable CLI for automation.
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
+- [leetrs](https://github.com/shadowmkj/leetrs) - A TUI for browsing, testing, and submitting LeetCode problems directly from your terminal.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [lottie](https://github.com/coignard/lottie) - A terminal screenwriting editor for the Fountain plain-text screenplay format.
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
