@@ -162,7 +162,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [git-time-machine](https://github.com/dinakars777/git-time-machine) - Visual Git reflog TUI for undoing Git mistakes.
 - [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
 - [Gitside](https://github.com/dev-bhaskar8/gitside) - A responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
-- [ghx](https://github.com/tknawara/ghx) - A modal TUI for browsing remote forges (GitHub in-tree, others via stdio providers) with miller columns and syntax-highlighted previews.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab CI/CD pipelines and projects with style.
 - [gmsg](https://github.com/olorikendrick/gmsg) - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
@@ -191,6 +190,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
 - [raygun](https://github.com/yetidevworks/raygun) - A terminal-based receiver for Spatie's Ray debugger, compatible with the Ray HTTP protocol used by PHP, Laravel, and Grav.
 - [raymon](https://github.com/bnomei/raymon) - Ray logging TUI and MCP Server.
+- [rootle](https://github.com/tknawara/rootle) - A modal TUI for browsing remote forges (GitHub in-tree, others via stdio providers) with miller columns and syntax-highlighted previews.
 - [sabiql](https://github.com/riii111/sabiql) - A fast, driver-less TUI for browsing, querying, and editing PostgreSQL databases with vim-like keybindings.
 - [ratatui-form](https://github.com/DavidLiedle/ratatui-form) - A form library for ratatui.
 - [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
