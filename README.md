@@ -175,6 +175,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lingora-tui](https://github.com/nigeleke/lingora) - Browse, compare and validate Fluent i18n files.
 - [llmtrim](https://github.com/fkiene/llmtrim) - Local proxy that compresses LLM API requests to cut token cost, with a tabbed status dashboard for per-source cost and context use.
 - [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
+- [Martty](https://github.com/openma-ai/Martty) - An extensible Rust/ratatui terminal client for DeepSeek Harness and ACP-compatible coding agents, with plugins, tools, subagents, and durable sessions.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
 - [nereid](https://github.com/bnomei/nereid) - Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
