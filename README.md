@@ -340,6 +340,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [YADB](https://github.com/izya4ka/yadb) - A web directory brute-forcing tool.
 - [yscan](https://github.com/yetidevworks/yscan) - A TUI-first network scanner with ARP, mDNS, and SSDP discovery.
 - [ytunnel](https://github.com/yetidevworks/ytunnel) - A TUI-first CLI for managing Cloudflare Tunnels with custom domains.
+- [streamtop](https://github.com/Jorji49/streamtop) - Terminal-based diagnostic and validation tool for live HLS, DASH, and IPTV streams.
 
 ### 🚀 Productivity and Utilities
 
