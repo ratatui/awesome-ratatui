@@ -364,6 +364,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [dead-ringer](https://github.com/ztroop/dead-ringer) - Binary diff tool for Hex/ASCII analysis.
 - [depot-rs](https://github.com/quietpigeon/depot-rs) - A TUI for managing crates.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
+- [edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit.
 - [envx](https://github.com/mikeleppane/envx) - Environment variable manager for developers, featuring an intuitive TUI.
 - [exabind](https://github.com/junkdog/exabind) - An animated TUI for viewing KDE shortcuts.
 - [exhaust](https://github.com/heyrict/exhaust) - A terminal app for doing exams.
