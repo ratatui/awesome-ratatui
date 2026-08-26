@@ -499,6 +499,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mxmon](https://github.com/yusufmo1/mxmon) - Sudoless Apple Silicon monitor with per-process watts, a live chassis heat map, and a JSON contract for scripts and agents.
 - [nightlight-tui](https://github.com/umutdinceryananer/nightlightd) - Dashboard for the nightlightd screen colour temperature daemon.
 - [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control Docker containers.
+- [pacman-utils](https://github.com/ankur3-101106/pacman-utils) - A TUI for pacman, works on Arch-based Distros.
 - [parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon.
 - [purple](https://github.com/erickochen/purple) - TUI SSH config manager & launcher with fuzzy search, tags, cloud provider sync, tunnels and command snippets for server management.
