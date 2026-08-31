@@ -168,6 +168,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gmsg](https://github.com/olorikendrick/gmsg) - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
 - [gwm](https://github.com/kbrdn1/gwm-cli) - A Git worktree manager: CLI and TUI in one binary, native libgit2, per-repo declarative bootstrap, and AI agent session tracking.
+- [hedos](https://github.com/theiskaa/hedos) - A terminal shelf for the local AI models already on your machine, with a built-in OpenAI-compatible gateway.
 - [ilmari](https://github.com/bnomei/ilmari) - Minimal tmux popup radar to track your agents.
 - [image-auditor](https://github.com/0franco/image-auditor) - Find & fix Lighthouse image issues (CLS, lazy loading, WebP, srcset) across your codebase.
 - [iris](https://github.com/itzenata/iris-tui) - Live supervisor for every active Claude Code session - status, tokens, estimated cost, and one-pane approval of tool calls.
