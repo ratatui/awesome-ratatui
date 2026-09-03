@@ -418,6 +418,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [pgmon](https://github.com/nbari/pgmon) - A TUI for monitoring PostgresSQL databases.
 - [pgtui](https://codeberg.org/kdwarn/pgtui) - A PostgresSQL TUI client that utilizes your terminal text editor for inserts & updates.
 - [quick-note](https://github.com/daniel-valencia-ts/quick-note) - A simple note-taking tool.
+- [ratslate](https://github.com/azihsoyn/ratslate) - An infinite-canvas whiteboard driven by the mouse: boxes, connectors, tables and groups, saved as Obsidian-compatible JSON Canvas and exported as ASCII.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
 - [Respire](https://github.com/ElevenJune/respire) - A breathing app to take a break directly from your terminal.
 - [rgx](https://github.com/brevity1swos/rgx) - A terminal regex debugger with real-time matching, 3 engines, capture group highlighting, replace mode, and plain-English explanations.
