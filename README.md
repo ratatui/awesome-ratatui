@@ -191,6 +191,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
   LLM verdict.
 - [opencrabs](https://github.com/adolfousier/opencrabs) - Open-claw inspired orchestration layer for software development.
 - [pixtuoid](https://github.com/IvanWng97/pixtuoid) - Live pixel-art office for AI coding agents.
+- [Proqi](https://github.com/oborchers/proqi) - A terminal-native prompt composer for developers working with coding agents.
 - [rat-commander](https://github.com/dividebysandwich/rat-commander) - A fully-featured modern spiritual successor to Midnight-Commander with truecolor support and built-in process- and disk-explorer.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - A database management TUI for Postgres.
 - [raygun](https://github.com/yetidevworks/raygun) - A terminal-based receiver for Spatie's Ray debugger, compatible with the Ray HTTP protocol used by PHP, Laravel, and Grav.
