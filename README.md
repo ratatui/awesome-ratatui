@@ -73,6 +73,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-stacked-bar](https://github.com/zeqianli/ratatui-stacked-bar) - A stacked area chart widget for ratatui.
 - [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor widget for ratatui. Fork of `tui-textarea`.
 - [ratatui-toaster](https://crates.io/crates/ratatui-toaster) - An extremely lightweight toast engine for ratatui.
+- [ratatui-tournament](https://github.com/philipgreat/ratatui-tournament) - A widget for rendering single-elimination tournament brackets in the terminal.
 - [ratatui-cheese](https://crates.io/crates/ratatui-cheese) - Bubbletea-inspired widgets for ratatui, including spinner, help, tree, paginator and list.
 - [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor widget for ratatui, syntax highlighting powered by tree-sitter.
 - [ratatui-markdown](https://github.com/celestia-island/ratatui-markdown) - A Rust library providing markdown rendering, Mermaid diagrams, syntax highlighting, collapsible JSON/TOML tree views, and a rich hybrid scroll system.
