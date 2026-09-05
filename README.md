@@ -425,6 +425,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rgx](https://github.com/brevity1swos/rgx) - A terminal regex debugger with real-time matching, 3 engines, capture group highlighting, replace mode, and plain-English explanations.
 - [revw](https://github.com/rlelf/revw) - A vim-like TUI for managing notes and resources.
 - [Rex](https://github.com/TheRustyPickle/Rex) - A TUI for managing Incomes and Expenses.
+- [rsstig](https://github.com/indium114/rsstig) - An unconventional terminal RSS/Atom reader.
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
 - [rusty-krab-manager](https://github.com/aryakaul/rusty-krab-manager) - Rime management TUI in Rust.
@@ -519,7 +520,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
 - [tegratop](https://github.com/pythops/tegratop) - TUI monitoring tool (top like) for Nvidia jetson boards.
 - [thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops.
-- [winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring tool with live metrics, time-series graphs, A/B comparison. 
+- [winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring tool with live metrics, time-series graphs, A/B comparison.
 - [v4l-tui](https://github.com/sermuns/v4l-tui) - Configure webcams on Linux via Video4Linux. TUI alternative to `v4l2-ctl`.
 - [gentooplz](https://github.com/JustRoccat/gentooplz) - A live terminal dashboard for what Portage is building in real time.
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
