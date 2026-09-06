@@ -197,7 +197,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [raygun](https://github.com/yetidevworks/raygun) - A terminal-based receiver for Spatie's Ray debugger, compatible with the Ray HTTP protocol used by PHP, Laravel, and Grav.
 - [raymon](https://github.com/bnomei/raymon) - Ray logging TUI and MCP Server.
 - [rootle](https://github.com/rootledev/rootle) - A modal TUI for browsing remote forges (GitHub in-tree, others via stdio providers) with miller columns and syntax-highlighted previews.
-- [sabiql](https://github.com/riii111/sabiql) - A fast, driver-less TUI for browsing, querying, and editing PostgreSQL databases with vim-like keybindings.
+- [sabiql](https://github.com/riii111/sabiql) - Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.
 - [ratatui-form](https://github.com/DavidLiedle/ratatui-form) - A form library for ratatui.
 - [ratifact](https://github.com/adolfousier/ratifact) - Track and manage build artifacts from multiple programming languages.
 - [Reeve](https://github.com/Dancode-188/reeve) - A terminal cockpit for AI agents: watch a run live, score it, and step in when it goes sideways.
