@@ -515,6 +515,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [quokka](https://github.com/dutradotdev/quokka) - A TUI to inspect and tidy a USB-connected iPhone from macOS: storage, apps, media, syslog viewer.
 - [reeve](https://github.com/yetidevworks/reeve) - Manages a local web stack as per-user services: Caddy, Apache or nginx, per-vhost PHP-FPM versions, databases, local SSL, and wildcard DNS.
 - [slurmer](https://github.com/wjwei-handsome/Slurmer) - A TUI for monitoring and managing SLURM jobs.
+- [sqwatch](https://github.com/fedonman/sqwatch) - A live SLURM queue dashboard: filter jobs by user, state, partition or node, tail logs, inspect submission scripts, and cancel in bulk.
 - [systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs.
 - [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI.
 - [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface.
