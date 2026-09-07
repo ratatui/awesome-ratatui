@@ -319,6 +319,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker querying 34 resolvers worldwide, with a world map.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
+- [jdtui](https://github.com/rylos/jdtui) - A TUI for JDownloader 2 over the My.JDownloader API: downloads, link grabber, accounts and settings, from anywhere.
 - [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
 - [LazyMQTT](https://github.com/ScottFelder/lazymqtt) - Terminal UI MQTT client with features like saved connections, live topic tree, and message inspector.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - MQTT client for subscribing or publishing to topics.
