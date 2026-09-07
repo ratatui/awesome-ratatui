@@ -208,6 +208,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 - [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
 - [stevedore](https://github.com/takumiymd/stevedore) - A fast, keyboard-driven terminal UI for managing Docker containers and Compose stacks.
+- [Surfpool](https://github.com/solana-foundation/surfpool) - A local-first Solana development environment with mainnet state, infrastructure as code and transaction debugging.
 - [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) - Lightning fast terminal native agent harness with tools, extensions and subagents. 15MB, 2ms boot.
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
 - [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
