@@ -317,6 +317,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [CuTE](https://github.com/PThorpe92/CuTE) - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
 - [discovery-rs](https://github.com/JustPretender/discovery-rs) - An utility to discover mDNS services on your network.
 - [dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker querying 34 resolvers worldwide, with a world map.
+- [dsnitch](https://github.com/infomaniac777/dsnitch) - Real-time network and DNS egress inspector TUI for Docker containers powered by eBPF.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
