@@ -268,6 +268,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🎼 Music and Media
 
+- [Absotui](https://github.com/pdwaldrop/absotui) - A fast, keyboard-driven TUI client for Audiobookshelf (self-hosted audiobook/podcast server).
 - [angry-duiker](https://gitlab.com/fizzizist/angry-duiker-2) - A TUI for streaming music from a DLNA server.
 - [asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool.
 - [audium](https://github.com/takashialpha/audium) - A keyboard-driven music app for people who live in the terminal.
