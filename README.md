@@ -496,6 +496,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor.
 - [bpftop](https://github.com/Netflix/bpftop) - Dynamic real-time view of running eBPF programs.
 - [caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging.
+- [diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [ducker](https://github.com/robertpsoane/ducker) - A terminal app for managing Docker containers, inspired by K9s.
 - [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
