@@ -439,7 +439,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [snipt](https://github.com/snipt/snipt) - A text snippet expansion tool with a TUI for managing snippets.
 - [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar) - A TUI calendar with Google Calendar sync and DAG-linked events.
 - [splashboard](https://github.com/unhappychoice/splashboard) - A customizable terminal splash rendered on shell startup or directory updates.
-- [sprout](https://github.com/kb019/sprout) - A terminal habit tracker with a full-screen TUI, GitHub-style activity heatmap, streak tracking, and daily/weekly/monthly/yearly goal management.
+- [sprout](https://github.com/kb019/sprout) - A terminal habit tracker with GitHub-style activity heatmap, streak tracking and goal management.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
