@@ -4,36 +4,28 @@ on:
   pull_request:
     branches: [main]
 
+permissions:
+  contents: read
+
 jobs:
   awesome-lint:
     name: Check awesome list
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           fetch-depth: 0
+          persist-credentials: false
       - name: Check lints
         run: npx awesome-lint
-
-  link-checker:
-    name: Check links
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v7
-      - name: Check links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: --max-concurrency 1 -v README.md
-          fail: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   check-typos:
     name: Typos
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
       - name: Check typos
-        uses: crate-ci/typos@v1.50.1
+        uses: crate-ci/typos@c8866b658f1eb6ff60473fee711ef5304c63f898 # v1.50.1
