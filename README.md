@@ -127,7 +127,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [ex_ratatui](https://github.com/mcass19/ex_ratatui) - Elixir bindings for ratatui.
 - [jatatui](https://github.com/oyvindberg/jatatui) - A Java port of ratatui.
-- [pyratatui](https://github.com/pyratatui/pyratatui) - Python bindings to ratatui, powered by Maturin and PyO3.
 - [Ratatui.cs](https://github.com/holo-q/Ratatui.cs) - C# bindings for ratatui.
 - [ratatui-ffi](https://github.com/holo-q/ratatui-ffi) - FFI bindings for ratatui.
 - [ratatui-go](https://github.com/holo-q/ratatui-go) - Go bindings for ratatui.
