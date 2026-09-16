@@ -1,0 +1,87 @@
+name: Links
+
+# How this workflow works:
+#
+# - Pull requests run a blocking link check, so newly introduced broken links
+#   appear as a normal check failure before the PR is merged.
+# - The daily scheduled run uses the same check after links have had time to
+#   break externally. It does not fail the workflow; instead, the report is
+#   passed to the issue job below.
+# - Manual runs behave like pull-request runs and fail on broken links.
+# - PR runs share a concurrency group, so updating a PR cancels its stale check.
+#   Scheduled and manual runs use the branch/ref as their group instead.
+# - Only the issue job can write issues. Keeping that permission off the checker
+#   job means pull requests can run with read-only repository access.
+on:
+  # PR checks catch broken links introduced by a change.
+  pull_request:
+    branches: [main]
+  # The scheduled run catches links that break after a change is merged.
+  schedule:
+    - cron: "00 18 * * *"
+  # Useful for rerunning the check without opening a PR.
+  workflow_dispatch:
+
+# Cancel stale PR checks when a newer commit is pushed. A scheduled or manual run
+# gets its own group because it has no pull request number.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # This job owns the actual lychee invocation and publishes its exit code and
+  # report for the scheduled issue job. Keep the report upload unconditional so
+  # it remains available when lychee finds a broken link.
+  link-checker:
+    name: Check links
+    runs-on: ubuntu-latest
+    outputs:
+      exit_code: ${{ steps.lychee.outputs.exit_code }}
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
+        with:
+          fail: ${{ github.event_name != 'schedule' }}
+          failIfEmpty: true
+          jobSummary: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Keep the report available to the scheduled issue-creation job.
+      - name: Save link checker report
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: lychee-report
+          path: lychee/out.md
+          if-no-files-found: ignore
+
+  # Scheduled failures are reported as issues so they can be fixed without
+  # requiring a contributor to discover the broken URL first. PR failures remain
+  # ordinary required checks and do not receive issue-writing permissions.
+  create-issue:
+    name: Report scheduled link failures
+    if: github.event_name == 'schedule' && needs.link-checker.outputs.exit_code != '0'
+    needs: link-checker
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Download link checker report
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: lychee-report
+          path: lychee
+      - name: Create issue from report
+        uses: peter-evans/create-issue-from-file@e8ef132d6df98ed982188e460ebb3b5d4ef3a9cd # v5
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
