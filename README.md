@@ -552,6 +552,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [cotp](https://github.com/replydev/cotp) - Command-line TOTP/HOTP authenticator app.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
 - [cpustate-tui](https://github.com/mkulke/cpustate-tui) - Baremetal program to visualize x86_64 CPU state.
+- [dfdisk](https://github.com/tylerstyle/dfdisk) - Modern forensic disk imaging, damaged media rescue and evidence management.
 - [doxx](https://github.com/bgreenwell/doxx) - Document viewer for Microsoft Word files.
 - [fractouille](https://github.com/PottierLoic/Fractouille) - A simple fractal explorer running in your terminal.
 - [gitlogue](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal.
