@@ -105,7 +105,11 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
 - [throbber-widgets-tui](https://crates.io/crates/throbber-widgets-tui) - A widget that displays throbber.
 - [tui-additions](https://crates.io/crates/tui-additions) - Additions to the rust tui crate.
+- [tui-bar-graph](https://crates.io/crates/tui-bar-graph) - A bar graph widget for Ratatui.
 - [tui-big-text](https://crates.io/crates/tui-big-text) - Displays big text using the `font8x8` crate.
+- [tui-box-text](https://crates.io/crates/tui-box-text) - Displays text surrounded by a box.
+- [tui-cards](https://crates.io/crates/tui-cards) - Widgets for displaying cards.
+- [tui-equalizer](https://crates.io/crates/tui-equalizer) - An equalizer widget for Ratatui.
 - [tui-checkbox](https://crates.io/crates/tui-checkbox) - A customizable checkbox.
 - [tui-dialog](https://docs.rs/tui-dialog) - A widget for entering a single line of text in a dialog.
 - [tui-globe](https://github.com/d10n/tui-globe) - A 3D globe widget rendered in the terminal with Braille characters.
@@ -115,9 +119,11 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-nodes](https://crates.io/crates/tui-nodes) - Visualize node graphs.
 - [tui-overlay](https://crates.io/crates/tui-overlay) - A composable overlay widget with drawers, modals, popovers, and toasts from a single configurable primitive.
 - [tui-piechart](https://crates.io/crates/tui-piechart) - A configurable, colorful piechart widget that comes in standard and high resolution.
-- [tui-popup](https://github.com/joshka/tui-popup) - A popup component.
+- [tui-popup](https://crates.io/crates/tui-popup) - A popup component.
 - [tui-prompts](https://crates.io/crates/tui-prompts) - A library for building interactive prompts.
+- [tui-qrcode](https://crates.io/crates/tui-qrcode) - A QR code widget for Ratatui.
 - [tui-rain](https://github.com/levilutz/tui-rain) - A widget to generate various rain effects.
+- [tui-scrollbar](https://crates.io/crates/tui-scrollbar) - A scrollbar widget for Ratatui.
 - [tui-scrollview](https://crates.io/crates/tui-scrollview) - A container that provides a scrolling view at a larger area.
 - [tui-shimmer](https://github.com/vinhnx/tui-shimmer) - A shimmer text effect.
 - [tui-skeleton](https://crates.io/crates/tui-skeleton) - A library of placeholder widgets that pulse, sweep, or shimmer while your content loads.
@@ -139,7 +145,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-garnish](https://github.com/franklaranja/ratatui-garnish) - A powerful composition system for Ratatui widgets.
 - [ratatui-input-manager](https://crates.io/ratatui-input-manager) - A macro for creating declarative update handlers in Elm style apps, supporting crossterm, termion and termwiz.
 - [ratatui-interact](https://github.com/Brainwires/ratatui-interact) - Interactive TUI components for Ratatui with focus management and mouse support.
-- [ratatui-macros](https://github.com/kdheepak/ratatui-macros) - Macros for simplifying boilerplate for creating UI using Ratatui.
 - [tachyonfx](https://github.com/junkdog/tachyonfx) - An animation and visual-effects library for Ratatui applications.
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
 - [termprofile](https://github.com/aschey/termprofile) - Detect and handle terminal color/styling support. Supports converting Ratatui color and style objects.
@@ -342,8 +347,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 #### Remote Access, APIs, and File Transfer
 
-- [conclusive](https://github.com/mrusme/conclusive) - A command line client for Plausible Analytics.
-- [CuTE](https://github.com/PThorpe92/CuTE) - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
 - [jdtui](https://github.com/rylos/jdtui) - A TUI for JDownloader 2 over the My.JDownloader API: downloads, link grabber, accounts and settings, from anywhere.
 - [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
@@ -394,7 +397,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring tool with live metrics, time-series graphs, A/B comparison.
-- [ytop](https://github.com/cjbassi/ytop) - TUI system monitor for Linux.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
 
 #### Containers and Orchestration
@@ -485,7 +487,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
 - [tatuin](https://github.com/panter-dsd/tatuin) - A terminal task manager that aggregates tasks from multiple providers.
 - [td](https://github.com/holly-hacker/td) - A graph-based TUI to-do app.
-- [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) - A terminal-based simple to-do app.
 - [tuxedo](https://github.com/webstonehq/tuxedo) - A fast, keyboard-driven terminal UI for todo.txt.
 - [vault-tasks](https://github.com/louis-thevenet/vault-tasks) - TUI Markdown Task Manager.
 
@@ -554,7 +555,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
-- [m-lite](https://github.com/maxiloEmmmm/m-lite) - An unofficial terminal client for NetEase Cloud Music.
 - [myx](https://github.com/HaseebKhalid1507/Myx) - Modern Spotify player for the terminal. With reactive themes.
 - [NoctaVox](https://github.com/Jaxx497/noctavox) - A lightweight, customizable TUI music player for local files.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - A terminal synthesizer that builds sounds from layered waveforms.
@@ -581,7 +581,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [Absotui](https://github.com/pdwaldrop/absotui) - A fast, keyboard-driven TUI client for Audiobookshelf (self-hosted audiobook/podcast server).
 - [bookokrat](https://github.com/bugzmanov/bookokrat) - A full-featured EPUB / PDF e-book reader with Vim keybindings.
-- [lottie](https://github.com/coignard/lottie) - A terminal screenwriting editor for the Fountain plain-text screenplay format.
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A terminal client for MyAnimeList.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing Sonarr, Radarr, and other Servarr applications.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
@@ -616,7 +615,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [GitType](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges.
 - [Inertia](https://github.com/aclfe/inertia) - A 3D physics simulator in your terminal.
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) - Beautiful visualizations of common maze building and graph searching algorithms.
-- [minesweep](https://github.com/cpcloud/minesweep-rs) - Terminal-based Minesweeper game.
 - [mlbt](https://github.com/mlb-rs/mlbt) - A tui for the MLB Statcast API. Watch a live game using Gameday, or check scores, standings, and stats.
 - [modder-rs](https://github.com/JayanAXHF/modder-rs) - A practical TUI to manage and install mods for Minecraft.
 - [oxycards](https://github.com/BrookJeynes/oxycards) - Quiz card application built within the terminal.
