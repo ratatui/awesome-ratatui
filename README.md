@@ -1,6 +1,6 @@
 <!--lint disable awesome-git-repo-age-->
 
-# Awesome Ratatui [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Ratatui [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/ratatui.png" align="right" width="100">](https://ratatui.rs)
 
@@ -58,11 +58,11 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🏗️ Frameworks
 
 - [bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
-- [burn](https://github.com/burn-rs/burn) - Comprehensive Deep Learning framework in Rust.
+- [burn](https://github.com/tracel-ai/burn) - Comprehensive Deep Learning framework in Rust.
 - [crepuscularity](https://github.com/tschk/crepuscularity) - One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included.
 - [dumo](https://github.com/iddey/dumo) - An embedded-graphics backend that is built on [mplusfonts](https://github.com/iddey/mplusfonts) and has kanji support.
 - [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WebAssembly or ship natively with bevy, macroquad, or eframe.
-- [mousefood](https://github.com/j-g00da/mousefood) - An embedded-graphics backend for Ratatui.
+- [mousefood](https://github.com/ratatui/mousefood) - An embedded-graphics backend for Ratatui.
 - [raclettui](https://github.com/ishrut/raclettui) - A wayland layer shell window implementing the ratatui backend with cpu and wgpu rendering.
 - [rat-salsa](https://github.com/thscharler/rat-salsa) - An event-queue for ratatui with tasks, timers, application events, focus handling, dialog windows.
 - [ratatuefi](https://github.com/sermuns/ratatuefi) - A Ratatui backend for drawing terminal UIs in pre-boot UEFI environments.
@@ -70,7 +70,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-minecraft](https://github.com/janTatesa/ratatui-minecraft) - A Ratatui backend for rendering terminal UIs inside Minecraft via [valence-screens](https://github.com/White-145/valence-screens).
 - [ratatui-uefi](https://github.com/reubeno/tui-uefi) - A Ratatui backend for drawing terminal UIs in pre-boot UEFI environments.
 - [ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
-- [ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Ratatui and WebAssembly.
+- [ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Ratatui and WebAssembly.
 - [rlt](https://crates.io/crates/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [schemaui](https://github.com/YuniqueUnic/schemaui) - Turn JSON Schemas into TUIs and web UIs with real-time validation.
 - [soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - A software rendering backend for ratatui. No GPU required. TUI everywhere.
@@ -111,7 +111,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tui-cards](https://crates.io/crates/tui-cards) - Widgets for displaying cards.
 - [tui-equalizer](https://crates.io/crates/tui-equalizer) - An equalizer widget for Ratatui.
 - [tui-checkbox](https://crates.io/crates/tui-checkbox) - A customizable checkbox.
-- [tui-dialog](https://docs.rs/tui-dialog) - A widget for entering a single line of text in a dialog.
+- [tui-dialog](https://crates.io/crates/tui-dialog) - A widget for entering a single line of text in a dialog.
 - [tui-globe](https://github.com/d10n/tui-globe) - A 3D globe widget rendered in the terminal with Braille characters.
 - [tui-input](https://crates.io/crates/tui-input) - A headless input library for TUI apps.
 - [tui-logger](https://crates.io/crates/tui-logger) - A logger with a smart log viewer.
@@ -137,15 +137,15 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🔧 Utilities
 
 - [ansi-to-tui](https://crates.io/crates/ansi-to-tui) - A library to convert ansi color coded text into `ratatui::text::Text`.
-- [bevy_ratatui](https://github.com/joshka/bevy_ratatui) - A Rust crate to use Ratatui in a Bevy App.
+- [bevy_ratatui](https://github.com/ratatui/bevy_ratatui) - A Rust crate to use Ratatui in a Bevy App.
 - [color-to-tui](https://crates.io/crates/color-to-tui) - Parse colors and convert them to `ratatui::style::Colors`.
 - [coolor](https://github.com/Canop/coolor) - Tiny color conversion library for TUI application builders.
 - [ggsci-ratatui](https://github.com/nanxstats/ggsci-rs) - Scientific and sci-fi color palettes from ggsci as Ratatui colors and styles, in truecolor or ANSI-256 mode.
 - [opaline](https://crates.io/crates/opaline) - Token-based theme engine for Ratatui with gradients, 20 builtin themes, user theme discovery, and a reusable theme selector widget.
 - [ratatui-garnish](https://github.com/franklaranja/ratatui-garnish) - A powerful composition system for Ratatui widgets.
-- [ratatui-input-manager](https://crates.io/ratatui-input-manager) - A macro for creating declarative update handlers in Elm style apps, supporting crossterm, termion and termwiz.
+- [ratatui-input-manager](https://crates.io/crates/ratatui-input-manager) - A macro for creating declarative update handlers in Elm style apps, supporting crossterm, termion and termwiz.
 - [ratatui-interact](https://github.com/Brainwires/ratatui-interact) - Interactive TUI components for Ratatui with focus management and mouse support.
-- [tachyonfx](https://github.com/junkdog/tachyonfx) - An animation and visual-effects library for Ratatui applications.
+- [tachyonfx](https://github.com/ratatui/tachyonfx) - An animation and visual-effects library for Ratatui applications.
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
 - [termprofile](https://github.com/aschey/termprofile) - Detect and handle terminal color/styling support. Supports converting Ratatui color and style objects.
 - [tui-pantry](https://crates.io/crates/tui-pantry) - Component-driven development tool for ratatui widgets, similar to Storybook.
@@ -177,7 +177,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [git-time-machine](https://github.com/dinakars777/git-time-machine) - Visual Git reflog TUI for undoing Git mistakes.
 - [Gitside](https://github.com/dev-bhaskar8/gitside) - A responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
-- [gitui](https://github.com/extrawurst/gitui) - Terminal UI for Git.
+- [gitui](https://github.com/gitui-org/gitui) - Terminal UI for Git.
 - [gitv](https://github.com/jayanaxhf/gitv) - A beautiful, feature-rich and performant terminal client for GitHub issues.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab continuous integration and delivery pipelines and projects.
 - [gwm](https://github.com/kbrdn1/gwm-cli) - A Git worktree manager: CLI and TUI in one binary, native libgit2, per-repo declarative bootstrap, and AI agent session tracking.
@@ -195,7 +195,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [image-auditor](https://github.com/0franco/image-auditor) - A TUI for finding and fixing website image-performance issues such as layout shifts, lazy loading, WebP, and responsive images.
 - [lingora-tui](https://github.com/nigeleke/lingora) - Browse, compare and validate Fluent i18n files.
-- [oracle](https://github.com/yashksaini-coder/oracle) - A TUI Rust codebase inspector to browse functions, structs, enums, traits, and more.
+- [Rustlens](https://github.com/yashksaini-coder/Rustlens) - A TUI Rust codebase inspector to browse functions, structs, enums, traits, and more.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [rgx](https://github.com/brevity1swos/rgx) - A terminal regex debugger with real-time matching, 3 engines, capture group highlighting, replace mode, and plain-English explanations.
@@ -234,7 +234,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [agent-console](https://github.com/buhuipao/agent-console) - A local dashboard for Codex and Claude Code.
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
-- [BitFun](https://github.com/GCWing/BitFun) - An open-source desktop workspace for general-purpose AI agents.
+- [OpenBitFun](https://github.com/GCWing/OpenBitFun) - An open-source desktop workspace for general-purpose AI agents.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
 - [claudectl](https://github.com/mercurialsolo/claudectl) - Mission control for multiple Claude Code sessions with live dashboard, cost tracking, and budget enforcement.
 - [commandOK](https://github.com/64bit/commandOK) - A Spotlight-like terminal command generator powered by major large-language-model providers.
@@ -247,7 +247,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [LimitDeck](https://github.com/rockythink/limitdeck) - A compact, privacy-safe terminal dashboard for AI coding subscription limits.
 - [llmtrim](https://github.com/fkiene/llmtrim) - A local proxy that compresses large-language-model API requests to reduce token costs, with a dashboard for per-source costs and context usage.
 - [Martty](https://github.com/openma-ai/Martty) - An extensible Rust/ratatui terminal client for DeepSeek Harness and ACP-compatible coding agents, with plugins, tools, subagents, and durable sessions.
-- [models](https://github.com/arimxyer/models) - A TUI for browsing AI models, benchmarks, and coding agents.
+- [models](https://github.com/reyamira/models) - A TUI for browsing AI models, benchmarks, and coding agents.
 - [nereid](https://github.com/bnomei/nereid) - Create and explore Mermaid diagrams with AI agents through a terminal UI and Model Context Protocol server.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
@@ -309,7 +309,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
 - [matchmaker](https://github.com/Squirreljetpack/matchmaker) - A fast, configurable fuzzy searcher for terminal data.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
-- [mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel and shows output of each command separately.
+- [dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel and shows output of each command separately.
 - [p2pmux](https://github.com/pelazas/p2pmux) - A peer-to-peer terminal multiplexer for sharing sessions across machines.
 - [sigye](https://github.com/am2rican5/sigye) - A terminal clock with FIGlet fonts, customizable themes, and animated backgrounds.
 - [snipt](https://github.com/snipt/snipt) - A text snippet expansion tool with a TUI for managing snippets.
@@ -385,7 +385,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [Aperture](https://github.com/stylebending/Aperture) - Diagnostic TUI for Windows power users.
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor.
-- [bpftop](https://github.com/Netflix/bpftop) - A real-time monitor for Linux eBPF programs, showing runtime, event rate, and CPU usage.
+- [bpftop](https://github.com/jfernandez/bpftop) - A real-time monitor for Linux eBPF programs, showing runtime, event rate, and CPU usage.
 - [cpustate-tui](https://github.com/mkulke/cpustate-tui) - A bootable TUI for inspecting x86_64 CPU state.
 - [diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI.
 - [erldash](https://github.com/sile/erldash) - A simple, terminal-based Erlang dashboard.
@@ -475,9 +475,9 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 #### Tasks, Projects, and Calendars
 
 - [basilk](https://github.com/GabAlpha/basilk) - A TUI to manage your tasks with minimal kanban logic.
-- [Jirust](https://github.com/moali87/jirust) - A Jira TUI.
+- [Jirust](https://github.com/Code-Militia/jirust) - A Jira TUI.
 - [judo](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists.
-- [kanban](https://github.com/fulsomenko/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
+- [kanban](https://github.com/kanban-rs/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [mirador](https://github.com/jchultarsky/mirador) - A personal dashboard with world clocks, calendar, weather, tasks, notes, a market watchlist and live CPU and network graphs.
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
@@ -513,7 +513,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [focusd](https://github.com/bibekbhusal0/focusd) - A terminal pomodoro timer with daemon, stats, history, streak, and nice interface.
 - [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
-- [neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker) - A privacy-first TUI to track what apps you use and how long you spend on them.
+- [hustle-tracker](https://github.com/adolfousier/hustle-tracker) - A privacy-first TUI to track what apps you use and how long you spend on them.
 - [Respire](https://github.com/ElevenJune/respire) - A breathing app to take a break directly from your terminal.
 - [rusty-krab-manager](https://github.com/aryakaul/rusty-krab-manager) - A terminal time-management TUI inspired by the Pomodoro technique.
 - [sprout](https://github.com/kb019/sprout) - A terminal habit tracker with GitHub-style activity heatmap, streak tracking and goal management.
@@ -536,10 +536,10 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rsstig](https://github.com/indium114/rsstig) - An unconventional terminal RSS/Atom reader.
 - [scriptor](https://github.com/giacomopiccinini/scriptor) - A (medieval) local speech-to-text TUI & CLI.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
-- [thesaurust](https://github.com/QuietPigeon2001/thesaurust) - A terminal-based dictionary app.
+- [cargo-thesaurust](https://github.com/quietpigeon/cargo-thesaurust) - A terminal-based dictionary app.
 - [tts-tui](https://github.com/lesleyrs/tts-tui) - Text to speech app that reads from clipboard.
 - [ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
-- [ttypr](https://github.com/hotellogical05/ttypr) - Terminal typing practice.
+- [ttypr](https://github.com/tanciaku/ttypr) - Terminal typing practice.
 
 ### 🎵 Music and Media
 
@@ -596,11 +596,11 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🎮 Games and Entertainment
 
 - [a-puzzle-a-day](https://github.com/mrbjarksen/a-puzzle-a-day) - Generate and browse all solutions to A-Puzzle-A-Day.
-- [astray](https://github.com/Vinermy/astray) - TUI-based space strategy game.
+- [astray](https://github.com/ekosachev/astray) - TUI-based space strategy game.
 - [Battleship.rs](https://github.com/deepu105/battleship-rs) - Terminal-based Battleship game.
 - [bigbrainwordle](https://github.com/kloki/bigbrainwordle) - A tool to help you cheat with the daily wordle.
 - [Blackjack](https://github.com/skharchikov/blackjack) - Multiplayer Blackjack with a WebSocket server and a terminal client.
-- [cgol-tui](https://github.com/jeromeschmied/cgol-tui-rs) - Conway's Game of Life viewer with a TUI in Rust.
+- [cgol-tui](https://github.com/jarjk/cgol-tui-rs) - Conway's Game of Life viewer with a TUI in Rust.
 - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - Terminal-based Chess game.
 - [chessterm](https://github.com/ronaldsuwandi/chessterm) - A Rust-powered chess engine in a terminal.
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
