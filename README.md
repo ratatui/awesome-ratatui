@@ -441,7 +441,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sc-cli](https://github.com/lnds/sc-cli) - A TUI for Shortcut (formerly know as Clubhouse) a project management tool for teams.
 - [scriptor](https://github.com/giacomopiccinini/scriptor) - A (medieval) local speech-to-text TUI & CLI.
 - [snipt](https://github.com/snipt/snipt) - A text snippet expansion tool with a TUI for managing snippets.
-- [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar) - A TUI calendar with Google Calendar sync and DAG-linked events.
+- [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar) - A local-first TUI calendar with an AI planning inbox that schedules your to-dos into reviewable proposals, plus Google Calendar sync and .ics import.
 - [splashboard](https://github.com/unhappychoice/splashboard) - A customizable terminal splash rendered on shell startup or directory updates.
 - [sprout](https://github.com/kb019/sprout) - A terminal habit tracker with GitHub-style activity heatmap, streak tracking and goal management.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
