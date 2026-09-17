@@ -155,7 +155,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [ex_ratatui](https://github.com/mcass19/ex_ratatui) - Elixir bindings for ratatui.
 - [jatatui](https://github.com/oyvindberg/jatatui) - A Java port of ratatui.
-- [pyratatui](https://github.con/programmersd21/pyratatui) - Python bindings for Ratatui powered by PyO3, featuring async support, many widgets, and advanced terminal animations via TachyonFX.
+- [pyratatui](https://github.com/programmersd21/pyratatui) - Python bindings for Ratatui powered by PyO3, featuring async support, many widgets, and advanced terminal animations via TachyonFX.
 - [ratatui-ffi](https://github.com/holo-q/ratatui-ffi) - Foreign Function Interface bindings for Ratatui.
 - [ratatui-go](https://github.com/holo-q/ratatui-go) - Go bindings for ratatui.
 - [ratatui-py](https://github.com/holo-q/ratatui-py) - Python bindings for ratatui.
