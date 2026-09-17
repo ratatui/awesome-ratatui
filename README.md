@@ -494,6 +494,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [glues](https://github.com/gluesql/glues) - A sync-enabled TUI note-taking app with Git, CSV, and JSON support.
 - [kimün](https://github.com/nico2sh/kimun) - A terminal-based Markdown note taking app that combines an interactive TUI with a scriptable CLI for automation.
+- [MDDock](https://mddock.com) - Local-first Markdown notes app with a full ratatui TUI (live rendering, mermaid, grep) and an MCP server so AI agents read the same notes. Free for macOS/Windows/Linux.
 - [quick-note](https://github.com/daniel-valencia-ts/quick-note) - A simple note-taking tool.
 - [revw](https://github.com/rlelf/revw) - A vim-like TUI for managing notes and resources.
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
