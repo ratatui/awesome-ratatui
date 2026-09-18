@@ -247,6 +247,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [iris](https://github.com/itzenata/iris-tui) - Live supervisor for every active Claude Code session - status, tokens, estimated cost, and one-pane approval of tool calls.
 - [LimitDeck](https://github.com/rockythink/limitdeck) - A compact, privacy-safe terminal dashboard for AI coding subscription limits.
 - [llmtrim](https://github.com/fkiene/llmtrim) - A local proxy that compresses large-language-model API requests to reduce token costs, with a dashboard for per-source costs and context usage.
+- [lumen](https://github.com/blackopsrepl/lumen) - Runs a ratatui app as an agent session and gives a human a live cell-grid view of it, so an agent can read the screen as text and a human can take over input or leave annotated feedback.
 - [Martty](https://github.com/openma-ai/Martty) - An extensible Rust/ratatui terminal client for DeepSeek Harness and ACP-compatible coding agents, with plugins, tools, subagents, and durable sessions.
 - [models](https://github.com/reyamira/models) - A TUI for browsing AI models, benchmarks, and coding agents.
 - [nereid](https://github.com/bnomei/nereid) - Create and explore Mermaid diagrams with AI agents through a terminal UI and Model Context Protocol server.
