@@ -327,6 +327,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [discovery-rs](https://github.com/JustPretender/discovery-rs) - A TUI for discovering services on your local network.
 - [dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker querying 34 resolvers worldwide, with a world map.
 - [dsnitch](https://github.com/infomaniac777/dsnitch) - Real-time network and DNS egress inspector TUI for Docker containers powered by eBPF.
+- [FlowLens](https://github.com/power4j/flowlens) - A cross-platform network traffic analyzer with process, IP, and outbound-domain attribution.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [LazyMQTT](https://github.com/ScottFelder/lazymqtt) - A keyboard-driven terminal client for browsing and publishing messages over the MQTT messaging protocol.
