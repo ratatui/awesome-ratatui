@@ -481,9 +481,9 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kanban](https://github.com/kanban-rs/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [mirador](https://github.com/jchultarsky/mirador) - A personal dashboard with world clocks, calendar, weather, tasks, notes, a market watchlist and live CPU and network graphs.
+- [Planner123](https://github.com/blackopsrepl/Planner123) - A local-first TUI calendar with an AI planning inbox that schedules your to-dos into reviewable proposals, plus Google Calendar sync and .ics import.
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
 - [sc-cli](https://github.com/lnds/sc-cli) - A TUI for Shortcut (formerly know as Clubhouse) a project management tool for teams.
-- [solverforge-calendar](https://github.com/blackopsrepl/solverforge-calendar) - A local-first TUI calendar with an AI planning inbox that schedules your to-dos into reviewable proposals, plus Google Calendar sync and .ics import.
 - [taskfinder](https://crates.io/crates/taskfinder) - Extract and display tasks from plain text files, hooking into your default terminal-based editor for editing.
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - TUI for the Taskwarrior command-line task manager.
 - [tatuin](https://github.com/panter-dsd/tatuin) - A terminal task manager that aggregates tasks from multiple providers.
