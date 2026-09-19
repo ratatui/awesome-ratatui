@@ -155,7 +155,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [ex_ratatui](https://github.com/mcass19/ex_ratatui) - Elixir bindings for ratatui.
 - [jatatui](https://github.com/oyvindberg/jatatui) - A Java port of ratatui.
-- [pyratatui](https://github.com/programmersd21/pyratatui) - Python bindings for Ratatui powered by PyO3, featuring async support, many widgets, and advanced terminal animations via TachyonFX.
+- [pyratatui](https://github.com/programmersd21/pyratatui) - Python bindings for Ratatui, implemented in Rust with PyO3.
 - [ratatui-ffi](https://github.com/holo-q/ratatui-ffi) - Foreign Function Interface bindings for Ratatui.
 - [ratatui-go](https://github.com/holo-q/ratatui-go) - Go bindings for ratatui.
 - [ratatui-py](https://github.com/holo-q/ratatui-py) - Python bindings for ratatui.
@@ -395,6 +395,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [journalview](https://github.com/codervijo/journalview) - A TUI for browsing and filtering systemd journal logs.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting.
+- [mew](https://github.com/programmersd21/mew) - A fast terminal system information and project dashboard.
 - [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
