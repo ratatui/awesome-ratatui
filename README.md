@@ -376,6 +376,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat over a local network with video streaming and file transfer.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
+- [tincan](https://github.com/bilalyazicioglu/tincan-cli) - Peer-to-peer voice and text chat with no server.
 - [tsuchita](https://github.com/kamiyaa/tsuchita) - A client-server notification center for desktop notifications on Linux.
 - [tuisky](https://github.com/sugyan/tuisky) - TUI client for Bluesky.
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
