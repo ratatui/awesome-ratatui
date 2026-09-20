@@ -559,6 +559,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
+- [miditui](https://github.com/pinkpixel-dev/miditui) - A terminal MIDI player and multi-track piano roll visualizer with SoundFont synthesis.
 - [myx](https://github.com/HaseebKhalid1507/Myx) - Modern Spotify player for the terminal. With reactive themes.
 - [NoctaVox](https://github.com/Jaxx497/noctavox) - A lightweight, customizable TUI music player for local files.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - A terminal synthesizer that builds sounds from layered waveforms.
