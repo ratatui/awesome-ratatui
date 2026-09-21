@@ -626,6 +626,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [modder-rs](https://github.com/JayanAXHF/modder-rs) - A practical TUI to manage and install mods for Minecraft.
 - [oxycards](https://github.com/BrookJeynes/oxycards) - Quiz card application built within the terminal.
 - [plastic](https://github.com/Amjad50/plastic) - NES emulator with extra ui implemented in ratatui.
+- [pokeductor](https://github.com/Huseynteymurzade28/pokeductor) - A terminal Pokédex and evolution analyzer with sprite cards.
 - [poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 - [private_poker](https://github.com/theOGognf/private_poker) - A poker library, server, client, and TUI.
 - [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
