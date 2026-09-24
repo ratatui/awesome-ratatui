@@ -314,6 +314,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [matchmaker](https://github.com/Squirreljetpack/matchmaker) - A fast, configurable fuzzy searcher for terminal data.
 - [material](https://github.com/azorng/material) - A material design color palette for the terminal.
 - [dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel and shows output of each command separately.
+- [noble](https://github.com/MertSoylu/noble) - A HUD terminal workspace with tabs and splits, git projects, system sensors and AI coding quota in one screen.
 - [p2pmux](https://github.com/pelazas/p2pmux) - A peer-to-peer terminal multiplexer for sharing sessions across machines.
 - [sigye](https://github.com/am2rican5/sigye) - A terminal clock with FIGlet fonts, customizable themes, and animated backgrounds.
 - [snipt](https://github.com/snipt/snipt) - A text snippet expansion tool with a TUI for managing snippets.
