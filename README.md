@@ -353,6 +353,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 #### Remote Access, APIs, and File Transfer
 
+- [bunflared](https://github.com/mirkobozzetto/bunflared) - Share localhost on a temporary public HTTPS link through a Cloudflare quick tunnel, with a live traffic dashboard.
 - [jdtui](https://github.com/rylos/jdtui) - A TUI for JDownloader 2 over the My.JDownloader API: downloads, link grabber, accounts and settings, from anywhere.
 - [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend)
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
