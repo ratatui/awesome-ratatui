@@ -491,6 +491,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [mirador](https://github.com/jchultarsky/mirador) - A personal dashboard with world clocks, calendar, weather, tasks, notes, a market watchlist and live CPU and network graphs.
 - [Planner123](https://github.com/blackopsrepl/Planner123) - A local-first TUI calendar with an AI planning inbox that schedules your to-dos into reviewable proposals, plus Google Calendar sync and .ics import.
+- [RetireTui](https://github.com/kenianbei/retiretui) - A local-first retirement planner for the terminal.
 - [Rust-Kanban](https://github.com/yashs662/rust_kanban) - A kanban board for the terminal.
 - [sc-cli](https://github.com/lnds/sc-cli) - A TUI for Shortcut (formerly know as Clubhouse) a project management tool for teams.
 - [taskfinder](https://crates.io/crates/taskfinder) - Extract and display tasks from plain text files, hooking into your default terminal-based editor for editing.
