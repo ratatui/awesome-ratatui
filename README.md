@@ -240,6 +240,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
 - [claudectl](https://github.com/mercurialsolo/claudectl) - Mission control for multiple Claude Code sessions with live dashboard, cost tracking, and budget enforcement.
 - [commandOK](https://github.com/64bit/commandOK) - A Spotlight-like terminal command generator powered by major large-language-model providers.
+- [coven](https://github.com/OpenCoven/coven) - Local-first runtime and TUI for running Codex, Claude Code, and other coding agents as project-scoped PTY sessions.
 - [crmux](https://github.com/maedana/crmux) - A TUI viewer for monitoring and managing multiple Claude Code sessions in tmux.
 - [Forge](https://github.com/NorviaLabs/forge) - An AI coding agent that unifies an agent, code editor, and shell in a single keyboard-driven terminal workspace.
 - [gmsg](https://github.com/olorikendrick/gmsg) - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
