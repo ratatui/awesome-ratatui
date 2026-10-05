@@ -146,6 +146,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-garnish](https://github.com/franklaranja/ratatui-garnish) - A powerful composition system for Ratatui widgets.
 - [ratatui-input-manager](https://crates.io/crates/ratatui-input-manager) - A macro for creating declarative update handlers in Elm style apps, supporting crossterm, termion and termwiz.
 - [ratatui-interact](https://github.com/Brainwires/ratatui-interact) - Interactive TUI components for Ratatui with focus management and mouse support.
+- [ratatui-wasm](https://github.com/yunuservices/ratatui-wasm) - Load Ratatui widgets from WebAssembly plugins at runtime, with host-controlled capabilities and fuel and memory limits.
 - [tachyonfx](https://github.com/ratatui/tachyonfx) - An animation and visual-effects library for Ratatui applications.
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
 - [termprofile](https://github.com/aschey/termprofile) - Detect and handle terminal color/styling support. Supports converting Ratatui color and style objects.
