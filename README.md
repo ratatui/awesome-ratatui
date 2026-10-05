@@ -100,6 +100,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-textarea](https://crates.io/crates/ratatui-textarea) - A simple yet powerful editor; fork of `tui-textarea`.
 - [ratatui-toaster](https://crates.io/crates/ratatui-toaster) - An extremely lightweight toast engine.
 - [ratatui-tournament](https://github.com/philipgreat/ratatui-tournament) - A widget for rendering single-elimination tournament brackets in the terminal.
+- [ratatui-widgettable](https://crates.io/crates/ratatui-widgettable) - A table widget whose cells can contain arbitrary widgets.
 - [ratatui-wireframe](https://crates.io/crates/ratatui-wireframe) -  A widget for rendering and rotating 3D wireframe models.
 - [ratiform](https://crates.io/crates/ratiform) - A stateful form widget with typed field identifiers, so your data model stays your own, not the library's.
 - [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
