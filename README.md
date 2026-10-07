@@ -273,6 +273,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [toktop](https://github.com/htin1/toktop) - A terminal dashboard for monitoring OpenAI and Anthropic token usage and costs.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - A local-first memory system for AI agents with SQLite full-text search, auditing, forgetting, consolidation, and a Ratatui operator console.
 - [VT Code](https://github.com/vinhnx/vtcode) - An open-source Rust coding agent for the terminal.
+- [wryme](https://github.com/adiled/wryme) - That calm window where agents come to meet you, as a TUI and desktop app.
 - [Yardlet](https://github.com/zzunkie/yardlet) - A local AI workbench that turns intent into a verified task queue and drives your installed Claude Code or Codex CLIs as interchangeable workers.
 
 ### 📁 Files, Data, and Documents
