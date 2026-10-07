@@ -194,6 +194,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 #### Code Search, Editing, and Review
 
 - [blogr](https://github.com/bahdotsh/blogr) - A terminal-based static site generator with a TUI editor for writing blog posts.
+- [blur](https://github.com/castlesp5/blur) - A Vim-inspired terminal text editor written in Rust.
 - [codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents.
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [image-auditor](https://github.com/0franco/image-auditor) - A TUI for finding and fixing website image-performance issues such as layout shifts, lazy loading, WebP, and responsive images.
