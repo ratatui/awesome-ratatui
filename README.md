@@ -177,6 +177,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [forgetop](https://github.com/magna-nz/forgetop) - Pull requests, work items, and CI pipelines from GitHub, GitLab, Azure DevOps, Bitbucket, Linear, and Jira in one queue.
 - [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
+- [git-barber](https://github.com/rekurt/git-barber) - A TUI for cleaning up merged Git branches, including squash and rebase merges.
 - [git-time-machine](https://github.com/dinakars777/git-time-machine) - Visual Git reflog TUI for undoing Git mistakes.
 - [Gitside](https://github.com/dev-bhaskar8/gitside) - A responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
