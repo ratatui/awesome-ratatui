@@ -657,6 +657,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 text art and animations.
 - [tic-tac-toe](https://github.com/thomas-mauran/tic-tac-toe) - Terminal-based tic tac toe game.
 - [ttysvr](https://github.com/cxreiff/ttysvr) - Screen saver for your terminal.
+- [tuiba](https://github.com/Huseynteymurzade28/tuiba) - Game Boy Advance emulator with Kitty/Sixel/iTerm2 graphics and a half-block fallback.
 - [WOPR TUI 2026](https://github.com/ankurCES/WOPR_TUI_2026) - A WarGames-inspired Cold War simulation TUI with AI-powered scenarios, DEFCON escalation, and multi-language intelligence intercepts.
 - [wordl](https://github.com/palerdot/wordl-rs) - Terminal-based Wordle game. Web like experience with keyboard hints and guess reveal animations.
 
