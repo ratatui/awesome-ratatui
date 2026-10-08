@@ -238,7 +238,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - An open-source desktop workspace for general-purpose AI agents.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
-- [claudash](https://github.com/jguajardo/claudash) - The control room for Claude Code: every session and project on one screen, with what a waiting session asks to run, conversations to search and resume, MCP sign-in, branch reviews and spec progress.
+- [claudash](https://github.com/jguajardo/claudash) - The control room for Claude Code.
 - [claude-code-rust](https://github.com/srothgan/claude-code-rust) - A native terminal interface for Claude Code that renders inline into the terminal's scrollback.
 - [claudectl](https://github.com/mercurialsolo/claudectl) - Mission control for multiple Claude Code sessions with live dashboard, cost tracking, and budget enforcement.
 - [commandOK](https://github.com/64bit/commandOK) - A Spotlight-like terminal command generator powered by major large-language-model providers.
