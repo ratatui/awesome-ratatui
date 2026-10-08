@@ -347,6 +347,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [netscanner](https://github.com/Chleba/netscanner) - Network scanning tool.
 - [nordvpn-tui](https://github.com/Degra02/nordvpn-tui) - A TUI for NordVPN.
 - [oryx](https://github.com/pythops/oryx) - A TUI for sniffing network traffic using eBPF.
+- [prt](https://github.com/rekurt/prt) - A TUI for monitoring network ports, inspecting owning processes, and managing SSH tunnels.
 - [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring tool with deep packet inspection.
 - [sensor-vision](https://github.com/jcfromsiberia/sensor-vision) - TUI Client for TeamViewer IoT MQTT API for managing IoT Sensors and Metrics.
 - [streamtop](https://github.com/Jorji49/streamtop) - A terminal monitor for live video streams with real-time health checks and metrics.
