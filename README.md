@@ -250,6 +250,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Forge](https://github.com/NorviaLabs/forge) - An AI coding agent that unifies an agent, code editor, and shell in a single keyboard-driven terminal workspace.
 - [gmsg](https://github.com/olorikendrick/gmsg) - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
 - [hedos](https://github.com/theiskaa/hedos) - A terminal shelf for the local AI models already on your machine, with a built-in OpenAI-compatible gateway.
+- [herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) - A code-review pane for coding agents.
 - [ilmari](https://github.com/bnomei/ilmari) - A tmux popup dashboard for monitoring AI coding agents.
 - [iris](https://github.com/itzenata/iris-tui) - Live supervisor for every active Claude Code session - status, tokens, estimated cost, and one-pane approval of tool calls.
 - [LimitDeck](https://github.com/rockythink/limitdeck) - A compact, privacy-safe terminal dashboard for AI coding subscription limits.
