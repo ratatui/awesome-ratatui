@@ -632,6 +632,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Connect-four](https://github.com/jesper-olsen/connect-four) - Connect-four; interactive game + perfect solver.
 - [crosstui](https://github.com/matrixfrog/crossword) - Terminal-based crossword puzzle player.
 - [cube timer](https://github.com/paarthmadan/cube) - A tui for cube timing, written in Rust.
+- [DEADLINE](https://github.com/pinkpixel-dev/deadline) - A haunted late-90s BBS text adventure for your terminal.
 - [Dealve](https://github.com/kurama/dealve-tui) - Browse game deals across Steam, GOG, Humble Bundle, Epic Games, and more from your terminal.
 - [enimtui](https://codeberg.org/tranzystorekk/enimtui) - Terminal-based minesweeper knockoff.
 - [flip7](https://github.com/ilyichv/flip7) - Terminal-based Flip7 game.
