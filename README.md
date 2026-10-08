@@ -182,6 +182,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [git-barber](https://github.com/rekurt/git-barber) - A TUI for cleaning up merged Git branches, including squash and rebase merges.
 - [git-time-machine](https://github.com/dinakars777/git-time-machine) - Visual Git reflog TUI for undoing Git mistakes.
 - [Gitside](https://github.com/dev-bhaskar8/gitside) - A responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
+- [gitty](https://github.com/VedangP57/gitty) - A terminal Git client with the GitHub Desktop experience: history, line staging, fetch, pull and push.
 - [gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit.
 - [gitui](https://github.com/gitui-org/gitui) - Terminal UI for Git.
 - [gitv](https://github.com/jayanaxhf/gitv) - A beautiful, feature-rich and performant terminal client for GitHub issues.
