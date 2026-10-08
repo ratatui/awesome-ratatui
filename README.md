@@ -86,6 +86,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [hyperrat](https://crates.io/crates/hyperrat) - Clickable terminal links.
 - [malevich](https://crates.io/crates/malevich) - A plotting widget: line, scatter, bar, histogram, heatmap, box plot, violin, and more, with automatic axes and millions of points.
 - [rat-widget](https://crates.io/crates/rat-widget) - Widgets for data-input (text-input, date- and number-input, text-area, checkbox, choice, radiobutton, slider, calendar), structural widgets (view, split, tabbed, multi-page), a table widget for large data-sets, a file-dialog, a menubar+sub-menus, a status-bar and some more. With builtin crossterm event-handling and focus-handling.
+- [Ratagrid](https://crates.io/crates/ratagrid) - A typed data grid with sorting, search, selection, column resizing, and client or external pagination.
 - [ratatui-cheese](https://crates.io/crates/ratatui-cheese) - Bubbletea-inspired widgets, including spinner, help, tree, paginator, and list.
 - [ratatui-code-editor](https://github.com/vipmax/ratatui-code-editor) - A code editor with syntax highlighting powered by tree-sitter.
 - [ratatui-comfy-tabs](https://crates.io/crates/ratatui-comfy-tabs) - A feature-rich tab navigation for TUI. Highly customizable.
