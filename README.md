@@ -547,6 +547,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [exhaust](https://github.com/heyrict/exhaust) - A terminal app for doing exams.
 - [fastcards](https://github.com/indium114/fastcards) - A CLI spaced-repetition flashcard study tool.
 - [feedr](https://github.com/bahdotsh/feedr) - A terminal-based RSS/Atom feed reader with a TUI.
+- [herdfold](https://github.com/azihsoyn/herdfold) - A book reader that lays long text out as facing pages, with notes, vertical Japanese, and an AI agent to ask.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - A TUI for browsing and searching HelloGitHub's open-source project directory.
 - [hncli](https://github.com/pierreyoda/hncli) - Hacker News read-only TUI.
 - [kanash](https://github.com/benoitlx/kanash) - Learn Kana in your terminal.
