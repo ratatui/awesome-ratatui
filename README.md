@@ -595,7 +595,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [Absotui](https://github.com/pdwaldrop/absotui) - A fast, keyboard-driven TUI client for Audiobookshelf (self-hosted audiobook/podcast server).
 - [bookokrat](https://github.com/bugzmanov/bookokrat) - A full-featured EPUB / PDF e-book reader with Vim keybindings.
-- [Grimoire](https://github.com/kelsierbot/GrimoireTUI) - A cozy writing desk for novels: an outline of parts, chapters and scenes, plain Markdown files, and export to Word, EPUB and paperback.
+- [Grimoire](https://github.com/kelsierbot/GrimoireTUI) - A cozy writing desk for novels.
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A terminal client for MyAnimeList.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing Sonarr, Radarr, and other Servarr applications.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
