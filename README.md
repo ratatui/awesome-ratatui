@@ -278,6 +278,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) - Lightning fast terminal native agent harness with tools, extensions and subagents. 15MB, 2ms boot.
 - [tenere](https://github.com/pythops/tenere) - A terminal chat interface for large language models, written in Rust.
 - [thurbox](https://github.com/Thurbeen/thurbox) - A TUI orchestrator for running multiple AI coding agents (Claude Code, Codex, and others) in persistent tmux sessions.
+- [token-monitor](https://github.com/xzy9565/token-monitor) - Terminal dashboard and rate-limit scheduler for AI coding subscriptions and token ledgers.
 - [toktop](https://github.com/htin1/toktop) - A terminal dashboard for monitoring OpenAI and Anthropic token usage and costs.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - A local-first memory system for AI agents with SQLite full-text search, auditing, forgetting, consolidation, and a Ratatui operator console.
 - [VT Code](https://github.com/vinhnx/vtcode) - An open-source Rust coding agent for the terminal.
