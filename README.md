@@ -623,6 +623,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [readio](https://github.com/hrhrng/readio) - A terminal ebook reader for EPUB, PDF, Markdown, and plain text with optional local text-to-speech.
 - [red-table](https://github.com/volker-schukai/red-table) - A keyboard-driven terminal image browser for inspecting, comparing, and selecting photos.
 - [TRNovel](https://github.com/yexiyue/TRNovel) - A terminal novel reader for local and network novels, with AI-assisted book-source generation and TTS playback.
+- [tubetui](https://github.com/polblancoo/tubetui) - A YouTube client with tabs, subscriptions, and video embedded in kitty via mpv.
 - [tui-slides](https://github.com/Chleba/tui-slides) - Terminal presentation program with modern TUI.
 - [visualvault](https://github.com/mikeleppane/visualvault) - A TUI for organizing media files.
 - [ytsub](https://github.com/sarowish/ytsub) - A subscriptions only TUI YouTube client.
