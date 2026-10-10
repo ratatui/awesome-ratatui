@@ -304,6 +304,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [rat-commander](https://github.com/dividebysandwich/rat-commander) - A fully-featured modern spiritual successor to Midnight-Commander with truecolor support and built-in process- and disk-explorer.
 - [rdn](https://github.com/apatrushev/rdn) - Rust port of well known old Dos Navigator.
+- [rustfm](https://github.com/CanReader/rustfm) - Terminal file manager with a sidebar, multiple panels, live preview, and a task queue for file operations.
 - [sheetsui](https://github.com/zaphar/sheetsui) - A terminal based spreadsheet application.
 - [stu](https://github.com/lusingander/stu) - A TUI for AWS S3.
 - [tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
