@@ -593,6 +593,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - A terminal synthesizer that builds sounds from layered waveforms.
 - [Oscilla](https://github.com/Noven-Signal/Oscilla) - A lightweight TUI music player for local audio playback, featuring smooth 60 FPS visualizations.
 - [O₂](https://github.com/coignard/o2) - Rust port of the ORCΛ esoteric programming language and terminal livecoding environment.
+- [ratidal](https://github.com/ColinTenaguillo/ratidal) - A TIDAL client with hi-res playback and cover art in the terminal.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [rs-pug](https://github.com/JustRoccat/rs-pug) - A Neovim-inspired asynchronous music player with a reactive audio visualizer.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
