@@ -301,6 +301,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - Markdown renderer in the terminal.
+- [norte](https://github.com/compilando/norte) - Two-pane file manager on one Rust core: terminal, native window, CLI and MCP server for AI agents with scoped permissions.
 - [otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [rat-commander](https://github.com/dividebysandwich/rat-commander) - A fully-featured modern spiritual successor to Midnight-Commander with truecolor support and built-in process- and disk-explorer.
 - [rdn](https://github.com/apatrushev/rdn) - Rust port of well known old Dos Navigator.
