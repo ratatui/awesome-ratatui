@@ -362,7 +362,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sensor-vision](https://github.com/jcfromsiberia/sensor-vision) - TUI Client for TeamViewer IoT MQTT API for managing IoT Sensors and Metrics.
 - [streamtop](https://github.com/Jorji49/streamtop) - A terminal monitor for live video streams with real-time health checks and metrics.
 - [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
-- [unifly](https://github.com/hyperb1iss/unifly) - CLI and TUI for managing Ubiquiti UniFi network controllers with an 8-screen dashboard, live traffic charts, and dual-API coverage.
+- [unifly](https://github.com/hyperb1iss/unifly) - CLI and TUI for Ubiquiti UniFi networks with live traffic charts, topology, firewall views, an offline demo fleet, and an agent skill.
 - [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch.
 - [wiretui](https://github.com/robin-thoene/wiretui) - A minimal keyboard-driven TUI to manage WireGuard VPN connections.
 - [wtfi2](https://github.com/kanywst/wtfi2) - Live network-path diagnostic that pinpoints where your Wi-Fi connection breaks (link, gateway, DNS, WAN) and how to fix it.
