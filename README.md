@@ -276,6 +276,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [savras](https://github.com/Marijusaj/savras) - A side panel that sees every Claude Code session you have running: which are waiting on you, working, or done, with their PRs and context used.
 - [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
 - [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) - Lightning fast terminal native agent harness with tools, extensions and subagents. 15MB, 2ms boot.
+- [tapin](https://github.com/Thevi99/tapin) - An inbox for your AI coding agents (Claude Code, Codex): approve requests, answer questions, and jump to the agent's pane.
 - [tenere](https://github.com/pythops/tenere) - A terminal chat interface for large language models, written in Rust.
 - [thurbox](https://github.com/Thurbeen/thurbox) - A TUI orchestrator for running multiple AI coding agents (Claude Code, Codex, and others) in persistent tmux sessions.
 - [token-monitor](https://github.com/xzy9565/token-monitor) - Terminal dashboard and rate-limit scheduler for AI coding subscriptions and token ledgers.
