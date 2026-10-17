@@ -424,6 +424,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [toptop](https://github.com/ur-grue/toptop) - System monitor with a local-inference view: live tokens/sec, GPU compute-vs-bandwidth, VRAM-spill verdicts.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vTUI](https://github.com/noclue/vtui) - Explore vSphere in style, with vCenter and ESXi both included.
 - [winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring tool with live metrics, time-series graphs, A/B comparison.
 - [zenith](https://github.com/bvaisvil/zenith) - Cross-platform monitoring tool for system stats.
 
