@@ -548,6 +548,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rusty-krab-manager](https://github.com/aryakaul/rusty-krab-manager) - A terminal time-management TUI inspired by the Pomodoro technique.
 - [sprout](https://github.com/kb019/sprout) - A terminal habit tracker with GitHub-style activity heatmap, streak tracking and goal management.
 - [timr-tui](https://github.com/sectore/timr-tui) - TUI to organize your time: Pomodoro, Countdown, Timer, Event.
+- [Tomatui](https://github.com/Hiro-Chiba/tomatui) - A terminal Pomodoro timer with a one-line mode, a full-screen display, and local focus statistics.
 - [void](https://github.com/p6laris/Void) - A focus app with built-in task management, streak tracking, and customizable break schedules.
 - [work-tuimer](https://github.com/Kamyil/work-tuimer) - A TUI for easier time tracking each day, task-per-task with summaries.
 
