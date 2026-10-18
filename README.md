@@ -82,6 +82,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🧩 Widgets
 
+- [boxmaid](https://crates.io/crates/boxmaid) - Renders Mermaid diagrams as Unicode or ASCII text with themed, scrollable Ratatui widgets.
 - [edtui](https://github.com/preiter93/edtui) - A Vim-inspired terminal editor.
 - [hyperrat](https://crates.io/crates/hyperrat) - Clickable terminal links.
 - [malevich](https://crates.io/crates/malevich) - A plotting widget: line, scatter, bar, histogram, heatmap, box plot, violin, and more, with automatic axes and millions of points.
