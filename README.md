@@ -193,6 +193,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Livediff](https://github.com/SoCkEt7/Livediff) - Real-time terminal file diff monitoring TUI.
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
 - [rootle](https://github.com/rootledev/rootle) - A modal TUI for browsing GitHub and other source-control services with column views and syntax-highlighted previews.
+- [runline](https://github.com/programmersd21/runline) - A keyboard-first terminal client for watching and acting on GitHub Actions runs.
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
 
