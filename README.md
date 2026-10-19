@@ -238,6 +238,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [sabiql](https://github.com/riii111/sabiql) - Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.
 - [Surfpool](https://github.com/solana-foundation/surfpool) - A local-first Solana development environment with mainnet state, infrastructure as code and transaction debugging.
 - [TaskUI](https://github.com/thmshmm/taskui) - Simple Terminal UI for Task / taskfile.dev.
+- [therapist](https://github.com/M-Komorek/therapist) - A lightweight TUI log viewer for multi-GB files with vim keys, grep tabs and phrase highlights.
 - [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [tracexec](https://github.com/kxxt/tracexec) - A terminal tool for tracing which programs and commands are executed.
 - [wireman](https://github.com/preiter93/wireman) - A terminal client for calling gRPC services.
