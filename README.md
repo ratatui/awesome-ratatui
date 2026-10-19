@@ -428,6 +428,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [journalview](https://github.com/codervijo/journalview) - A TUI for browsing and filtering systemd journal logs.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting.
+- [orbit-tui](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, and audio visualizer.
 - [rrtop](https://github.com/wojciech-zurek/rrtop) - Redis monitoring (top like) app. rrtop -> \[r\]ust \[r\]edis \[top\].
 - [toptop](https://github.com/ur-grue/toptop) - System monitor with a local-inference view: live tokens/sec, GPU compute-vs-bandwidth, VRAM-spill verdicts.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
@@ -460,6 +461,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mirro-rs](https://github.com/rtkay123/mirro-rs) - An Arch Linux mirrorlist manager with a TUI.
 - [pacman-utils](https://github.com/ankur3-101106/pacman-utils) - A keyboard-driven Arch Linux system manager with pacman, AUR, and reflector tools.
 - [parui](https://github.com/Vonr/parui) - A TUI frontend for Arch User Repository helpers such as paru and yay.
+- [settings-tui](https://github.com/ziuus/settings-tui) - Universal Linux Settings Center for your terminal (D-Bus, PipeWire, BlueZ, Hyprland, systemd).
 - [systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs.
 - [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI.
 - [systeroid](https://github.com/orhun/systeroid) - A terminal UI for reading and changing Linux kernel parameters.
