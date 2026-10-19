@@ -300,6 +300,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [doxx](https://github.com/bgreenwell/doxx) - Document viewer for Microsoft Word files.
 - [edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
+- [FileView](https://github.com/Hiro-Chiba/fileview) - A terminal file browser with image previews, Git status, search, and an MCP server.
 - [flerp](https://github.com/Huseynteymurzade28/flerp) - A TUI for exploring and analyzing text files, PDFs and images.
 - [hexhog](https://github.com/DVDTSB/hexhog) - TUI Hex Editor/Viewer.
 - [joshuto](https://github.com/kamiyaa/joshuto) - Ranger-like terminal file manager written in Rust.
