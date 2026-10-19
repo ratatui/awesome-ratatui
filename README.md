@@ -271,6 +271,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
 - [opencrabs](https://github.com/opencrabs/opencrabs) - An all-in-one AI agent for the terminal with TUI, CLI, and daemon modes.
+- [orbit-cli](https://github.com/dwaddle/orbit-cli) - An autonomous AI coding agent and Model Context Protocol (MCP) client powered by OpenRouter, featuring a split-pane TUI, Vim modal editing, AST compile guards, and multi-agent DAG workflows.
 - [partly-claudy](https://github.com/taho-inc/partly-claudy) - Terminal view of Claude status page (status.claude.com).
 - [patent](https://github.com/r14dd/patent) - A prior-art search for developer-tool ideas with an AI-generated verdict.
 - [pixtuoid](https://github.com/IvanWng97/pixtuoid) - Live pixel-art office for AI coding agents.
