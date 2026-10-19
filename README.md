@@ -205,6 +205,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [image-auditor](https://github.com/0franco/image-auditor) - A TUI for finding and fixing website image-performance issues such as layout shifts, lazy loading, WebP, and responsive images.
 - [lingora-tui](https://github.com/nigeleke/lingora) - Browse, compare and validate Fluent i18n files.
+- [Mitos](https://github.com/mitos-editor/mitos) - A selection-first modal text editor with multiple selections, built-in language server support, and Tree-sitter syntax highlighting.
 - [Rustlens](https://github.com/yashksaini-coder/Rustlens) - A TUI Rust codebase inspector to browse functions, structs, enums, traits, and more.
 - [regect](https://github.com/kloki/regect) - A regex101 like tool for the cli.
 - [repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
