@@ -662,6 +662,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [DEADLINE](https://github.com/pinkpixel-dev/deadline) - A haunted late-90s BBS text adventure for your terminal.
 - [Dealve](https://github.com/kurama/dealve-tui) - Browse game deals across Steam, GOG, Humble Bundle, Epic Games, and more from your terminal.
 - [enimtui](https://codeberg.org/tranzystorekk/enimtui) - Terminal-based minesweeper knockoff.
+- [fishtanks](https://github.com/daniel-retamal/fishtanks) - An ASCII aquarium for the terminal. Go fishing, dungeon crawling, or gamble away.
 - [flip7](https://github.com/ilyichv/flip7) - Terminal-based Flip7 game.
 - [game-of-life-rs](https://github.com/kachark/game-of-life-rs) - Conway's Game of Life implemented in Rust and visualized with tui-rs.
 - [gitlogue](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal.
