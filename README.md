@@ -531,6 +531,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
 - [tmmpr](https://github.com/tanciaku/tmmpr) - Terminal mind mapper.
 - [tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Journaling/Notes-taking terminal-based app.
+- [writui](https://github.com/aakashns/writui) - A Markdown writing app with an encrypted local vault, named versions, and mouse and keyboard controls.
 
 #### Finance and Markets
 
