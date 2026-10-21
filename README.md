@@ -492,6 +492,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [mxmon](https://github.com/yusufmo1/mxmon) - Sudoless Apple Silicon monitor with per-process watts, a live chassis heat map, and a JSON contract for scripts and agents.
 - [napwatch](https://github.com/Tuguberk/napwatch) - Diagnoses and controls macOS power/battery behavior: dark wakes, Power Nap, live drain rate, and per-process power draw.
 - [nightlight-tui](https://github.com/umutdinceryananer/nightlightd) - Dashboard for the nightlightd screen colour temperature daemon.
+- [nviwatch](https://github.com/msminhas93/nviwatch) - Interactive TUI for monitoring NVIDIA GPU metrics, processes, and power, with bar and tabbed graph views.
 - [Phone-OS](https://github.com/Julien-cpsn/Phone-OS) - A modern Phone OS for ESP32 CYD (Cheap Yellow Display).
 - [pumas](https://github.com/graelo/pumas) - Power Usage Monitor for Apple Silicon.
 - [qmassa!](https://github.com/ulissesf/qmassa) - Displays GPU devices usage stats on Linux.
