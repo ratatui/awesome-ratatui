@@ -701,6 +701,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🔬 Science, Math, and Exploration
 
 - [fractouille](https://github.com/PottierLoic/Fractouille) - A simple fractal explorer running in your terminal.
+- [jOtter](https://github.com/samox73/jotter) - A fast Jupyter notebook TUI with vim keys, inline plots and rendered LaTeX.
 - [lpl](https://github.com/SOF3/lpl) - Command-line plotting for real-time CSV and JSON streams.
 - [meteo-tui](https://github.com/16arpi/meteo-tui) - French weather app in the command line.
 - [numr](https://github.com/nasedkinpv/numr) - A natural language calculator with unit/currency conversions and vim-style keybindings.
