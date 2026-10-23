@@ -403,6 +403,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [faro](https://github.com/harababurel/faro) - An unofficial Signal client for the terminal, built for tmux and SSH.
 - [Franking](https://github.com/blackopsrepl/Franking) - A TUI email client with an app-owned IMAP/SMTP engine, PGP and S/MIME, and a local maildir backend.
 - [hnr](https://github.com/prasanthj/hnr) - A terminal UI for Hacker News — browse feeds, read threaded comments, vote, reply, search, and bookmark.
+- [hopchat](https://github.com/bahdotsh/hopchat) - Offline, end-to-end encrypted chat for your local network, with no server, internet or accounts.
 - [iamb](https://github.com/ulyssa/iamb) - A matrix chat client with vim keybindings.
 - [lobtui](https://github.com/pythops/lobtui) - TUI for lobste.rs website.
 - [mxr](https://github.com/planetaryescape/mxr) - Local-first email client with Vim-style navigation, multi-account sync, and full-text search.
