@@ -248,6 +248,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [agent-console](https://github.com/buhuipao/agent-console) - A local dashboard for Codex and Claude Code.
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - An open-source desktop workspace for general-purpose AI agents.
+- [Borg](https://github.com/adelphidata/borg) - A security-first personal AI assistant with a Ratatui chat TUI, long-term memory, scheduled tasks, and a self-healing daemon.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
 - [cc-code](https://github.com/cc-claws/cc-code) - Fast, lightweight Claude Code alternative built in Rust with Ratatui TUI, ACP protocol support, and multi-model compatibility.
 - [claudash](https://github.com/jguajardo/claudash) - The control room for Claude Code.
