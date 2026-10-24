@@ -229,6 +229,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [envx](https://github.com/mikeleppane/envx) - Environment variable manager for developers, featuring an intuitive TUI.
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - Get the best crates for your rust projects, curated by blessed.rs.
 - [gobang](https://github.com/TaKO8Ki/gobang) - Cross-platform TUI database management tool.
+- [hotpath-rs](https://github.com/hotpath-rs/hotpath) - A Rust profiler for CPU, memory, async, SQL, I/O, and lock contention with a live TUI dashboard.
 - [Maelstrom](https://github.com/maelstrom-software/maelstrom) - A fast test runner that runs every test in its own container locally or distributed.
 - [oha](https://github.com/hatoo/oha) - An HTTP load generator with a real-time terminal UI.
 - [openapi-tui](https://github.com/zaghaghi/openapi-tui) - A terminal UI for browsing and calling APIs from OpenAPI specifications.
