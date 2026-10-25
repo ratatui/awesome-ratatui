@@ -326,6 +326,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [wiper](https://github.com/ikebastuz/wiper) - Disk space analyzer and cleanup tool.
 - [xan](https://github.com/medialab/xan) - A terminal tool for processing CSV files.
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, and fast TUI file explorer.
+- [Xylem](https://github.com/andrelnfernandes/xylem) - An XTree/ZTreeWin-style file manager with a directory tree, tagging, batch operations, a built-in terminal and Git.
 - [Yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### 🧰 Terminal Workflow
