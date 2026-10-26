@@ -526,6 +526,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Jirust](https://github.com/Code-Militia/jirust) - A Jira TUI.
 - [judo](https://github.com/giacomopiccinini/judo) - A multi-database TUI for ToDo lists.
 - [kanban](https://github.com/kanban-rs/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
+- [linear-tui](https://github.com/solcreek/linear-tui) - A Linear client that gets all its data from linearctl's JSON interface, so agents can do with the CLI anything the TUI does.
 - [lt](https://github.com/markmarkoh/lt) - An unofficial TUI client for Linear.app.
 - [mirador](https://github.com/jchultarsky/mirador) - A personal dashboard with world clocks, calendar, weather, tasks, notes, a market watchlist and live CPU and network graphs.
 - [Planner123](https://github.com/blackopsrepl/Planner123) - A local-first TUI calendar with an AI planning inbox that schedules your to-dos into reviewable proposals, plus Google Calendar sync and .ics import.
