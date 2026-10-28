@@ -189,6 +189,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gitv](https://github.com/jayanaxhf/gitv) - A beautiful, feature-rich and performant terminal client for GitHub issues.
 - [glim](https://github.com/junkdog/glim) - Monitor GitLab continuous integration and delivery pipelines and projects.
 - [gwm](https://github.com/kbrdn1/gwm-cli) - A Git worktree manager: CLI and TUI in one binary, native libgit2, per-repo declarative bootstrap, and AI agent session tracking.
+- [Invocra](https://github.com/dsszs3333/invocra) - A terminal dashboard for GitLab CI across projects and servers, with per-project branch selection, searchable logs, and job actions.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - A TUI for the Jujutsu version-control system.
 - [Livediff](https://github.com/SoCkEt7/Livediff) - Real-time terminal file diff monitoring TUI.
 - [nomad](https://github.com/JosephLai241/nomad) - Customizable next-gen tree command with Git integration and TUI.
