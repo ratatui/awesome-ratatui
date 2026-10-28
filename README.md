@@ -290,6 +290,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [token-monitor](https://github.com/xzy9565/token-monitor) - Terminal dashboard and rate-limit scheduler for AI coding subscriptions and token ledgers.
 - [toktop](https://github.com/htin1/toktop) - A terminal dashboard for monitoring OpenAI and Anthropic token usage and costs.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - A local-first memory system for AI agents with SQLite full-text search, auditing, forgetting, consolidation, and a Ratatui operator console.
+- [voff](https://github.com/orhun/voff) - A workflow builder for coding agents with coordinated teams, parallel task execution, and live workflow monitoring.
 - [VT Code](https://github.com/vinhnx/vtcode) - An open-source Rust coding agent for the terminal.
 - [wryme](https://github.com/adiled/wryme) - That calm window where agents come to meet you, as a TUI and desktop app.
 
