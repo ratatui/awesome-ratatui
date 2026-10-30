@@ -363,6 +363,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [dsnitch](https://github.com/infomaniac777/dsnitch) - Real-time network and DNS egress inspector TUI for Docker containers powered by eBPF.
 - [FlowLens](https://github.com/power4j/flowlens) - A cross-platform network traffic analyzer with process, IP, and outbound-domain attribution.
 - [gping](https://github.com/orf/gping/) - Ping tool with a graph.
+- [hostkeep](https://github.com/volodymyr-malishevskyi/hostkeep) - A TUI for editing /etc/hosts: toggle entries, organize them into groups, save with a diff preview and backups.
 - [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux.
 - [LazyMQTT](https://github.com/ScottFelder/lazymqtt) - A keyboard-driven terminal client for browsing and publishing messages over the MQTT messaging protocol.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) - A terminal client for subscribing to and publishing messages over MQTT.
