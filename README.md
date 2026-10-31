@@ -721,3 +721,4 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [termCA](https://github.com/fabiooo4/termCA) - Interactive TUI Cellular Automata simulator.
 - [tgv](https://github.com/zeqianli/tgv) - A terminal genome browser with Vim-style navigation.
 - [tracker](https://github.com/ShenMian/tracker) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [salti](https://github.com/Sam-Sims/salti) - A fast, feature rich multiple sequence alignment browser for FASTA files, built for the terminal. 
