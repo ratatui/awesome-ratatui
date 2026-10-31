@@ -512,6 +512,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [chamber](https://github.com/mikeleppane/chamber) - A TUI for managing secrets.
 - [cotp](https://github.com/replydev/cotp) - An encrypted command-line authenticator for time- and counter-based one-time passwords.
+- [crossfyre-toolchain](https://github.com/clickswave/crossfyre-toolchain) - Recon and vulnerability scanning engines with live dashboards for finding subdomains, open ports and hidden web content.
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing software vulnerabilities from the Common Vulnerabilities and Exposures (CVE) database.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - A TUI for managing GnuPG encryption keys.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
