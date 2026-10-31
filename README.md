@@ -628,6 +628,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
 - [sgram-tui](https://github.com/arian-shamaei/sgram-tui) - A calibrated spectrogram analyzer for live mic or audio files, with labeled PNG figure export and a headless render mode.
 - [smyx](https://github.com/ayanchavand/Smyx) - A sleek, beautiful music player for Navidrome / OpenSubsonic with dynamic themes.
+- [sonora-tui](https://github.com/ColinTenaguillo/sonora-tui) - A terminal music player for TIDAL, Spotify, Apple Music, Deezer, YouTube Music, Subsonic and local files, with hi-res playback, synced lyrics and scrobbling.
 - [sparkplayer](https://github.com/dividebysandwich/sparkplayer/tree/main) - A fun terminal based media player with album art and video support.
 - [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client with native streaming, synced lyrics, and audio visualization. A direct fork of spotify-tui with continued development and new features.
 - [spotify-player](https://github.com/aome510/spotify-player) - An independently developed Spotify player with full feature parity.
