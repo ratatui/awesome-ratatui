@@ -150,6 +150,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [ratatui-interact](https://github.com/Brainwires/ratatui-interact) - Interactive TUI components for Ratatui with focus management and mouse support.
 - [ratatui-wasm](https://github.com/yunuservices/ratatui-wasm) - Load Ratatui widgets from WebAssembly plugins at runtime, with host-controlled capabilities and fuel and memory limits.
 - [tachyonfx](https://github.com/ratatui/tachyonfx) - An animation and visual-effects library for Ratatui applications.
+- [taria-ratatui](https://crates.io/crates/taria-ratatui) - Publish your app's widget tree, focus and available actions so AI agents can drive it over MCP instead of scraping the screen.
 - [terminput](https://crates.io/crates/terminput) - An abstraction over various backends that provide input events.
 - [termprofile](https://github.com/aschey/termprofile) - Detect and handle terminal color/styling support. Supports converting Ratatui color and style objects.
 - [tui-pantry](https://crates.io/crates/tui-pantry) - Component-driven development tool for ratatui widgets, similar to Storybook.
