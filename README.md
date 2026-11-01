@@ -254,7 +254,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Borg](https://github.com/adelphidata/borg) - A security-first personal AI assistant with a Ratatui chat TUI, long-term memory, scheduled tasks, and a self-healing daemon.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
 - [cc-code](https://github.com/cc-claws/cc-code) - Fast, lightweight Claude Code alternative built in Rust with Ratatui TUI, ACP protocol support, and multi-model compatibility.
-- [cctrail](https://github.com/vladkens/cctrail) - Active time, tokens and estimated cost per project from local Claude Code and Codex history.
+- [cctrail](https://github.com/vladkens/cctrail) - Active time, tokens and estimated cost per project from local Claude Code, Codex, pi and fx history.
 - [claudash](https://github.com/jguajardo/claudash) - The control room for Claude Code.
 - [claude-code-rust](https://github.com/srothgan/claude-code-rust) - A native terminal interface for Claude Code that renders inline into the terminal's scrollback.
 - [claudectl](https://github.com/mercurialsolo/claudectl) - Mission control for multiple Claude Code sessions with live dashboard, cost tracking, and budget enforcement.
