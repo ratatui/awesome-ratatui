@@ -295,6 +295,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - A local-first memory system for AI agents with SQLite full-text search, auditing, forgetting, consolidation, and a Ratatui operator console.
 - [voff](https://github.com/orhun/voff) - A workflow builder for coding agents with coordinated teams, parallel task execution, and live workflow monitoring.
 - [VT Code](https://github.com/vinhnx/vtcode) - An open-source Rust coding agent for the terminal.
+- [whycodes](https://github.com/whycorporation/whycodes) - A fast, provider-independent AI coding agent for the terminal that works with hosted APIs, local models, or any OpenAI-compatible endpoint.
 - [wryme](https://github.com/adiled/wryme) - That calm window where agents come to meet you, as a TUI and desktop app.
 
 ### 📁 Files, Data, and Documents
