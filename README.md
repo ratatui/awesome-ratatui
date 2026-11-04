@@ -382,6 +382,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [trippy](https://github.com/fujiapple852/trippy) - Network diagnostic tool.
 - [unifly](https://github.com/hyperb1iss/unifly) - CLI and TUI for Ubiquiti UniFi networks with live traffic charts, topology, firewall views, an offline demo fleet, and an agent skill.
 - [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch.
+- [wireguard-tui](https://github.com/JamilleJung/wireguard-tui) - A Linux TUI for managing WireGuard tunnels with live status, configuration editing, QR import, and backups.
 - [wiretui](https://github.com/robin-thoene/wiretui) - A minimal keyboard-driven TUI to manage WireGuard VPN connections.
 - [wtfi2](https://github.com/kanywst/wtfi2) - Live network-path diagnostic that pinpoints where your Wi-Fi connection breaks (link, gateway, DNS, WAN) and how to fix it.
 - [yscan](https://github.com/yetidevworks/yscan) - A TUI-first network scanner with ARP, mDNS, and SSDP discovery.
