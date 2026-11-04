@@ -616,6 +616,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - A terminal tool for generating music from bytebeat expressions.
 - [chordflow](https://github.com/timvancann/chordflow) - A tool for practicing improvisation and mastering the guitar neck.
 - [classfi](https://github.com/carmiac/classfi) - A focused streaming music player for classical music.
+- [cloofy](https://github.com/parda21/cloofy) - Spotify and YouTube Music client that plays on its own, with Home, Spotify's DJ, synced lyrics and real cover art.
 - [deezer-tui](https://github.com/Tatayoyoh/deezer-tui) - Deezer music TUI with included background player.
 - [fum](https://github.com/qxb3/fum) - A fully ricable tui-based music client.
 - [glicol-cli](https://github.com/glicol/glicol-cli) - Cross-platform music live coding in terminal.
