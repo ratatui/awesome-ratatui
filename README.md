@@ -550,6 +550,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 #### Notes and Journaling
 
 - [glues](https://github.com/gluesql/glues) - A sync-enabled TUI note-taking app with Git, CSV, and JSON support.
+- [Grimoire](https://github.com/kelsierbot/GrimoireTUI) - A cozy writing desk for novels.
 - [kimün](https://github.com/nico2sh/kimun) - A terminal-based Markdown note taking app that combines an interactive TUI with a scriptable CLI for automation.
 - [MDDock](https://mddock.com) - Local-first Markdown notes app with a full ratatui TUI (live rendering, mermaid, grep) and an MCP server so AI agents read the same notes.
 - [quick-note](https://github.com/daniel-valencia-ts/quick-note) - A simple note-taking tool.
@@ -647,7 +648,6 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [Absotui](https://github.com/pdwaldrop/absotui) - A fast, keyboard-driven TUI client for Audiobookshelf (self-hosted audiobook/podcast server).
 - [bookokrat](https://github.com/bugzmanov/bookokrat) - A full-featured EPUB / PDF e-book reader with Vim keybindings.
-- [Grimoire](https://github.com/kelsierbot/GrimoireTUI) - A cozy writing desk for novels.
 - [mal-cli](https://github.com/L4z3x/mal-cli) - A terminal client for MyAnimeList.
 - [managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing Sonarr, Radarr, and other Servarr applications.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support.
