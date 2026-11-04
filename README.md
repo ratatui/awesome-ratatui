@@ -608,6 +608,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 #### Music and Audio
 
 - [angry-duiker](https://gitlab.com/fizzizist/angry-duiker-2) - A TUI for streaming music from network media servers using DLNA.
+- [almavorn](https://github.com/Molten-Zharr/Almavorn) - A customizable music player for both desktop and terminal - choose GUI or TUI version. Streaming services, local files, statistics, lyrics and more. 
 - [asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool.
 - [audium](https://github.com/takashialpha/audium) - A keyboard-driven music app for people who live in the terminal.
 - [bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - A terminal tool for generating music from bytebeat expressions.
