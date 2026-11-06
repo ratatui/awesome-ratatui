@@ -309,7 +309,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal-based disk space navigator.
 - [doxx](https://github.com/bgreenwell/doxx) - Document viewer for Microsoft Word files.
 - [edamame](https://github.com/mijowi/edamame) - A Terminal Markdown editor that stays rendered while you edit.
-- [ff](https://github.com/anthonyamaro15/file-finder-rust) - A terminal file finder: fuzzy-search every folder under your home, preview files, then `cd` there or open them in nvim, VS Code or Zed.
+- [ff](https://github.com/anthonyamaro15/file-finder-rust) - A terminal file finder.
 - [FileSSH](https://github.com/JayanAXHF/filessh) - A TUI-based file explorer for remote servers.
 - [FileView](https://github.com/Hiro-Chiba/fileview) - A terminal file browser with image previews, Git status, search, and an MCP server.
 - [flerp](https://github.com/Huseynteymurzade28/flerp) - A TUI for exploring and analyzing text files, PDFs and images.
