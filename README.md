@@ -342,6 +342,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [flyline](https://github.com/HalFrgrd/flyline) - A Bash plugin TUI for an enhanced command line writing experience.
 - [fsel](https://github.com/Mjoyufull/fsel) - A TUI app launcher and fuzzy finder for GNU/Linux and BSD.
 - [fzf-make](https://github.com/kyu08/fzf-make) - A command line tool that executes make target using fuzzy finder with preview window.
+- [graph-tui](https://github.com/mixsoulgithub/graph-tui) - A terminal graph editor with an infinite canvas, orthogonal edge routing and vim-like keys.
 - [hwatch](https://github.com/blacknon/hwatch) - Alternative watch command with command history and diffs.
 - [kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal.
 - [matchmaker](https://github.com/Squirreljetpack/matchmaker) - A fast, configurable fuzzy searcher for terminal data.
