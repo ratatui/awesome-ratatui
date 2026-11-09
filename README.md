@@ -197,6 +197,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rootle](https://github.com/rootledev/rootle) - A modal TUI for browsing GitHub and other source-control services with column views and syntax-highlighted previews.
 - [runline](https://github.com/programmersd21/runline) - A keyboard-first terminal client for watching and acting on GitHub Actions runs.
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
+- [tuitree](https://github.com/jonathancostin/tuitree) - A dashboard for Git worktrees and their GitHub PRs, built for running several coding agents in parallel.
 - [wrkflw](https://github.com/bahdotsh/wrkflw) - A TUI for validating and executing GitHub Actions workflows locally.
 
 #### Code Search, Editing, and Review
