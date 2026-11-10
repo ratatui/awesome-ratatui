@@ -301,6 +301,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 📁 Files, Data, and Documents
 
 - [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binary files.
+- [Borg Commander](https://github.com/0xcd21h/borg-commander) - Two-panel file manager with a built-in shell, plus Docker, process, network and startup views, linked remote machines, and MCP access for AI agents.
 - [columbus](https://github.com/sivaprakashkrp/columbus) - A GUI-like TUI file explorer.
 - [comhad](https://github.com/Eoin-McMahon/Comhad) - A ranger-style terminal browser for S3, with previews, background transfers, and non-destructive sync.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
