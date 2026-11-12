@@ -63,6 +63,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [dumo](https://github.com/iddey/dumo) - An embedded-graphics backend that is built on [mplusfonts](https://github.com/iddey/mplusfonts) and has kanji support.
 - [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) - A ratatui backend that is also an egui widget. Deploy on web with WebAssembly or ship natively with bevy, macroquad, or eframe.
 - [mousefood](https://github.com/ratatui/mousefood) - An embedded-graphics backend for Ratatui.
+- [plurimus](https://github.com/kenianbei/plurimus) - A Bevy-native terminal renderer: cameras, widgets, and 2d/3d pipelines drawn to terminal cells.
 - [raclettui](https://github.com/ishrut/raclettui) - A wayland layer shell window implementing the ratatui backend with cpu and wgpu rendering.
 - [rat-salsa](https://github.com/thscharler/rat-salsa) - An event-queue for ratatui with tasks, timers, application events, focus handling, dialog windows.
 - [ratatuefi](https://github.com/sermuns/ratatuefi) - A Ratatui backend for drawing terminal UIs in pre-boot UEFI environments.
