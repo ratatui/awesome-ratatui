@@ -246,6 +246,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [tracexec](https://github.com/kxxt/tracexec) - A terminal tool for tracing which programs and commands are executed.
 - [wireman](https://github.com/preiter93/wireman) - A terminal client for calling gRPC services.
+- [zch](https://github.com/prsweet/zch) - A competitive programming dashboard that runs Codeforces samples with diffs and submits from the terminal.
 
 ### 🤖 AI and Agents
 
