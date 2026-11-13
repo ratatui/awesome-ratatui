@@ -594,6 +594,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 📚 Reading and Learning
 
 - [bbcli](https://github.com/hako/bbcli) - A terminal-based BBC News reader featuring a compact, numbered list interface with vim-like navigation.
+- [clavirio](https://github.com/alexylon/clavirio) - A touch-typing tutor with lessons for QWERTY, Dvorak and Colemak, an on-screen keyboard with finger hints, and drills of your weakest keys.
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) - A TUI RSS reader based on the news_flash library inspired by Neovim and co.
 - [exhaust](https://github.com/heyrict/exhaust) - A terminal app for doing exams.
 - [fastcards](https://github.com/indium114/fastcards) - A CLI spaced-repetition flashcard study tool.
