@@ -654,6 +654,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Youta](https://github.com/vitaly-zdanevich/youta) - An audio player for YouTube, Yandex Music, podcasts, audiobooks, radio, and local files.
 - [ytmusic-tui](https://github.com/WakaTaira/ytmusic-tui) - A TUI client for YouTube Music with Vim-style navigation and desktop media-control integration.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
+- [tonus](https://github.com/lekspa/tonus) - Minimal terminal music player for offline playback.
 
 #### Books, Video, and Creative Media
 
