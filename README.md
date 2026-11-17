@@ -532,6 +532,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing software vulnerabilities from the Common Vulnerabilities and Exposures (CVE) database.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - A TUI for managing GnuPG encryption keys.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
+- [lazybw](https://github.com/SyscallBrain/lazybw) - A keyboard-first TUI for the Bitwarden vault, built on the official Bitwarden CLI.
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) - A local-first password manager that keeps vault management interactive, keyboard-driven, and in the terminal.
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for managing the pass password store.
 - [YADB](https://github.com/izya4ka/yadb) - A TUI for discovering hidden directories and files on web servers.
