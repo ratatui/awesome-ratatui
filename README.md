@@ -253,6 +253,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [agent-console](https://github.com/buhuipao/agent-console) - A local dashboard for Codex and Claude Code.
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
 - [every-other-token](https://github.com/Mattbusel/Every-Other-Token) - Streams an LLM response and colours each token by the model's confidence from logprobs, with a full-screen view of perplexity and the top alternative tokens.
+- [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) - Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget, a month-end forecast and cost spikes in a terminal dashboard.
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - An open-source desktop workspace for general-purpose AI agents.
 - [Borg](https://github.com/adelphidata/borg) - A security-first personal AI assistant with a Ratatui chat TUI, long-term memory, scheduled tasks, and a self-healing daemon.
 - [bosun](https://github.com/yetidevworks/bosun) - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
@@ -382,6 +383,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [nordvpn-tui](https://github.com/Degra02/nordvpn-tui) - A TUI for NordVPN.
 - [oryx](https://github.com/pythops/oryx) - A TUI for sniffing network traffic using eBPF.
 - [procnetmon](https://github.com/DaCatBeam/procnetmon) - A TUI for monitoring real-time network stats on Linux systems.
+- [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Scrapes HTTP, SOCKS4 and SOCKS5 proxies from public sources and checks which ones work, with a live TUI of the progress and the fastest proxies.
 - [prt](https://github.com/rekurt/prt) - A TUI for monitoring network ports, inspecting owning processes, and managing SSH tunnels.
 - [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring tool with deep packet inspection.
 - [sensor-vision](https://github.com/jcfromsiberia/sensor-vision) - TUI Client for TeamViewer IoT MQTT API for managing IoT Sensors and Metrics.
@@ -404,6 +406,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [purple](https://github.com/erickochen/purple) - TUI SSH config manager & launcher with fuzzy search, tags, cloud provider sync, tunnels and command snippets for server management.
+- [ratclone](https://github.com/SyscallBrain/ratclone) - Browse rclone remotes in one or two panes, and copy or move between them with transfers that keep running in the background.
 - [rustmission](https://github.com/intuis/rustmission) - TUI for the Transmission daemon.
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 - [ssh-list](https://github.com/akinoiro/ssh-list) - SSH connection manager.
@@ -472,6 +475,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control Docker containers.
 - [reeve](https://github.com/yetidevworks/reeve) - Manages a local web stack as per-user services: Caddy, Apache or nginx, per-vhost PHP-FPM versions, databases, local SSL, and wildcard DNS.
 - [stevedore](https://github.com/takumiymd/stevedore) - A fast, keyboard-driven terminal UI for managing Docker containers and Compose stacks.
+- [virsh-tui](https://github.com/SyscallBrain/virsh-tui) - Manage libvirt virtual machines with Vim keys and live CPU, memory, disk and network graphs, showing the virsh command behind every action.
 
 #### OS, Storage, and Package Management
 
@@ -531,6 +535,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [flawz](https://github.com/orhun/flawz) - A TUI for browsing software vulnerabilities from the Common Vulnerabilities and Exposures (CVE) database.
 - [gpg-tui](https://github.com/orhun/gpg-tui) - A TUI for managing GnuPG encryption keys.
 - [jwt-ui](https://github.com/jwt-rs/jwt-ui) - A command line UI for decoding/encoding JSON Web Tokens.
+- [lazybw](https://github.com/SyscallBrain/lazybw) - A keyboard-first TUI for the Bitwarden vault, built on the official Bitwarden CLI.
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) - A local-first password manager that keeps vault management interactive, keyboard-driven, and in the terminal.
 - [passepartui](https://github.com/kardwen/passepartui) - A TUI for managing the pass password store.
 - [YADB](https://github.com/izya4ka/yadb) - A TUI for discovering hidden directories and files on web servers.
@@ -595,6 +600,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 📚 Reading and Learning
 
 - [bbcli](https://github.com/hako/bbcli) - A terminal-based BBC News reader featuring a compact, numbered list interface with vim-like navigation.
+- [clavirio](https://github.com/alexylon/clavirio) - A touch-typing tutor with lessons for QWERTY, Dvorak and Colemak, an on-screen keyboard with finger hints, and drills of your weakest keys.
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) - A TUI RSS reader based on the news_flash library inspired by Neovim and co.
 - [exhaust](https://github.com/heyrict/exhaust) - A terminal app for doing exams.
 - [fastcards](https://github.com/indium114/fastcards) - A CLI spaced-repetition flashcard study tool.
@@ -604,6 +610,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [hncli](https://github.com/pierreyoda/hncli) - Hacker News read-only TUI.
 - [kanash](https://github.com/benoitlx/kanash) - Learn Kana in your terminal.
 - [keybr-tui](https://github.com/y0sif/keybr-tui) - Adaptive touch-typing practice that finds the keys slowing you down and drills them, a port of the keybr.com algorithm.
+- [kktypr](https://github.com/kk376/kktypr) - Terminal touch typing academy and developer code syntax trainer in pure Rust.
 - [leetrs](https://github.com/shadowmkj/leetrs) - A TUI for browsing, testing, and submitting LeetCode problems directly from your terminal.
 - [ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [rsstig](https://github.com/indium114/rsstig) - An unconventional terminal RSS/Atom reader.
@@ -632,6 +639,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gtm](https://github.com/prjctimg/gtm) - Feature rich audio player built for terminal enthusiasts.
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
 - [miditui](https://github.com/pinkpixel-dev/miditui) - A terminal MIDI player and multi-track piano roll visualizer with SoundFont synthesis.
+- [miniam](https://github.com/Wian1977/miniam) - Apple Music in the terminal with true-color album art and a live spectrum that follows each frequency band.
 - [myx](https://github.com/HaseebKhalid1507/Myx) - Modern Spotify player for the terminal. With reactive themes.
 - [NoctaVox](https://github.com/Jaxx497/noctavox) - A lightweight, customizable TUI music player for local files.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - A terminal synthesizer that builds sounds from layered waveforms.
@@ -655,6 +663,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Youta](https://github.com/vitaly-zdanevich/youta) - An audio player for YouTube, Yandex Music, podcasts, audiobooks, radio, and local files.
 - [ytmusic-tui](https://github.com/WakaTaira/ytmusic-tui) - A TUI client for YouTube Music with Vim-style navigation and desktop media-control integration.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) - Listen to music from YouTube in the terminal.
+- [tonus](https://github.com/lekspa/tonus) - Minimal terminal music player for offline playback.
 
 #### Books, Video, and Creative Media
 
