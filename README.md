@@ -691,6 +691,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [bigbrainwordle](https://github.com/kloki/bigbrainwordle) - A tool to help you cheat with the daily wordle.
 - [Blackjack](https://github.com/skharchikov/blackjack) - Multiplayer Blackjack with a WebSocket server and a terminal client.
 - [cgol-tui](https://github.com/jarjk/cgol-tui-rs) - Conway's Game of Life viewer with a TUI in Rust.
+- [CHAOS RPG](https://github.com/Mattbusel/chaos-rpg) - A roguelike where every hit, heal and loot drop is decided by chaining real math (Lorenz attractor, Mandelbrot set, Collatz) instead of a random number.
 - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - Terminal-based Chess game.
 - [chessterm](https://github.com/ronaldsuwandi/chessterm) - A Rust-powered chess engine in a terminal.
 - [confetty_rs](https://github.com/Handfish/confetty_rs) - Particle system (fireworks, stars) rendered in the terminal.
