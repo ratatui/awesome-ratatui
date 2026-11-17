@@ -178,6 +178,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [blippy](https://github.com/AksharP5/blippy) - A keyboard-first TUI for GitHub issues and pull requests.
 - [ComfyGit](https://github.com/comfy-home/ComfyGit) - All-In-One: Centralised multi-project management, Changelog generator, Version bumper & CLI tool introducing a new ComfyGitFlow.
 - [deadbranch](https://github.com/armgabrielyan/deadbranch) - A TUI for cleaning stale Git branches safely.
+- [diffler](https://github.com/matheusfillipe/diffler) - A magit-style git TUI where you stage, review pull requests and CI, and leave comments in the diff for your coding agent to answer.
 - [drydock](https://github.com/yetidevworks/drydock) - A live dashboard for a fleet of Git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
 - [forgetop](https://github.com/magna-nz/forgetop) - Pull requests, work items, and CI pipelines from GitHub, GitLab, Azure DevOps, Bitbucket, Linear, and Jira in one queue.
 - [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
