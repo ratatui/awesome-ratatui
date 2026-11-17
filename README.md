@@ -472,6 +472,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [oxker](https://github.com/mrjackwills/oxker) - Simple TUI to view & control Docker containers.
 - [reeve](https://github.com/yetidevworks/reeve) - Manages a local web stack as per-user services: Caddy, Apache or nginx, per-vhost PHP-FPM versions, databases, local SSL, and wildcard DNS.
 - [stevedore](https://github.com/takumiymd/stevedore) - A fast, keyboard-driven terminal UI for managing Docker containers and Compose stacks.
+- [virsh-tui](https://github.com/SyscallBrain/virsh-tui) - Manage libvirt virtual machines with Vim keys and live CPU, memory, disk and network graphs, showing the virsh command behind every action.
 
 #### OS, Storage, and Package Management
 
