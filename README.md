@@ -381,6 +381,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [nordvpn-tui](https://github.com/Degra02/nordvpn-tui) - A TUI for NordVPN.
 - [oryx](https://github.com/pythops/oryx) - A TUI for sniffing network traffic using eBPF.
 - [procnetmon](https://github.com/DaCatBeam/procnetmon) - A TUI for monitoring real-time network stats on Linux systems.
+- [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Scrapes HTTP, SOCKS4 and SOCKS5 proxies from public sources and checks which ones work, with a live TUI of the progress and the fastest proxies.
 - [prt](https://github.com/rekurt/prt) - A TUI for monitoring network ports, inspecting owning processes, and managing SSH tunnels.
 - [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring tool with deep packet inspection.
 - [sensor-vision](https://github.com/jcfromsiberia/sensor-vision) - TUI Client for TeamViewer IoT MQTT API for managing IoT Sensors and Metrics.
