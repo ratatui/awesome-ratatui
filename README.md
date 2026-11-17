@@ -404,6 +404,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lazy-etherscan](https://github.com/woxjro/lazy-etherscan) - A Simple Terminal UI for the Ethereum Blockchain Explorer.
 - [nyaa](https://github.com/Beastwick18/nyaa) - A nyaa.si tui tool for browsing and downloading torrents.
 - [purple](https://github.com/erickochen/purple) - TUI SSH config manager & launcher with fuzzy search, tags, cloud provider sync, tunnels and command snippets for server management.
+- [ratclone](https://github.com/SyscallBrain/ratclone) - Browse rclone remotes in one or two panes, and copy or move between them with transfers that keep running in the background.
 - [rustmission](https://github.com/intuis/rustmission) - TUI for the Transmission daemon.
 - [slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client.
 - [ssh-list](https://github.com/akinoiro/ssh-list) - SSH connection manager.
