@@ -633,6 +633,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [gtm](https://github.com/prjctimg/gtm) - Feature rich audio player built for terminal enthusiasts.
 - [lrxed](https://github.com/LunaPresent/lrxed) - A TUI application for synchronizing lyrics.
 - [miditui](https://github.com/pinkpixel-dev/miditui) - A terminal MIDI player and multi-track piano roll visualizer with SoundFont synthesis.
+- [miniam](https://github.com/Wian1977/miniam) - Apple Music in the terminal with true-color album art and a live spectrum that follows each frequency band.
 - [myx](https://github.com/HaseebKhalid1507/Myx) - Modern Spotify player for the terminal. With reactive themes.
 - [NoctaVox](https://github.com/Jaxx497/noctavox) - A lightweight, customizable TUI music player for local files.
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - A terminal synthesizer that builds sounds from layered waveforms.
