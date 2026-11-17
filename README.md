@@ -252,6 +252,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 - [agent-console](https://github.com/buhuipao/agent-console) - A local dashboard for Codex and Claude Code.
 - [amtr](https://github.com/arian-shamaei/anthropometer) - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
+- [every-other-token](https://github.com/Mattbusel/Every-Other-Token) - Streams an LLM response and colours each token by the model's confidence from logprobs, with a full-screen view of perplexity and the top alternative tokens.
 - [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) - Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget, a month-end forecast and cost spikes in a terminal dashboard.
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - An open-source desktop workspace for general-purpose AI agents.
 - [Borg](https://github.com/adelphidata/borg) - A security-first personal AI assistant with a Ratatui chat TUI, long-term memory, scheduled tasks, and a self-healing daemon.
