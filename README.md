@@ -430,6 +430,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr.
 - [omaro](https://github.com/Rolv-Apneseth/omaro) - TUI for the lobste.rs website.
 - [rail](https://github.com/vitosans/rail) - A local-first terminal mail client for Gmail and Microsoft 365.
+- [rtg](https://github.com/bercly0b/rtg) - Fast, vim-like Telegram TUI client, built on TDLib.
 - [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
 - [termchat](https://github.com/lemunozm/termchat) - Terminal chat over a local network with video streaming and file transfer.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
