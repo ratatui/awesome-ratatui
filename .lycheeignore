@@ -1,0 +1,3 @@
+# Temporarily excluded: HTTPS handshake fails (TLS internal error) since 2026-10-19.
+# Recheck and remove the MDDock entry from README.md if it stays down.
+^https://mddock\.com
