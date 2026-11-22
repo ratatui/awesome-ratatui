@@ -446,6 +446,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting.
 - [mobicat](https://github.com/yamamoto7/mobicat) - View one app's Android and iOS simulator logs with the same keys and filters, with crashes grouped with their stack traces.
+- [neboto](https://github.com/neboto/neboto-tui) - A read-only, keyboard-driven browser for AWS resources across services, regions and accounts, with search, jumps between related resources and CloudWatch metrics.
 - [orbit-tui](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, and audio visualizer.
 - [rigtop](https://github.com/akivajp/rigtop) - System monitor for workstations, laptops and NAS with storage health, per-process GPU memory and many hosts over SSH.
 - [toptop](https://github.com/ur-grue/toptop) - System monitor with a local-inference view: live tokens/sec, GPU compute-vs-bandwidth, VRAM-spill verdicts.
