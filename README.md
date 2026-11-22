@@ -603,6 +603,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [leetrs](https://github.com/shadowmkj/leetrs) - A TUI for browsing, testing, and submitting LeetCode problems directly from your terminal.
 - [ostt](https://github.com/kristoferlund/ostt) - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 - [rsstig](https://github.com/indium114/rsstig) - An unconventional terminal RSS/Atom reader.
+- [scribe](https://github.com/programmersd21/scribe) - Offline, CPU-only speech-to-text in the terminal. Transcribe local audio files or URLs, stream transcripts, and export results.
 - [scriptor](https://github.com/giacomopiccinini/scriptor) - A (medieval) local speech-to-text TUI & CLI.
 - [synd](https://github.com/ymgyt/syndicationd) - A TUI feed viewer.
 - [cargo-thesaurust](https://github.com/quietpigeon/cargo-thesaurust) - A terminal-based dictionary app.
