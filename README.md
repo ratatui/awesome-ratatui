@@ -272,6 +272,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [models](https://github.com/reyamira/models) - A TUI for browsing AI models, benchmarks, and coding agents.
 - [nereid](https://github.com/bnomei/nereid) - Create and explore Mermaid diagrams with AI agents through a terminal UI and Model Context Protocol server.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
+- [Open Max](https://github.com/Max17190/open-max) - A minimal, high-performance Rust agent harness that runs in your terminal and can write a tool and call it on its very next step.
 - [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
 - [opencrabs](https://github.com/opencrabs/opencrabs) - An all-in-one AI agent for the terminal with TUI, CLI, and daemon modes.
 - [orbit-cli](https://github.com/dwaddle/orbit-cli) - An autonomous AI coding agent and Model Context Protocol (MCP) client powered by OpenRouter, featuring a split-pane TUI, Vim modal editing, AST compile guards, and multi-agent DAG workflows.
