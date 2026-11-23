@@ -272,6 +272,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [models](https://github.com/reyamira/models) - A TUI for browsing AI models, benchmarks, and coding agents.
 - [nereid](https://github.com/bnomei/nereid) - Create and explore Mermaid diagrams with AI agents through a terminal UI and Model Context Protocol server.
 - [Oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
+- [Open Max](https://github.com/Max17190/open-max) - A minimal, high-performance Rust agent harness that runs in your terminal and can write a tool and call it on its very next step.
 - [opencode stats](https://github.com/Cateds/opencode-stats) - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
 - [opencrabs](https://github.com/opencrabs/opencrabs) - An all-in-one AI agent for the terminal with TUI, CLI, and daemon modes.
 - [orbit-cli](https://github.com/dwaddle/orbit-cli) - An autonomous AI coding agent and Model Context Protocol (MCP) client powered by OpenRouter, featuring a split-pane TUI, Vim modal editing, AST compile guards, and multi-agent DAG workflows.
@@ -445,6 +446,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting.
 - [mobicat](https://github.com/yamamoto7/mobicat) - View one app's Android and iOS simulator logs with the same keys and filters, with crashes grouped with their stack traces.
+- [neboto](https://github.com/neboto/neboto-tui) - A read-only, keyboard-driven browser for AWS resources across services, regions and accounts, with search, jumps between related resources and CloudWatch metrics.
 - [orbit-tui](https://github.com/ziuus/orbit-tui) - Keyboard-driven terminal system dashboard (~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, and audio visualizer.
 - [rigtop](https://github.com/akivajp/rigtop) - System monitor for workstations, laptops and NAS with storage health, per-process GPU memory and many hosts over SSH.
 - [toptop](https://github.com/ur-grue/toptop) - System monitor with a local-inference view: live tokens/sec, GPU compute-vs-bandwidth, VRAM-spill verdicts.
@@ -632,6 +634,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [oosc-rs](https://github.com/karasikq/oosc-rs) - A terminal synthesizer that builds sounds from layered waveforms.
 - [Oscilla](https://github.com/Noven-Signal/Oscilla) - A lightweight TUI music player for local audio playback, featuring smooth 60 FPS visualizations.
 - [O₂](https://github.com/coignard/o2) - Rust port of the ORCΛ esoteric programming language and terminal livecoding environment.
+- [pova](https://github.com/P0r0ro/pova) - YouTube Music in the terminal with a btop-style layout, a cava-based visualizer, synced lyrics and album art.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [rs-pug](https://github.com/JustRoccat/rs-pug) - A Neovim-inspired asynchronous music player with a reactive audio visualizer.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
