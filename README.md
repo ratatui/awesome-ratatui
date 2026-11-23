@@ -535,6 +535,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 #### Tasks, Projects, and Calendars
 
+- [atlassian](https://github.com/BiteFoundry/atlassian) - Unified Jira and Confluence TUI, CLI, HTTP API, and MCP server with local SQLite FTS5 search and inline image previews.
 - [aven](https://github.com/raine/aven) - A local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI.
 - [basilk](https://github.com/GabAlpha/basilk) - A TUI to manage your tasks with minimal kanban logic.
 - [Jirust](https://github.com/Code-Militia/jirust) - A Jira TUI.
