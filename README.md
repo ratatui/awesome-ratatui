@@ -557,6 +557,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 #### Notes and Journaling
 
+- [bitefoundry-obsidian](https://github.com/BiteFoundry/obsidian) - Local-first Obsidian vault TUI, CLI, HTTP API, and MCP server with an interactive Braille knowledge graph and SQLite FTS5 search.
 - [glues](https://github.com/gluesql/glues) - A sync-enabled TUI note-taking app with Git, CSV, and JSON support.
 - [kimün](https://github.com/nico2sh/kimun) - A terminal-based Markdown note taking app that combines an interactive TUI with a scriptable CLI for automation.
 - [MDDock](https://mddock.com) - Local-first Markdown notes app with a full ratatui TUI (live rendering, mermaid, grep) and an MCP server so AI agents read the same notes.
