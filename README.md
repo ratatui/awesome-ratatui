@@ -475,6 +475,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging.
 - [dfdisk](https://github.com/tylerstyle/dfdisk) - Modern forensic disk imaging, damaged media rescue and evidence management.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [installmon](https://github.com/ankur3-101106/installmon) - Lightweight Linux software installation monitoring, lifecycle auditing, and provenance tracking.
 - [lazyrsync](https://github.com/westpoint-io/lazyrsync) - A TUI for rsync: reusable profiles, a dry-run diff preview, and live run progress.
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
