@@ -478,7 +478,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [lazyrsync](https://github.com/westpoint-io/lazyrsync) - A TUI for rsync: reusable profiles, a dry-run diff preview, and live run progress.
 - [lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI login manager for Linux and BSD.
 - [linutil](https://github.com/ChrisTitusTech/linutil) - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [linux-boot-analyzer](https://github.com/06ergin06/linux_boot_analyzer_tui) - A terminal UI that analyses Linux boot time and manages systemd services, autostart entries, profiles and restore points.
+- [linux-boot-analyzer](https://github.com/06ergin06/linux_boot_analyzer_tui) - A TUI that analyses Linux boot time and manages systemd services, autostart entries, profiles and restore points.
 - [mirro-rs](https://github.com/rtkay123/mirro-rs) - An Arch Linux mirrorlist manager with a TUI.
 - [pacman-utils](https://github.com/ankur3-101106/pacman-utils) - A keyboard-driven Arch Linux system manager with pacman, AUR, and reflector tools.
 - [parui](https://github.com/Vonr/parui) - A TUI frontend for Arch User Repository helpers such as paru and yay.
