@@ -191,6 +191,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [Invocra](https://github.com/dsszs3333/invocra) - A terminal dashboard for GitLab CI across projects and servers, with per-project branch selection, searchable logs, and job actions.
 - [lazyjj](https://github.com/Cretezy/lazyjj) - A TUI for the Jujutsu version-control system.
 - [Livediff](https://github.com/SoCkEt7/Livediff) - Real-time terminal file diff monitoring TUI.
+- [Rivet Git](https://github.com/ririv/rvgit) - A terminal dashboard for multiple Git repositories that lets you search and run the Git actions available for the selected repo.
 - [rootle](https://github.com/rootledev/rootle) - A modal TUI for browsing GitHub and other source-control services with column views and syntax-highlighted previews.
 - [runline](https://github.com/programmersd21/runline) - A keyboard-first terminal client for watching and acting on GitHub Actions runs.
 - [serie](https://github.com/lusingander/serie) - A rich Git commit graph in your terminal.
