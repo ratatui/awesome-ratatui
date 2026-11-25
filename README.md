@@ -639,6 +639,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [pova](https://github.com/P0r0ro/pova) - YouTube Music in the terminal with a btop-style layout, a cava-based visualizer, synced lyrics and album art.
 - [roon-tui](https://github.com/TheAppgineer/roon-tui) - Roon Remote for the terminal.
 - [rs-pug](https://github.com/JustRoccat/rs-pug) - A Neovim-inspired asynchronous music player with a reactive audio visualizer.
+- [rustune](https://github.com/dzulfikar08/rustune) - A terminal music player with YouTube search, synced lyrics, Internet radio and Winamp skins.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) - Sample-based, MIDI-controlled virtual pipe organ instrument.
 - [scope-tui](https://github.com/alemidev/scope-tui) - A terminal audio scope with waveform, vector, and frequency views.
 - [serenIT](https://github.com/ElevenJune/serenIT) - An ambient sound player directly from your terminal.
