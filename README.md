@@ -424,6 +424,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rail](https://github.com/vitosans/rail) - A local-first terminal mail client for Gmail and Microsoft 365.
 - [rtg](https://github.com/bercly0b/rtg) - Fast, vim-like Telegram TUI client, built on TDLib.
 - [rvIRC](https://github.com/KaraZajac/rvIRC) - A TUI client for IRC.
+- [teams](https://github.com/BiteFoundry/teams) - A terminal UI, CLI, local HTTP API, and MCP server for Microsoft Teams with inline terminal images and SQLite FTS5 search.
 - [tgt](https://github.com/FedericoBruzzone/tgt) - A TUI for Telegram written in Rust.
 - [tincan](https://github.com/bilalyazicioglu/tincan-cli) - Peer-to-peer voice and text chat with no server.
 - [tsuchita](https://github.com/kamiyaa/tsuchita) - A client-server notification center for desktop notifications on Linux.
