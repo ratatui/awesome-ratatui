@@ -177,6 +177,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [deadbranch](https://github.com/armgabrielyan/deadbranch) - A TUI for cleaning stale Git branches safely.
 - [diffler](https://github.com/matheusfillipe/diffler) - A magit-style git TUI where you stage, review pull requests and CI, and leave comments in the diff for your coding agent to answer.
 - [drydock](https://github.com/yetidevworks/drydock) - A live dashboard for a fleet of Git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
+- [Forge TUI](https://github.com/creature-studio/forge) - Terminal file manager, Git client, code search, and integrated terminal with mouse and keyboard support.
 - [forgetop](https://github.com/magna-nz/forgetop) - Pull requests, work items, and CI pipelines from GitHub, GitLab, Azure DevOps, Bitbucket, Linear, and Jira in one queue.
 - [giff](https://github.com/bahdotsh/giff) - A TUI for Git diffs with interactive rebase support.
 - [gimoji](https://github.com/zeenix/gimoji) - Makes it easy to add emojis to your Git commit messages.
