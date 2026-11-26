@@ -451,6 +451,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [rigtop](https://github.com/akivajp/rigtop) - System monitor for workstations, laptops and NAS with storage health, per-process GPU memory and many hosts over SSH.
 - [toptop](https://github.com/ur-grue/toptop) - System monitor with a local-inference view: live tokens/sec, GPU compute-vs-bandwidth, VRAM-spill verdicts.
 - [tuistash](https://github.com/edmocosta/tuistash) - A TUI for monitoring Logstash.
+- [undertop](https://github.com/fabiocmazzo/undertop) - System monitor dressed as the operations console of an underground silo, with CRT effects, process dossiers and a lineage tree.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [vTUI](https://github.com/noclue/vtui) - Explore vSphere in style, with vCenter and ESXi both included.
 - [winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring tool with live metrics, time-series graphs, A/B comparison.
