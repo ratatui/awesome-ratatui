@@ -16,7 +16,7 @@ Format:
 ```
 
 Ensure your pull request adheres to the following guidelines:
-- Projects need to be established. A check on your pull request measures this, and passes when either:
+- Projects need to be established. Anything awesome is usually even better after a month of real use, so give yours that month first. A check on your pull request measures this, and passes when either:
   - the project is at least 30 days old, counted from when the repository was created or its first commit, whichever is later, and has commits on at least 5 different days; or
   - the project has at least 50 stars.
 
