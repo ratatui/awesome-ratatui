@@ -7,7 +7,7 @@
 Here you will find a list of TUI crates and applications that are made for or using [`ratatui`](https://crates.io/crates/ratatui) and [`tui`](https://crates.io/crates/tui).
 
 > [!IMPORTANT]
-> **Adding your project?** If it's awesome now, it'll be even more awesome after a month of people actually using it and you fixing what they find. So we list projects once they're at least 30 days old with commits on at least 5 different days, or once they have 50 stars. A check on your pull request measures this. See the [contribution guidelines](contributing.md).
+> **Adding your project?** Let it bake first. Awesome projects come out even better after a month in the oven: real users, real bugs, real fixes. So we list projects once they're at least 30 days old with commits on at least 5 different days, or once they have 50 stars. A check on your pull request measures this. See the [contribution guidelines](contributing.md).
 
 <!--lint disable awesome-toc-->
 
