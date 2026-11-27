@@ -6,6 +6,9 @@
 
 Here you will find a list of TUI crates and applications that are made for or using [`ratatui`](https://crates.io/crates/ratatui) and [`tui`](https://crates.io/crates/tui).
 
+> [!IMPORTANT]
+> Adding a project? It needs to be established first: at least 30 days old with commits on at least 5 different days, or at least 50 stars. A check on your pull request measures this. See the [contribution guidelines](contributing.md).
+
 <!--lint disable awesome-toc-->
 
 ## Contents
