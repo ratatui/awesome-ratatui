@@ -16,6 +16,11 @@ Format:
 ```
 
 Ensure your pull request adheres to the following guidelines:
+- Projects need to be established. A check on your pull request measures this, and passes when either:
+  - the project is at least 30 days old, counted from when the repository was created or its first commit, whichever is later, and has commits on at least 5 different days; or
+  - the project has at least 50 stars.
+
+  If your project doesn't qualify yet, open the pull request once it does.
 - Make sure you put your project in the appropriate category.
 - Consider using the [crates.io](https://crates.io) link for libraries and widgets.
 - Check your spelling and grammar.

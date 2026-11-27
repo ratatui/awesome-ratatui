@@ -6,6 +6,8 @@
 
 * Screenshot or gif (strongly recommended): <!-- drag & drop or link -->
 
+* [ ] The project is at least 30 days old and has commits on at least 5 different days, or has at least 50 stars.
+
 <!--
 
 ### Tips 💡

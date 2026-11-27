@@ -1,0 +1,53 @@
+name: New entries
+
+# Checks that projects added to README.md are established enough to list. See
+# .github/scripts/check-new-entries.rs for the rules. A failure shows as a
+# normal check with a table in the job summary; a maintainer can still merge an
+# exception. The job only reads the repository and the public GitHub API, so it
+# runs on plain pull_request with a read-only token, including from forks.
+on:
+  pull_request:
+    branches: [main]
+    paths: [README.md]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pull-requests: read
+
+# Cargo scripts (`cargo -Zscript`) are still nightly-only. A dated nightly keeps
+# the build from breaking when nightly changes, and keeps the cache valid until
+# this date is bumped.
+env:
+  RUST_TOOLCHAIN: nightly-2026-11-25
+
+jobs:
+  check:
+    name: Check new entries
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Install Rust ${{ env.RUST_TOOLCHAIN }}
+        uses: dtolnay/rust-toolchain@df2a88e9fe4098bad09cb42c3dec7187f15861fc # master
+        with:
+          toolchain: ${{ env.RUST_TOOLCHAIN }}
+      # Cargo builds scripts under ~/.cargo/build, so caching it with the
+      # registry skips recompiling the dependencies on every run.
+      - name: Cache cargo script build
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/build
+          key: new-entries-${{ env.RUST_TOOLCHAIN }}-${{ hashFiles('.github/scripts/check-new-entries.rs') }}
+      - name: Check project age and activity
+        run: cargo "+$RUST_TOOLCHAIN" -Zscript .github/scripts/check-new-entries.rs "$PR_NUMBER"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
