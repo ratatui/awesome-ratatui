@@ -283,6 +283,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [raymon](https://github.com/bnomei/raymon) - A terminal UI and Model Context Protocol (MCP) server for receiving and searching Ray-style debug logs.
 - [Reeve](https://github.com/Dancode-188/reeve) - A terminal cockpit for AI agents: watch a run live, score it, and step in when it goes sideways.
 - [savras](https://github.com/Marijusaj/savras) - A side panel that sees every Claude Code session you have running: which are waiting on you, working, or done, with their PRs and context used.
+- [sbx-rust-tui](https://github.com/CamielYang/sbx-rust-tui) - A TUI for easily managing Docker Sandboxes and sandbox secrets.
 - [Stakpak](https://github.com/stakpak/agent) - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
 - [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) - Lightning fast terminal native agent harness with tools, extensions and subagents. 15MB, 2ms boot.
 - [tapin](https://github.com/Thevi99/tapin) - An inbox for your AI coding agents (Claude Code, Codex): approve requests, answer questions, and jump to the agent's pane.
