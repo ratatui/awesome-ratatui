@@ -256,7 +256,7 @@ fn write_summary(results: &[RepoResult], others: &[&str]) -> Result<()> {
         | Project | Age | Days with commits | Stars | Result |
         | --- | --- | --- | --- | --- |
         {rows}
-        Projects need to be at least {MIN_AGE_DAYS} days old, with commits on at least
+        Let it bake: projects need to be at least {MIN_AGE_DAYS} days old, with commits on at least
         {MIN_ACTIVE_DAYS} different days, when the pull request is opened, or have at
         least {MIN_STARS} stars. A maintainer can still merge an exception.
     "};
@@ -293,10 +293,11 @@ fn fail_if_any_problems(results: &[RepoResult]) -> Result<()> {
         return Ok(());
     }
     for result in &failed {
-        println!("::error::{}: {}", result.name, result.problems.join("; "));
+        let problems = result.problems.join("; ");
+        println!("::error::{} isn't quite baked yet: {problems}", result.name);
     }
     let count = plural(failed.len().try_into()?, "project");
-    bail!("{count} not established enough to list");
+    bail!("{count} not quite baked yet");
 }
 
 /// Formats a count with a word, adding "s" unless the count is 1: `1 day`, `5 days`.
